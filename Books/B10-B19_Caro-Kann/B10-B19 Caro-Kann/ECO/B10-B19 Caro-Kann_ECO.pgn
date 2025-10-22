@@ -1,0 +1,540 @@
+[Event "?"]
+[Site "Caro-Kann defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10"]
+[Black "B10"]
+[Result "*"]
+[ECO "B10"]
+
+{Caro-Kann defence} 
+1.e4 c6 *
+
+[Event "?"]
+[Site "Caro-Kann: Hillbilly attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10"]
+[Black "B10"]
+[Result "*"]
+[ECO "B10"]
+
+{Caro-Kann: Hillbilly attack} 
+1.e4 c6 2.Bc4 *
+
+[Event "?"]
+[Site "Caro-Kann: anti-Caro-Kann defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10"]
+[Black "B10"]
+[Result "*"]
+[ECO "B10"]
+
+{Caro-Kann: anti-Caro-Kann defence} 
+1.e4 c6 2.c4 *
+
+[Event "?"]
+[Site "Caro-Kann: anti-anti-Caro-Kann defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10"]
+[Black "B10"]
+[Result "*"]
+[ECO "B10"]
+
+{Caro-Kann: anti-anti-Caro-Kann defence} 
+1.e4 c6 2.c4 d5 *
+
+[Event "?"]
+[Site "Caro-Kann: closed (Breyer) variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10"]
+[Black "B10"]
+[Result "*"]
+[ECO "B10"]
+
+{Caro-Kann: closed (Breyer) variation} 
+1.e4 c6 2.d3 *
+
+[Event "?"]
+[Site "Caro-Kann defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10"]
+[Black "B10"]
+[Result "*"]
+[ECO "B10"]
+
+{Caro-Kann defence} 
+1.e4 c6 2.Nc3 *
+
+[Event "?"]
+[Site "Caro-Kann: Goldman (Spielmann) variati"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10"]
+[Black "B10"]
+[Result "*"]
+[ECO "B10"]
+
+{Caro-Kann: Goldman (Spielmann) variation} 
+1.e4 c6 2.Nc3 d5 3.Qf3 *
+
+[Event "?"]
+[Site "Caro-Kann: two knights variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10"]
+[Black "B10"]
+[Result "*"]
+[ECO "B10"]
+
+{Caro-Kann: two knights variation} 
+1.e4 c6 2.Nc3 d5 3.Nf3 *
+
+[Event "?"]
+[Site "Caro-Kann: two knights, 3...Bg4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11"]
+[Black "B11"]
+[Result "*"]
+[ECO "B11"]
+
+{Caro-Kann: two knights, 3...Bg4} 
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 *
+
+[Event "?"]
+[Site "Caro-Kann defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12"]
+[Black "B12"]
+[Result "*"]
+[ECO "B12"]
+
+{Caro-Kann defence} 
+1.e4 c6 2.d4 *
+
+[Event "?"]
+[Site "de Bruycker defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12"]
+[Black "B12"]
+[Result "*"]
+[ECO "B12"]
+
+{de Bruycker defence} 
+1.e4 c6 2.d4 Na6 3.Nc3 Nc7 *
+
+[Event "?"]
+[Site "Caro-Masi defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12"]
+[Black "B12"]
+[Result "*"]
+[ECO "B12"]
+
+{Caro-Masi defence} 
+1.e4 c6 2.d4 Nf6 *
+
+[Event "?"]
+[Site "Caro-Kann defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12"]
+[Black "B12"]
+[Result "*"]
+[ECO "B12"]
+
+{Caro-Kann defence} 
+1.e4 c6 2.d4 d5 *
+
+[Event "?"]
+[Site "Caro-Kann: Tartakower (fantasy) variat"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12"]
+[Black "B12"]
+[Result "*"]
+[ECO "B12"]
+
+{Caro-Kann: Tartakower (fantasy) variation} 
+1.e4 c6 2.d4 d5 3.f3 *
+
+[Event "?"]
+[Site "Caro-Kann: 3.Nd2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12"]
+[Black "B12"]
+[Result "*"]
+[ECO "B12"]
+
+{Caro-Kann: 3.Nd2} 
+1.e4 c6 2.d4 d5 3.Nd2 *
+
+[Event "?"]
+[Site "Caro-Kann: Edinburgh variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12"]
+[Black "B12"]
+[Result "*"]
+[ECO "B12"]
+
+{Caro-Kann: Edinburgh variation} 
+1.e4 c6 2.d4 d5 3.Nd2 Qb6 *
+
+[Event "?"]
+[Site "Caro-Kann: advance variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12"]
+[Black "B12"]
+[Result "*"]
+[ECO "B12"]
+
+{Caro-Kann: advance variation} 
+1.e4 c6 2.d4 d5 3.e5 *
+
+[Event "?"]
+[Site "Caro-Kann: advance, Short variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12"]
+[Black "B12"]
+[Result "*"]
+[ECO "B12"]
+
+{Caro-Kann: advance, Short variation} 
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.c3 e6 5.Be2 *
+
+[Event "?"]
+[Site "Caro-Kann: exchange variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13"]
+[Black "B13"]
+[Result "*"]
+[ECO "B13"]
+
+{Caro-Kann: exchange variation} 
+1.e4 c6 2.d4 d5 3.exd5 *
+
+[Event "?"]
+[Site "Caro-Kann: exchange, Rubinstein variat"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13"]
+[Black "B13"]
+[Result "*"]
+[ECO "B13"]
+
+{Caro-Kann: exchange, Rubinstein variation} 
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 *
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13"]
+[Black "B13"]
+[Result "*"]
+[ECO "B13"]
+
+{Caro-Kann: Panov-Botvinnik attack} 
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 *
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, Gunderam a"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13"]
+[Black "B13"]
+[Result "*"]
+[ECO "B13"]
+
+{Caro-Kann: Panov-Botvinnik, Gunderam attack} 
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.c5 *
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13"]
+[Black "B13"]
+[Result "*"]
+[ECO "B13"]
+
+{Caro-Kann: Panov-Botvinnik attack} 
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 *
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, Herzog def"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13"]
+[Black "B13"]
+[Result "*"]
+[ECO "B13"]
+
+{Caro-Kann: Panov-Botvinnik, Herzog defence} 
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 dxc4 7.d5 Na5 *
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, normal var"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13"]
+[Black "B13"]
+[Result "*"]
+[ECO "B13"]
+
+{Caro-Kann: Panov-Botvinnik, normal variation} 
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 e6 *
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, Czerniak v"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13"]
+[Black "B13"]
+[Result "*"]
+[ECO "B13"]
+
+{Caro-Kann: Panov-Botvinnik, Czerniak variation} 
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Qa5 *
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, Reifir (Sp"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13"]
+[Black "B13"]
+[Result "*"]
+[ECO "B13"]
+
+{Caro-Kann: Panov-Botvinnik, Reifir (Spielmann) variation} 
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Qb6 *
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik attack, 5.."]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14"]
+[Black "B14"]
+[Result "*"]
+[ECO "B14"]
+
+{Caro-Kann: Panov-Botvinnik attack, 5...e6} 
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 *
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik attack, 5.."]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14"]
+[Black "B14"]
+[Result "*"]
+[ECO "B14"]
+
+{Caro-Kann: Panov-Botvinnik attack, 5...g6} 
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 *
+
+[Event "?"]
+[Site "Caro-Kann defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15"]
+[Black "B15"]
+[Result "*"]
+[ECO "B15"]
+
+{Caro-Kann defence} 
+1.e4 c6 2.d4 d5 3.Nc3 *
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze counter-attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15"]
+[Black "B15"]
+[Result "*"]
+[ECO "B15"]
+
+{Caro-Kann: Gurgenidze counter-attack} 
+1.e4 c6 2.d4 d5 3.Nc3 b5 *
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze system"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15"]
+[Black "B15"]
+[Result "*"]
+[ECO "B15"]
+
+{Caro-Kann: Gurgenidze system} 
+1.e4 c6 2.d4 d5 3.Nc3 g6 *
+
+[Event "?"]
+[Site "Caro-Kann: Rasa-Studier gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15"]
+[Black "B15"]
+[Result "*"]
+[ECO "B15"]
+
+{Caro-Kann: Rasa-Studier gambit} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.f3 *
+
+[Event "?"]
+[Site "Caro-Kann defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15"]
+[Black "B15"]
+[Result "*"]
+[ECO "B15"]
+
+{Caro-Kann defence} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 *
+
+[Event "?"]
+[Site "Caro-Kann: Alekhine gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15"]
+[Black "B15"]
+[Result "*"]
+[ECO "B15"]
+
+{Caro-Kann: Alekhine gambit} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bd3 *
+
+[Event "?"]
+[Site "Caro-Kann: Tartakower (Nimzovich) vari"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15"]
+[Black "B15"]
+[Result "*"]
+[ECO "B15"]
+
+{Caro-Kann: Tartakower (Nimzovich) variation} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 *
+
+[Event "?"]
+[Site "Caro-Kann: Forgacs variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15"]
+[Black "B15"]
+[Result "*"]
+[ECO "B15"]
+
+{Caro-Kann: Forgacs variation} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Bc4 *
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16"]
+[Black "B16"]
+[Result "*"]
+[ECO "B16"]
+
+{Caro-Kann: Bronstein-Larsen variation} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 *
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17"]
+[Black "B17"]
+[Result "*"]
+[ECO "B17"]
+
+{Caro-Kann: Steinitz variation} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 *
+
+[Event "?"]
+[Site "Caro-Kann: classical variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18"]
+[Black "B18"]
+[Result "*"]
+[ECO "B18"]
+
+{Caro-Kann: classical variation} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 *
+
+[Event "?"]
+[Site "Caro-Kann: classical, Flohr variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18"]
+[Black "B18"]
+[Result "*"]
+[ECO "B18"]
+
+{Caro-Kann: classical, Flohr variation} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nh3 *
+
+[Event "?"]
+[Site "Caro-Kann: classical, Maroczy attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18"]
+[Black "B18"]
+[Result "*"]
+[ECO "B18"]
+
+{Caro-Kann: classical, Maroczy attack} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.f4 *
+
+[Event "?"]
+[Site "Caro-Kann: classical, 6.h4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18"]
+[Black "B18"]
+[Result "*"]
+[ECO "B18"]
+
+{Caro-Kann: classical, 6.h4} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 *
+
+[Event "?"]
+[Site "Caro-Kann: classical, 7...Nd7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19"]
+[Black "B19"]
+[Result "*"]
+[ECO "B19"]
+
+{Caro-Kann: classical, 7...Nd7} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 *
+
+[Event "?"]
+[Site "Caro-Kann: classical, Spassky variatio"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19"]
+[Black "B19"]
+[Result "*"]
+[ECO "B19"]
+
+{Caro-Kann: classical, Spassky variation} 
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 *
+

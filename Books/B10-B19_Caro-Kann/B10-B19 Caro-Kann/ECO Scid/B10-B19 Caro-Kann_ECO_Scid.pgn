@@ -1,0 +1,3933 @@
+[Event "?"]
+[Site "Caro-Kann"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10a"]
+[Black "B10a"]
+[Result "*"]
+[ECO "B10a"]
+[Opening "Caro-Kann"]
+
+1.e4 c6 
+    {Caro-Kann}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 2.Ne2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10a"]
+[Black "B10a"]
+[Result "*"]
+[ECO "B10a"]
+[Opening "Caro-Kann: 2.Ne2"]
+
+1.e4 c6 2.Ne2 
+    {Caro-Kann: 2.Ne2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 2.f4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10a"]
+[Black "B10a"]
+[Result "*"]
+[ECO "B10a"]
+[Opening "Caro-Kann: 2.f4"]
+
+1.e4 c6 2.f4 
+    {Caro-Kann: 2.f4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Breyer Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10b"]
+[Black "B10b"]
+[Result "*"]
+[ECO "B10b"]
+[Opening "Caro-Kann: Breyer Variation"]
+
+1.e4 c6 2.d3 
+    {Caro-Kann: Breyer Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Breyer Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10b"]
+[Black "B10b"]
+[Result "*"]
+[ECO "B10b"]
+[Opening "Caro-Kann: Breyer Variation"]
+
+1.e4 c6 2.d3 d5 
+    {Caro-Kann: Breyer Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Breyer, 3.Nd2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10c"]
+[Black "B10c"]
+[Result "*"]
+[ECO "B10c"]
+[Opening "Caro-Kann: Breyer, 3.Nd2"]
+
+1.e4 c6 2.d3 d5 3.Nd2 
+    {Caro-Kann: Breyer, 3.Nd2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Breyer, 3.Nd2 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10d"]
+[Black "B10d"]
+[Result "*"]
+[ECO "B10d"]
+[Opening "Caro-Kann: Breyer, 3.Nd2 g6"]
+
+1.e4 c6 2.d3 d5 3.Nd2 g6 
+    {Caro-Kann: Breyer, 3.Nd2 g6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Breyer, 3.Nd2 e5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10e"]
+[Black "B10e"]
+[Result "*"]
+[ECO "B10e"]
+[Opening "Caro-Kann: Breyer, 3.Nd2 e5"]
+
+1.e4 c6 2.d3 d5 3.Nd2 e5 
+    {Caro-Kann: Breyer, 3.Nd2 e5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Breyer, Main Line"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10f"]
+[Black "B10f"]
+[Result "*"]
+[ECO "B10f"]
+[Opening "Caro-Kann: Breyer, Main Line"]
+
+1.e4 c6 2.d3 d5 3.Nd2 e5 4.Ngf3 Bd6 5.g3 
+    {Caro-Kann: Breyer, Main Line}
+*
+
+[Event "?"]
+[Site "Caro-Kann: English Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10g"]
+[Black "B10g"]
+[Result "*"]
+[ECO "B10g"]
+[Opening "Caro-Kann: English Variation"]
+
+1.e4 c6 2.c4 
+    {Caro-Kann: English Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: English Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10h"]
+[Black "B10h"]
+[Result "*"]
+[ECO "B10h"]
+[Opening "Caro-Kann: English Variation"]
+
+1.e4 c6 2.c4 e5 
+    {Caro-Kann: English Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: English Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10i"]
+[Black "B10i"]
+[Result "*"]
+[ECO "B10i"]
+[Opening "Caro-Kann: English Variation"]
+
+1.e4 c6 2.c4 d5 
+    {Caro-Kann: English Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: English Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10i"]
+[Black "B10i"]
+[Result "*"]
+[ECO "B10i"]
+[Opening "Caro-Kann: English Variation"]
+
+1.e4 c6 2.c4 d5 3.cxd5 
+    {Caro-Kann: English Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: English Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10i"]
+[Black "B10i"]
+[Result "*"]
+[ECO "B10i"]
+[Opening "Caro-Kann: English Variation"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 
+    {Caro-Kann: English Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: English Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10i"]
+[Black "B10i"]
+[Result "*"]
+[ECO "B10i"]
+[Opening "Caro-Kann: English Variation"]
+
+1.e4 c6 2.c4 d5 3.exd5 
+    {Caro-Kann: English Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: English Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10i"]
+[Black "B10i"]
+[Result "*"]
+[ECO "B10i"]
+[Opening "Caro-Kann: English Variation"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 
+    {Caro-Kann: English Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: English, Exchange"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10j"]
+[Black "B10j"]
+[Result "*"]
+[ECO "B10j"]
+[Opening "Caro-Kann: English, Exchange"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.cxd5 
+    {Caro-Kann: English, Exchange}
+*
+
+[Event "?"]
+[Site "Caro-Kann: English, Exchange, 4...Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10k"]
+[Black "B10k"]
+[Result "*"]
+[ECO "B10k"]
+[Opening "Caro-Kann: English, Exchange, 4...Nf6"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.cxd5 Nf6 
+    {Caro-Kann: English, Exchange, 4...Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: English, Exchange, 4...Nf6 5.Bb5+"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10l"]
+[Black "B10l"]
+[Result "*"]
+[ECO "B10l"]
+[Opening "Caro-Kann: English, Exchange, 4...Nf6 5.Bb5+"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Bb5+ 
+    {Caro-Kann: English, Exchange, 4...Nf6 5.Bb5+}
+*
+
+[Event "?"]
+[Site "Caro-Kann: English, Exchange, 4...Nf6 5.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10m"]
+[Black "B10m"]
+[Result "*"]
+[ECO "B10m"]
+[Opening "Caro-Kann: English, Exchange, 4...Nf6 5.Nc3"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Nc3 
+    {Caro-Kann: English, Exchange, 4...Nf6 5.Nc3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: English, Exchange, 4...Nf6 5.Nc3 Nxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10n"]
+[Black "B10n"]
+[Result "*"]
+[ECO "B10n"]
+[Opening "Caro-Kann: English, Exchange, 4...Nf6 5.Nc3 Nxd5"]
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.cxd5 Nf6 5.Nc3 Nxd5 
+    {Caro-Kann: English, Exchange, 4...Nf6 5.Nc3 Nxd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 2.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10o"]
+[Black "B10o"]
+[Result "*"]
+[ECO "B10o"]
+[Opening "Caro-Kann: 2.Nf3"]
+
+1.e4 c6 2.Nf3 
+    {Caro-Kann: 2.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 2.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10p"]
+[Black "B10p"]
+[Result "*"]
+[ECO "B10p"]
+[Opening "Caro-Kann: 2.Nc3"]
+
+1.e4 c6 2.Nc3 
+    {Caro-Kann: 2.Nc3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 2.Nc3 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10q"]
+[Black "B10q"]
+[Result "*"]
+[ECO "B10q"]
+[Opening "Caro-Kann: 2.Nc3 d5"]
+
+1.e4 c6 2.Nc3 d5 
+    {Caro-Kann: 2.Nc3 d5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Goldman/Spielmann"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10r"]
+[Black "B10r"]
+[Result "*"]
+[ECO "B10r"]
+[Opening "Caro-Kann: Goldman/Spielmann"]
+
+1.e4 c6 2.Nc3 d5 3.Qf3 
+    {Caro-Kann: Goldman/Spielmann}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10s"]
+[Black "B10s"]
+[Result "*"]
+[ECO "B10s"]
+[Opening "Caro-Kann: Two Knights Variation"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 
+    {Caro-Kann: Two Knights Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...dxe4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10t"]
+[Black "B10t"]
+[Result "*"]
+[ECO "B10t"]
+[Opening "Caro-Kann: Two Knights, 3...dxe4"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 
+    {Caro-Kann: Two Knights, 3...dxe4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Hector Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10t"]
+[Black "B10t"]
+[Result "*"]
+[ECO "B10t"]
+[Opening "Caro-Kann: Hector Gambit"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Ng5 
+    {Caro-Kann: Hector Gambit}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...dxe4 4.Nxe4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10u"]
+[Black "B10u"]
+[Result "*"]
+[ECO "B10u"]
+[Opening "Caro-Kann: Two Knights, 3...dxe4 4.Nxe4"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 
+    {Caro-Kann: Two Knights, 3...dxe4 4.Nxe4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...dxe4 4.Nxe4 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B10v"]
+[Black "B10v"]
+[Result "*"]
+[ECO "B10v"]
+[Opening "Caro-Kann: Two Knights, 3...dxe4 4.Nxe4 Nf6"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 
+    {Caro-Kann: Two Knights, 3...dxe4 4.Nxe4 Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11a"]
+[Black "B11a"]
+[Result "*"]
+[ECO "B11a"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 
+    {Caro-Kann: Two Knights, 3...Bg4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11b"]
+[Black "B11b"]
+[Result "*"]
+[ECO "B11b"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bh5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11b"]
+[Black "B11b"]
+[Result "*"]
+[ECO "B11b"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bh5"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bh5 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bh5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bh5, 7.g4 Bg6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11c"]
+[Black "B11c"]
+[Result "*"]
+[ECO "B11c"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bh5, 7.g4 Bg6"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bh5 5.exd5 cxd5 6.Bb5+ Nc6 7.g4 Bg6 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bh5, 7.g4 Bg6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11d"]
+[Black "B11d"]
+[Result "*"]
+[ECO "B11d"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11d"]
+[Black "B11d"]
+[Result "*"]
+[ECO "B11d"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 dxe4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11e"]
+[Black "B11e"]
+[Result "*"]
+[ECO "B11e"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 dxe4"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 dxe4 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 dxe4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 dxe4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11e"]
+[Black "B11e"]
+[Result "*"]
+[ECO "B11e"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 dxe4"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 dxe4 6.Nxe4 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 dxe4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11f"]
+[Black "B11f"]
+[Result "*"]
+[ECO "B11f"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 Nf6"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 Nf6 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11g"]
+[Black "B11g"]
+[Result "*"]
+[ECO "B11g"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11h"]
+[Black "B11h"]
+[Result "*"]
+[ECO "B11h"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d4"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d4 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11i"]
+[Black "B11i"]
+[Result "*"]
+[ECO "B11i"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.g3"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.g3 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.g3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.g3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11i"]
+[Black "B11i"]
+[Result "*"]
+[ECO "B11i"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.g3 Nf6"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.g3 Nf6 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.g3 Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11j"]
+[Black "B11j"]
+[Result "*"]
+[ECO "B11j"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nd7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11k"]
+[Black "B11k"]
+[Result "*"]
+[ECO "B11k"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nd7"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nd7 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nd7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11l"]
+[Black "B11l"]
+[Result "*"]
+[ECO "B11l"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6 7.a3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11m"]
+[Black "B11m"]
+[Result "*"]
+[ECO "B11m"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6 7.a3"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6 7.a3 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6 7.a3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6 7.Bd2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B11n"]
+[Black "B11n"]
+[Result "*"]
+[ECO "B11n"]
+[Opening "Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6 7.Bd2"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6 7.Bd2 
+    {Caro-Kann: Two Knights, 3...Bg4 4.h3 Bxf3 5.Qxf3 e6 6.d3 Nf6 7.Bd2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 2.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12a"]
+[Black "B12a"]
+[Result "*"]
+[ECO "B12a"]
+[Opening "Caro-Kann: 2.d4"]
+
+1.e4 c6 2.d4 
+    {Caro-Kann: 2.d4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: de Bruycker Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12a"]
+[Black "B12a"]
+[Result "*"]
+[ECO "B12a"]
+[Opening "Caro-Kann: de Bruycker Defence"]
+
+1.e4 c6 2.d4 Na6 
+    {Caro-Kann: de Bruycker Defence}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Masi Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12a"]
+[Black "B12a"]
+[Result "*"]
+[ECO "B12a"]
+[Opening "Caro-Kann: Masi Defence"]
+
+1.e4 c6 2.d4 Nf6 
+    {Caro-Kann: Masi Defence}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 2.d4 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12b"]
+[Black "B12b"]
+[Result "*"]
+[ECO "B12b"]
+[Opening "Caro-Kann: 2.d4 d5"]
+
+1.e4 c6 2.d4 d5 
+    {Caro-Kann: 2.d4 d5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Ulysses Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12b"]
+[Black "B12b"]
+[Result "*"]
+[ECO "B12b"]
+[Opening "Caro-Kann: Ulysses Gambit"]
+
+1.e4 c6 2.d4 d5 3.Nf3 
+    {Caro-Kann: Ulysses Gambit}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Ulysses Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12b"]
+[Black "B12b"]
+[Result "*"]
+[ECO "B12b"]
+[Opening "Caro-Kann: Ulysses Gambit"]
+
+1.e4 c6 2.d4 d5 3.Nf3 dxe4 4.Ng5 
+    {Caro-Kann: Ulysses Gambit}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Mieses Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12c"]
+[Black "B12c"]
+[Result "*"]
+[ECO "B12c"]
+[Opening "Caro-Kann: Mieses Gambit"]
+
+1.e4 c6 2.d4 d5 3.Be3 
+    {Caro-Kann: Mieses Gambit}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Maroczy (Fantasy) Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12d"]
+[Black "B12d"]
+[Result "*"]
+[ECO "B12d"]
+[Opening "Caro-Kann: Maroczy (Fantasy) Variation"]
+
+1.e4 c6 2.d4 d5 3.f3 
+    {Caro-Kann: Maroczy (Fantasy) Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Maroczy (Fantasy), 3...e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12e"]
+[Black "B12e"]
+[Result "*"]
+[ECO "B12e"]
+[Opening "Caro-Kann: Maroczy (Fantasy), 3...e6"]
+
+1.e4 c6 2.d4 d5 3.f3 e6 
+    {Caro-Kann: Maroczy (Fantasy), 3...e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Maroczy (Fantasy), 3...dxe4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12f"]
+[Black "B12f"]
+[Result "*"]
+[ECO "B12f"]
+[Opening "Caro-Kann: Maroczy (Fantasy), 3...dxe4"]
+
+1.e4 c6 2.d4 d5 3.f3 dxe4 
+    {Caro-Kann: Maroczy (Fantasy), 3...dxe4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Maroczy (Fantasy), Gambit line"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12f"]
+[Black "B12f"]
+[Result "*"]
+[ECO "B12f"]
+[Opening "Caro-Kann: Maroczy (Fantasy), Gambit line"]
+
+1.e4 c6 2.d4 d5 3.f3 dxe4 4.fxe4 e5 5.Nf3 exd4 6.Bc4 
+    {Caro-Kann: Maroczy (Fantasy), Gambit line}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 3.Nd2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12g"]
+[Black "B12g"]
+[Result "*"]
+[ECO "B12g"]
+[Opening "Caro-Kann: 3.Nd2"]
+
+1.e4 c6 2.d4 d5 3.Nd2 
+    {Caro-Kann: 3.Nd2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 3.Nd2 dxe4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12g"]
+[Black "B12g"]
+[Result "*"]
+[ECO "B12g"]
+[Opening "Caro-Kann: 3.Nd2 dxe4"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 
+    {Caro-Kann: 3.Nd2 dxe4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Edinburgh Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12g"]
+[Black "B12g"]
+[Result "*"]
+[ECO "B12g"]
+[Opening "Caro-Kann: Edinburgh Variation"]
+
+1.e4 c6 2.d4 d5 3.Nd2 Qb6 
+    {Caro-Kann: Edinburgh Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12h"]
+[Black "B12h"]
+[Result "*"]
+[ECO "B12h"]
+[Opening "Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6"]
+
+1.e4 c6 2.d4 d5 3.Nd2 g6 
+    {Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6 4.Ngf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12h"]
+[Black "B12h"]
+[Result "*"]
+[ECO "B12h"]
+[Opening "Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6 4.Ngf3"]
+
+1.e4 c6 2.d4 d5 3.Nd2 g6 4.Ngf3 
+    {Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6 4.Ngf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6 4.Ngf3 Bg7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12h"]
+[Black "B12h"]
+[Result "*"]
+[ECO "B12h"]
+[Opening "Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6 4.Ngf3 Bg7"]
+
+1.e4 c6 2.d4 d5 3.Nd2 g6 4.Ngf3 Bg7 
+    {Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6 4.Ngf3 Bg7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6 4.Ngf3 Bg7 5.h3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12h"]
+[Black "B12h"]
+[Result "*"]
+[ECO "B12h"]
+[Opening "Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6 4.Ngf3 Bg7 5.h3"]
+
+1.e4 c6 2.d4 d5 3.Nd2 g6 4.Ngf3 Bg7 5.h3 
+    {Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6 4.Ngf3 Bg7 5.h3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6 4.Ngf3 Bg7 5.c3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12h"]
+[Black "B12h"]
+[Result "*"]
+[ECO "B12h"]
+[Opening "Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6 4.Ngf3 Bg7 5.c3"]
+
+1.e4 c6 2.d4 d5 3.Nd2 g6 4.Ngf3 Bg7 5.c3 
+    {Caro-Kann: Gurgenidze/Modern: 3.Nd2 g6 4.Ngf3 Bg7 5.c3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12i"]
+[Black "B12i"]
+[Result "*"]
+[ECO "B12i"]
+[Opening "Caro-Kann: Advance Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 
+    {Caro-Kann: Advance Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 3...c5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12j"]
+[Black "B12j"]
+[Result "*"]
+[ECO "B12j"]
+[Opening "Caro-Kann: Advance, 3...c5"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 
+    {Caro-Kann: Advance, 3...c5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 3...c5 4.dxc5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12j"]
+[Black "B12j"]
+[Result "*"]
+[ECO "B12j"]
+[Opening "Caro-Kann: Advance, 3...c5 4.dxc5"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 
+    {Caro-Kann: Advance, 3...c5 4.dxc5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 3...c5 4.dxc5 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12k"]
+[Black "B12k"]
+[Result "*"]
+[ECO "B12k"]
+[Opening "Caro-Kann: Advance, 3...c5 4.dxc5 Nc6"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 Nc6 
+    {Caro-Kann: Advance, 3...c5 4.dxc5 Nc6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 3...Bf5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12l"]
+[Black "B12l"]
+[Result "*"]
+[ECO "B12l"]
+[Opening "Caro-Kann: Advance, 3...Bf5"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 
+    {Caro-Kann: Advance, 3...Bf5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, Bayonet Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12l"]
+[Black "B12l"]
+[Result "*"]
+[ECO "B12l"]
+[Opening "Caro-Kann: Advance, Bayonet Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.g4 
+    {Caro-Kann: Advance, Bayonet Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.h4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12m"]
+[Black "B12m"]
+[Result "*"]
+[ECO "B12m"]
+[Opening "Caro-Kann: Advance, 4.h4"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 
+    {Caro-Kann: Advance, 4.h4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.c3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12n"]
+[Black "B12n"]
+[Result "*"]
+[ECO "B12n"]
+[Opening "Caro-Kann: Advance, 4.c3"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.c3 
+    {Caro-Kann: Advance, 4.c3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, Short Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12n"]
+[Black "B12n"]
+[Result "*"]
+[ECO "B12n"]
+[Opening "Caro-Kann: Advance, Short Variation"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.c3 e6 5.Be2 
+    {Caro-Kann: Advance, Short Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Bd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12o"]
+[Black "B12o"]
+[Result "*"]
+[ECO "B12o"]
+[Opening "Caro-Kann: Advance, 4.Bd3"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Bd3 
+    {Caro-Kann: Advance, 4.Bd3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12p"]
+[Black "B12p"]
+[Result "*"]
+[ECO "B12p"]
+[Opening "Caro-Kann: Advance, 4.Nf3"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 
+    {Caro-Kann: Advance, 4.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nf3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12p"]
+[Black "B12p"]
+[Result "*"]
+[ECO "B12p"]
+[Opening "Caro-Kann: Advance, 4.Nf3 e6"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 
+    {Caro-Kann: Advance, 4.Nf3 e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nf3 e6 5.Be2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12q"]
+[Black "B12q"]
+[Result "*"]
+[ECO "B12q"]
+[Opening "Caro-Kann: Advance, 4.Nf3 e6 5.Be2"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 
+    {Caro-Kann: Advance, 4.Nf3 e6 5.Be2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 Nd7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12r"]
+[Black "B12r"]
+[Result "*"]
+[ECO "B12r"]
+[Opening "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 Nd7"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 Nd7 
+    {Caro-Kann: Advance, 4.Nf3 e6 5.Be2 Nd7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12s"]
+[Black "B12s"]
+[Result "*"]
+[ECO "B12s"]
+[Opening "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 
+    {Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12t"]
+[Black "B12t"]
+[Result "*"]
+[ECO "B12t"]
+[Opening "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.O-O"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.O-O 
+    {Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.O-O}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12t"]
+[Black "B12t"]
+[Result "*"]
+[ECO "B12t"]
+[Opening "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.O-O"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.O-O Ne7 
+    {Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.O-O}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12t"]
+[Black "B12t"]
+[Result "*"]
+[ECO "B12t"]
+[Opening "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.O-O"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.O-O Nd7 
+    {Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.O-O}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.Be3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12u"]
+[Black "B12u"]
+[Result "*"]
+[ECO "B12u"]
+[Opening "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.Be3"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 
+    {Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.Be3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.Be3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12u"]
+[Black "B12u"]
+[Result "*"]
+[ECO "B12u"]
+[Opening "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.Be3"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 Ne7 
+    {Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.Be3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.Be3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12u"]
+[Black "B12u"]
+[Result "*"]
+[ECO "B12u"]
+[Opening "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.Be3"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 Nd7 
+    {Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.Be3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.Be3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12u"]
+[Black "B12u"]
+[Result "*"]
+[ECO "B12u"]
+[Opening "Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.Be3"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6 5.Be2 c5 6.Be3 Nd7 7.O-O 
+    {Caro-Kann: Advance, 4.Nf3 e6 5.Be2 c5 6.Be3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12v"]
+[Black "B12v"]
+[Result "*"]
+[ECO "B12v"]
+[Opening "Caro-Kann: Advance, 4.Nc3"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 
+    {Caro-Kann: Advance, 4.Nc3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nc3 h5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12v"]
+[Black "B12v"]
+[Result "*"]
+[ECO "B12v"]
+[Opening "Caro-Kann: Advance, 4.Nc3 h5"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 h5 
+    {Caro-Kann: Advance, 4.Nc3 h5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nc3 Qb6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12v"]
+[Black "B12v"]
+[Result "*"]
+[ECO "B12v"]
+[Opening "Caro-Kann: Advance, 4.Nc3 Qb6"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 Qb6 
+    {Caro-Kann: Advance, 4.Nc3 Qb6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, 4.Nc3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12v"]
+[Black "B12v"]
+[Result "*"]
+[ECO "B12v"]
+[Opening "Caro-Kann: Advance, 4.Nc3 e6"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 
+    {Caro-Kann: Advance, 4.Nc3 e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, Main Line"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12w"]
+[Black "B12w"]
+[Result "*"]
+[ECO "B12w"]
+[Opening "Caro-Kann: Advance, Main Line"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 
+    {Caro-Kann: Advance, Main Line}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, Main Line, 6.Nge2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12w"]
+[Black "B12w"]
+[Result "*"]
+[ECO "B12w"]
+[Opening "Caro-Kann: Advance, Main Line, 6.Nge2"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 
+    {Caro-Kann: Advance, Main Line, 6.Nge2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Advance, Main Line, 6.Nge2 c5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B12x"]
+[Black "B12x"]
+[Result "*"]
+[ECO "B12x"]
+[Opening "Caro-Kann: Advance, Main Line, 6.Nge2 c5"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nc3 e6 5.g4 Bg6 6.Nge2 c5 
+    {Caro-Kann: Advance, Main Line, 6.Nge2 c5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13a"]
+[Black "B13a"]
+[Result "*"]
+[ECO "B13a"]
+[Opening "Caro-Kann: Exchange Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 
+    {Caro-Kann: Exchange Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, 3...Qxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13a"]
+[Black "B13a"]
+[Result "*"]
+[ECO "B13a"]
+[Opening "Caro-Kann: Exchange, 3...Qxd5"]
+
+1.e4 c6 2.d4 d5 3.exd5 Qxd5 
+    {Caro-Kann: Exchange, 3...Qxd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, 3...cxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13b"]
+[Black "B13b"]
+[Result "*"]
+[ECO "B13b"]
+[Opening "Caro-Kann: Exchange, 3...cxd5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 
+    {Caro-Kann: Exchange, 3...cxd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, 4.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13c"]
+[Black "B13c"]
+[Result "*"]
+[ECO "B13c"]
+[Opening "Caro-Kann: Exchange, 4.Nf3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 
+    {Caro-Kann: Exchange, 4.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, 4.Nf3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13d"]
+[Black "B13d"]
+[Result "*"]
+[ECO "B13d"]
+[Opening "Caro-Kann: Exchange, 4.Nf3 Nf6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Nf3 Nf6 
+    {Caro-Kann: Exchange, 4.Nf3 Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, 4.Bd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13e"]
+[Black "B13e"]
+[Result "*"]
+[ECO "B13e"]
+[Opening "Caro-Kann: Exchange, 4.Bd3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 
+    {Caro-Kann: Exchange, 4.Bd3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, 4.Bd3 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13f"]
+[Black "B13f"]
+[Result "*"]
+[ECO "B13f"]
+[Opening "Caro-Kann: Exchange, 4.Bd3 Nc6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 
+    {Caro-Kann: Exchange, 4.Bd3 Nc6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, 4.Bd3 Nc6 5.c3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13f"]
+[Black "B13f"]
+[Result "*"]
+[ECO "B13f"]
+[Opening "Caro-Kann: Exchange, 4.Bd3 Nc6 5.c3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 
+    {Caro-Kann: Exchange, 4.Bd3 Nc6 5.c3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, 4.Bd3 Nc6 5.c3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13g"]
+[Black "B13g"]
+[Result "*"]
+[ECO "B13g"]
+[Opening "Caro-Kann: Exchange, 4.Bd3 Nc6 5.c3 g6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 g6 
+    {Caro-Kann: Exchange, 4.Bd3 Nc6 5.c3 g6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, 4.Bd3 Nc6 5.c3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13h"]
+[Black "B13h"]
+[Result "*"]
+[ECO "B13h"]
+[Opening "Caro-Kann: Exchange, 4.Bd3 Nc6 5.c3 Nf6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 
+    {Caro-Kann: Exchange, 4.Bd3 Nc6 5.c3 Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, 4.Bd3 Nc6 5.c3 Nf6 6.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13i"]
+[Black "B13i"]
+[Result "*"]
+[ECO "B13i"]
+[Opening "Caro-Kann: Exchange, 4.Bd3 Nc6 5.c3 Nf6 6.Nf3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Nf3 
+    {Caro-Kann: Exchange, 4.Bd3 Nc6 5.c3 Nf6 6.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, Rubinstein Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13j"]
+[Black "B13j"]
+[Result "*"]
+[ECO "B13j"]
+[Opening "Caro-Kann: Exchange, Rubinstein Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 
+    {Caro-Kann: Exchange, Rubinstein Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, Rubinstein, 6...Bg4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13k"]
+[Black "B13k"]
+[Result "*"]
+[ECO "B13k"]
+[Opening "Caro-Kann: Exchange, Rubinstein, 6...Bg4"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 Bg4 
+    {Caro-Kann: Exchange, Rubinstein, 6...Bg4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, Rubinstein, 7.Qb3 Qc8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13l"]
+[Black "B13l"]
+[Result "*"]
+[ECO "B13l"]
+[Opening "Caro-Kann: Exchange, Rubinstein, 7.Qb3 Qc8"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 Bg4 7.Qb3 Qc8 
+    {Caro-Kann: Exchange, Rubinstein, 7.Qb3 Qc8}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Exchange, Rubinstein, 7.Qb3 Qd7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13m"]
+[Black "B13m"]
+[Result "*"]
+[ECO "B13m"]
+[Opening "Caro-Kann: Exchange, Rubinstein, 7.Qb3 Qd7"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6 5.c3 Nf6 6.Bf4 Bg4 7.Qb3 Qd7 
+    {Caro-Kann: Exchange, Rubinstein, 7.Qb3 Qd7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik Attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13n"]
+[Black "B13n"]
+[Result "*"]
+[ECO "B13n"]
+[Opening "Caro-Kann: Panov-Botvinnik Attack"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 
+    {Caro-Kann: Panov-Botvinnik Attack}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 4...e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13n"]
+[Black "B13n"]
+[Result "*"]
+[ECO "B13n"]
+[Opening "Caro-Kann: Panov-Botvinnik, 4...e6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 e6 
+    {Caro-Kann: Panov-Botvinnik, 4...e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 4...Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13o"]
+[Black "B13o"]
+[Result "*"]
+[ECO "B13o"]
+[Opening "Caro-Kann: Panov-Botvinnik, 4...Nf6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 
+    {Caro-Kann: Panov-Botvinnik, 4...Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, Gunderam Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13o"]
+[Black "B13o"]
+[Result "*"]
+[ECO "B13o"]
+[Opening "Caro-Kann: Panov-Botvinnik, Gunderam Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.c5 
+    {Caro-Kann: Panov-Botvinnik, Gunderam Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13p"]
+[Black "B13p"]
+[Result "*"]
+[ECO "B13p"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5.Nc3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 
+    {Caro-Kann: Panov-Botvinnik, 5.Nc3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...dxc4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13p"]
+[Black "B13p"]
+[Result "*"]
+[ECO "B13p"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...dxc4"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 dxc4 
+    {Caro-Kann: Panov-Botvinnik, 5...dxc4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...dxc4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13p"]
+[Black "B13p"]
+[Result "*"]
+[ECO "B13p"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...dxc4"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 dxc4 6.Bxc4 
+    {Caro-Kann: Panov-Botvinnik, 5...dxc4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13q"]
+[Black "B13q"]
+[Result "*"]
+[ECO "B13q"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.cxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13q"]
+[Black "B13q"]
+[Result "*"]
+[ECO "B13q"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.cxd5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.cxd5 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6 6.cxd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.cxd5 Nxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13q"]
+[Black "B13q"]
+[Result "*"]
+[ECO "B13q"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.cxd5 Nxd5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.cxd5 Nxd5 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6 6.cxd5 Nxd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13r"]
+[Black "B13r"]
+[Result "*"]
+[ECO "B13r"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Nf3 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13s"]
+[Black "B13s"]
+[Result "*"]
+[ECO "B13s"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Nf3 Bg4 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13s"]
+[Black "B13s"]
+[Result "*"]
+[ECO "B13s"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Nf3 Bg4 7.cxd5 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13s"]
+[Black "B13s"]
+[Result "*"]
+[ECO "B13s"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Nf3 Bg4 7.cxd5 Nxd5 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4: 8.Qb3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13t"]
+[Black "B13t"]
+[Result "*"]
+[ECO "B13t"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4: 8.Qb3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Nf3 Bg4 7.cxd5 Nxd5 8.Qb3
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4: 8.Qb3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4: 9.gxf3 Nb6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13t"]
+[Black "B13t"]
+[Result "*"]
+[ECO "B13t"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4: 9.gxf3 Nb6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Nf3 Bg4 7.cxd5 Nxd5 8.Qb3
+Bxf3 9.gxf3 Nb6 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4: 9.gxf3 Nb6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4: Main Line"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13u"]
+[Black "B13u"]
+[Result "*"]
+[ECO "B13u"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4: Main Line"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Nf3 Bg4 7.cxd5 Nxd5 8.Qb3
+Bxf3 9.gxf3 e6 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Nf3 Bg4: Main Line}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Bg5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13v"]
+[Black "B13v"]
+[Result "*"]
+[ECO "B13v"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Bg5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Bg5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6, Spielmann Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13v"]
+[Black "B13v"]
+[Result "*"]
+[ECO "B13v"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6, Spielmann Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Qb6 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6, Spielmann Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Bg5 dxc4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13v"]
+[Black "B13v"]
+[Result "*"]
+[ECO "B13v"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Bg5 dxc4"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 dxc4 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Bg5 dxc4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6, Herzog Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13v"]
+[Black "B13v"]
+[Result "*"]
+[ECO "B13v"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6, Herzog Defence"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 dxc4 7.d5 Na5 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6, Herzog Defence}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6, Czerniak Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13w"]
+[Black "B13w"]
+[Result "*"]
+[ECO "B13w"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6, Czerniak Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Qa5 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6, Czerniak Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Bg5 Be6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13x"]
+[Black "B13x"]
+[Result "*"]
+[ECO "B13x"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Bg5 Be6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 Be6 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6 6.Bg5 Be6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13y"]
+[Black "B13y"]
+[Result "*"]
+[ECO "B13y"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 e6 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13y"]
+[Black "B13y"]
+[Result "*"]
+[ECO "B13y"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nf3 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13y"]
+[Black "B13y"]
+[Result "*"]
+[ECO "B13y"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nf3 Be7 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variaiton, 8.c5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13z"]
+[Black "B13z"]
+[Result "*"]
+[ECO "B13z"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variaiton, 8.c5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nf3 Be7 8.c5 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variaiton, 8.c5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation, 8.c5 O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13z"]
+[Black "B13z"]
+[Result "*"]
+[ECO "B13z"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation, 8.c5 O-O"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nf3 Be7 8.c5 O-O
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation, 8.c5 O-O}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation, 8.c5 O-O 9.Bb5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B13z"]
+[Black "B13z"]
+[Result "*"]
+[ECO "B13z"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation, 8.c5 O-O 9.Bb5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nf3 Be7 8.c5 O-O
+9.Bb5 
+    {Caro-Kann: Panov-Botvinnik, 5...Nc6, Normal Variation, 8.c5 O-O 9.Bb5
+    }
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14a"]
+[Black "B14a"]
+[Result "*"]
+[ECO "B14a"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...g6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 
+    {Caro-Kann: Panov-Botvinnik, 5...g6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...g6 6.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14a"]
+[Black "B14a"]
+[Result "*"]
+[ECO "B14a"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...g6 6.Nf3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.Nf3 
+    {Caro-Kann: Panov-Botvinnik, 5...g6 6.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14b"]
+[Black "B14b"]
+[Result "*"]
+[ECO "B14b"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.cxd5 
+    {Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5 Nxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14c"]
+[Black "B14c"]
+[Result "*"]
+[ECO "B14c"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5 Nxd5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.cxd5 Nxd5 
+    {Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5 Nxd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5 Nxd5 7.Bc4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14d"]
+[Black "B14d"]
+[Result "*"]
+[ECO "B14d"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5 Nxd5 7.Bc4"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.cxd5 Nxd5 7.Bc4 
+    {Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5 Nxd5 7.Bc4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5 Bg7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14e"]
+[Black "B14e"]
+[Result "*"]
+[ECO "B14e"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5 Bg7"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.cxd5 Bg7 
+    {Caro-Kann: Panov-Botvinnik, 5...g6 6.cxd5 Bg7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...g6 6.Qb3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14f"]
+[Black "B14f"]
+[Result "*"]
+[ECO "B14f"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...g6 6.Qb3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.Qb3 
+    {Caro-Kann: Panov-Botvinnik, 5...g6 6.Qb3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...g6 6.Qb3 Bg7 7.cxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14f"]
+[Black "B14f"]
+[Result "*"]
+[ECO "B14f"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...g6 6.Qb3 Bg7 7.cxd5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.Qb3 Bg7 7.cxd5 
+    {Caro-Kann: Panov-Botvinnik, 5...g6 6.Qb3 Bg7 7.cxd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...g6, Main Line"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14f"]
+[Black "B14f"]
+[Result "*"]
+[ECO "B14f"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...g6, Main Line"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.Qb3 Bg7 7.cxd5 O-O 
+    {Caro-Kann: Panov-Botvinnik, 5...g6, Main Line}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...g6, Main Line, 8.Be2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14g"]
+[Black "B14g"]
+[Result "*"]
+[ECO "B14g"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...g6, Main Line, 8.Be2"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.Qb3 Bg7 7.cxd5 O-O 8.Be2 
+    {Caro-Kann: Panov-Botvinnik, 5...g6, Main Line, 8.Be2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...g6, Main Line, 8.Be2 Nbd7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14h"]
+[Black "B14h"]
+[Result "*"]
+[ECO "B14h"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...g6, Main Line, 8.Be2 Nbd7"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 g6 6.Qb3 Bg7 7.cxd5 O-O 8.Be2 
+Nbd7 
+    {Caro-Kann: Panov-Botvinnik, 5...g6, Main Line, 8.Be2 Nbd7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14i"]
+[Black "B14i"]
+[Result "*"]
+[ECO "B14i"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 
+    {Caro-Kann: Panov-Botvinnik, 5...e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14j"]
+[Black "B14j"]
+[Result "*"]
+[ECO "B14j"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14j"]
+[Black "B14j"]
+[Result "*"]
+[ECO "B14j"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Nc6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Nc6 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Nc6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14k"]
+[Black "B14k"]
+[Result "*"]
+[ECO "B14k"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Be7 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7 7.Bd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14l"]
+[Black "B14l"]
+[Result "*"]
+[ECO "B14l"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7 7.Bd3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Be7 7.Bd3 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7 7.Bd3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7 7.cxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14m"]
+[Black "B14m"]
+[Result "*"]
+[ECO "B14m"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7 7.cxd5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Be7 7.cxd5 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7 7.cxd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7 7.cxd5 Nxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14n"]
+[Black "B14n"]
+[Result "*"]
+[ECO "B14n"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7 7.cxd5 Nxd5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Be7 7.cxd5 Nxd5 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7 7.cxd5 Nxd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7 7.cxd5 Nxd5 8.Bd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14o"]
+[Black "B14o"]
+[Result "*"]
+[ECO "B14o"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7 7.cxd5 Nxd5 8.Bd3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Be7 7.cxd5 Nxd5 8.Bd3 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Be7 7.cxd5 Nxd5 8.Bd3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14p"]
+[Black "B14p"]
+[Result "*"]
+[ECO "B14p"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 exd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14q"]
+[Black "B14q"]
+[Result "*"]
+[ECO "B14q"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 exd5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 exd5 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 exd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14r"]
+[Black "B14r"]
+[Result "*"]
+[ECO "B14r"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14s"]
+[Black "B14s"]
+[Result "*"]
+[ECO "B14s"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14t"]
+[Black "B14t"]
+[Result "*"]
+[ECO "B14t"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 Nc6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 
+Nc6 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 Nc6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 Nc6 9.Bd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14u"]
+[Black "B14u"]
+[Result "*"]
+[ECO "B14u"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 Nc6 9.Bd3"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 
+Nc6 9.Bd3 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Qc2 Nc6 
+    9.Bd3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14v"]
+[Black "B14v"]
+[Result "*"]
+[ECO "B14v"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14w"]
+[Black "B14w"]
+[Result "*"]
+[ECO "B14w"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2 Nc6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2 
+Nc6 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2 Nc6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B14x"]
+[Black "B14x"]
+[Result "*"]
+[ECO "B14x"]
+[Opening "Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2 Nc6"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Nf6 5.Nc3 e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2 
+Nc6 9.Bd3 O-O 
+    {Caro-Kann: Panov-Botvinnik, 5...e6 6.Nf3 Bb4 7.cxd5 Nxd5 8.Bd2 Nc6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 3.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15a"]
+[Black "B15a"]
+[Result "*"]
+[ECO "B15a"]
+[Opening "Caro-Kann: 3.Nc3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 
+    {Caro-Kann: 3.Nc3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze Counterattack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15b"]
+[Black "B15b"]
+[Result "*"]
+[ECO "B15b"]
+[Opening "Caro-Kann: Gurgenidze Counterattack"]
+
+1.e4 c6 2.d4 d5 3.Nc3 b5 
+    {Caro-Kann: Gurgenidze Counterattack}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze/Modern"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15c"]
+[Black "B15c"]
+[Result "*"]
+[ECO "B15c"]
+[Opening "Caro-Kann: Gurgenidze/Modern"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 
+    {Caro-Kann: Gurgenidze/Modern}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.Be3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15d"]
+[Black "B15d"]
+[Result "*"]
+[ECO "B15d"]
+[Opening "Caro-Kann: Gurgenidze: 4.Be3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.Be3 
+    {Caro-Kann: Gurgenidze: 4.Be3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.Be3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15d"]
+[Black "B15d"]
+[Result "*"]
+[ECO "B15d"]
+[Opening "Caro-Kann: Gurgenidze: 4.Be3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.Be3 Bg7 
+    {Caro-Kann: Gurgenidze: 4.Be3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.h3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15e"]
+[Black "B15e"]
+[Result "*"]
+[ECO "B15e"]
+[Opening "Caro-Kann: Gurgenidze: 4.h3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.h3 
+    {Caro-Kann: Gurgenidze: 4.h3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.h3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15e"]
+[Black "B15e"]
+[Result "*"]
+[ECO "B15e"]
+[Opening "Caro-Kann: Gurgenidze: 4.h3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.h3 Bg7 
+    {Caro-Kann: Gurgenidze: 4.h3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.e5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15f"]
+[Black "B15f"]
+[Result "*"]
+[ECO "B15f"]
+[Opening "Caro-Kann: Gurgenidze: 4.e5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.e5 
+    {Caro-Kann: Gurgenidze: 4.e5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.e5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15f"]
+[Black "B15f"]
+[Result "*"]
+[ECO "B15f"]
+[Opening "Caro-Kann: Gurgenidze: 4.e5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.e5 Bg7 
+    {Caro-Kann: Gurgenidze: 4.e5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15g"]
+[Black "B15g"]
+[Result "*"]
+[ECO "B15g"]
+[Opening "Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.e5 Bg7 5.f4 
+    {Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4 Nh6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15g"]
+[Black "B15g"]
+[Result "*"]
+[ECO "B15g"]
+[Opening "Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4 Nh6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.e5 Bg7 5.f4 Nh6 
+    {Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4 Nh6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4 h5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15h"]
+[Black "B15h"]
+[Result "*"]
+[ECO "B15h"]
+[Opening "Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4 h5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.e5 Bg7 5.f4 h5 
+    {Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4 h5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4 h5 6.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15i"]
+[Black "B15i"]
+[Result "*"]
+[ECO "B15i"]
+[Opening "Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4 h5 6.Nf3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.e5 Bg7 5.f4 h5 6.Nf3 
+    {Caro-Kann: Gurgenidze: 4.e5 Bg7 5.f4 h5 6.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15j"]
+[Black "B15j"]
+[Result "*"]
+[ECO "B15j"]
+[Opening "Caro-Kann: Gurgenidze: 4.Nf3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.Nf3 
+    {Caro-Kann: Gurgenidze: 4.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.Nf3 Bg7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15k"]
+[Black "B15k"]
+[Result "*"]
+[ECO "B15k"]
+[Opening "Caro-Kann: Gurgenidze: 4.Nf3 Bg7"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.Nf3 Bg7 
+    {Caro-Kann: Gurgenidze: 4.Nf3 Bg7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.exd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15k"]
+[Black "B15k"]
+[Result "*"]
+[ECO "B15k"]
+[Opening "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.exd5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.Nf3 Bg7 5.exd5 
+    {Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.exd5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.e5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15k"]
+[Black "B15k"]
+[Result "*"]
+[ECO "B15k"]
+[Opening "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.e5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.Nf3 Bg7 5.e5 
+    {Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.e5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15l"]
+[Black "B15l"]
+[Result "*"]
+[ECO "B15l"]
+[Opening "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.Nf3 Bg7 5.h3 
+    {Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3 dxe4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15m"]
+[Black "B15m"]
+[Result "*"]
+[ECO "B15m"]
+[Opening "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3 dxe4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.Nf3 Bg7 5.h3 dxe4 
+    {Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3 dxe4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3 dxe4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15m"]
+[Black "B15m"]
+[Result "*"]
+[ECO "B15m"]
+[Opening "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3 dxe4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.Nf3 Bg7 5.h3 dxe4 6.Nxe4 
+    {Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3 dxe4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15n"]
+[Black "B15n"]
+[Result "*"]
+[ECO "B15n"]
+[Opening "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3 Nf6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.Nf3 Bg7 5.h3 Nf6 
+    {Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3 Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3 Nf6 6.e5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15o"]
+[Black "B15o"]
+[Result "*"]
+[ECO "B15o"]
+[Opening "Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3 Nf6 6.e5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 g6 4.Nf3 Bg7 5.h3 Nf6 6.e5 
+    {Caro-Kann: Gurgenidze: 4.Nf3 Bg7 5.h3 Nf6 6.e5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 3.Nc3 dxe4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15p"]
+[Black "B15p"]
+[Result "*"]
+[ECO "B15p"]
+[Opening "Caro-Kann: 3.Nc3 dxe4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 
+    {Caro-Kann: 3.Nc3 dxe4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Rasa-Studier Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15p"]
+[Black "B15p"]
+[Result "*"]
+[ECO "B15p"]
+[Opening "Caro-Kann: Rasa-Studier Gambit"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.f3 
+    {Caro-Kann: Rasa-Studier Gambit}
+*
+
+[Event "?"]
+[Site "Caro-Kann: von Hennig Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15p"]
+[Black "B15p"]
+[Result "*"]
+[ECO "B15p"]
+[Opening "Caro-Kann: von Hennig Gambit"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Bc4 
+    {Caro-Kann: von Hennig Gambit}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 4.Nxe4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15q"]
+[Black "B15q"]
+[Result "*"]
+[ECO "B15q"]
+[Opening "Caro-Kann: 4.Nxe4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 
+    {Caro-Kann: 4.Nxe4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 4.Nxe4 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15r"]
+[Black "B15r"]
+[Result "*"]
+[ECO "B15r"]
+[Opening "Caro-Kann: 4.Nxe4 Nf6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 
+    {Caro-Kann: 4.Nxe4 Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 4.Nxe4 Nf6 5.f3 Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15r"]
+[Black "B15r"]
+[Result "*"]
+[ECO "B15r"]
+[Opening "Caro-Kann: 4.Nxe4 Nf6 5.f3 Gambit"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.f3 
+    {Caro-Kann: 4.Nxe4 Nf6 5.f3 Gambit}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Alekhine Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15r"]
+[Black "B15r"]
+[Result "*"]
+[ECO "B15r"]
+[Opening "Caro-Kann: Alekhine Gambit"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Bd3 
+    {Caro-Kann: Alekhine Gambit}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 4.Nxe4 Nf6 5.Ng3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15s"]
+[Black "B15s"]
+[Result "*"]
+[ECO "B15s"]
+[Opening "Caro-Kann: 4.Nxe4 Nf6 5.Ng3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Ng3 
+    {Caro-Kann: 4.Nxe4 Nf6 5.Ng3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: 4.Nxe4 Nf6 5.Nxf6+"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15t"]
+[Black "B15t"]
+[Result "*"]
+[ECO "B15t"]
+[Opening "Caro-Kann: 4.Nxe4 Nf6 5.Nxf6+"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ 
+    {Caro-Kann: 4.Nxe4 Nf6 5.Nxf6+}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Tartakower (Nimzowitsch) Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15t"]
+[Black "B15t"]
+[Result "*"]
+[ECO "B15t"]
+[Opening "Caro-Kann: Tartakower (Nimzowitsch) Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 
+    {Caro-Kann: Tartakower (Nimzowitsch) Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Tartakower, Forgacs Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15u"]
+[Black "B15u"]
+[Result "*"]
+[ECO "B15u"]
+[Opening "Caro-Kann: Tartakower, Forgacs Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.Bc4 
+    {Caro-Kann: Tartakower, Forgacs Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Tartakower, 6.c3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B15v"]
+[Black "B15v"]
+[Result "*"]
+[ECO "B15v"]
+[Opening "Caro-Kann: Tartakower, 6.c3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ exf6 6.c3 
+    {Caro-Kann: Tartakower, 6.c3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16a"]
+[Black "B16a"]
+[Result "*"]
+[ECO "B16a"]
+[Opening "Caro-Kann: Bronstein-Larsen"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 
+    {Caro-Kann: Bronstein-Larsen}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.Qd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16b"]
+[Black "B16b"]
+[Result "*"]
+[ECO "B16b"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.Qd3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.Qd3 
+    {Caro-Kann: Bronstein-Larsen, 6.Qd3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.Ne2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16c"]
+[Black "B16c"]
+[Result "*"]
+[ECO "B16c"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.Ne2"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.Ne2 
+    {Caro-Kann: Bronstein-Larsen, 6.Ne2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.Bc4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16d"]
+[Black "B16d"]
+[Result "*"]
+[ECO "B16d"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.Bc4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.Bc4 
+    {Caro-Kann: Bronstein-Larsen, 6.Bc4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16e"]
+[Black "B16e"]
+[Result "*"]
+[ECO "B16e"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.Nf3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.Nf3 
+    {Caro-Kann: Bronstein-Larsen, 6.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.Nf3 Bf5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16f"]
+[Black "B16f"]
+[Result "*"]
+[ECO "B16f"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.Nf3 Bf5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.Nf3 Bf5 
+    {Caro-Kann: Bronstein-Larsen, 6.Nf3 Bf5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.Nf3 Bg4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16g"]
+[Black "B16g"]
+[Result "*"]
+[ECO "B16g"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.Nf3 Bg4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.Nf3 Bg4 
+    {Caro-Kann: Bronstein-Larsen, 6.Nf3 Bg4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.Nf3 Bg4 7.Be2 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16h"]
+[Black "B16h"]
+[Result "*"]
+[ECO "B16h"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.Nf3 Bg4 7.Be2 e6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.Nf3 Bg4 7.Be2 e6 
+    {Caro-Kann: Bronstein-Larsen, 6.Nf3 Bg4 7.Be2 e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.c3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16i"]
+[Black "B16i"]
+[Result "*"]
+[ECO "B16i"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.c3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.c3 
+    {Caro-Kann: Bronstein-Larsen, 6.c3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.c3 Bf5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16j"]
+[Black "B16j"]
+[Result "*"]
+[ECO "B16j"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.c3 Bf5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.c3 Bf5 
+    {Caro-Kann: Bronstein-Larsen, 6.c3 Bf5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.c3 Bf5 7.Ne2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16k"]
+[Black "B16k"]
+[Result "*"]
+[ECO "B16k"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.c3 Bf5 7.Ne2"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.c3 Bf5 7.Ne2 
+    {Caro-Kann: Bronstein-Larsen, 6.c3 Bf5 7.Ne2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.c3 Bf5 7.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16l"]
+[Black "B16l"]
+[Result "*"]
+[ECO "B16l"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.c3 Bf5 7.Nf3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.c3 Bf5 7.Nf3 
+    {Caro-Kann: Bronstein-Larsen, 6.c3 Bf5 7.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.c3 Bf5 7.Nf3 Qc7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16m"]
+[Black "B16m"]
+[Result "*"]
+[ECO "B16m"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.c3 Bf5 7.Nf3 Qc7"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.c3 Bf5 7.Nf3 Qc7 
+    {Caro-Kann: Bronstein-Larsen, 6.c3 Bf5 7.Nf3 Qc7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Bronstein-Larsen, 6.c3 Bf5 7.Nf3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B16n"]
+[Black "B16n"]
+[Result "*"]
+[ECO "B16n"]
+[Opening "Caro-Kann: Bronstein-Larsen, 6.c3 Bf5 7.Nf3 e6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6 5.Nxf6+ gxf6 6.c3 Bf5 7.Nf3 e6 
+    {Caro-Kann: Bronstein-Larsen, 6.c3 Bf5 7.Nf3 e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17a"]
+[Black "B17a"]
+[Result "*"]
+[ECO "B17a"]
+[Opening "Caro-Kann: Steinitz Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 
+    {Caro-Kann: Steinitz Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17b"]
+[Black "B17b"]
+[Result "*"]
+[ECO "B17b"]
+[Opening "Caro-Kann: Steinitz, 5.Nf3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 
+    {Caro-Kann: Steinitz, 5.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Nf3 Ngf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17c"]
+[Black "B17c"]
+[Result "*"]
+[ECO "B17c"]
+[Opening "Caro-Kann: Steinitz, 5.Nf3 Ngf6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 
+    {Caro-Kann: Steinitz, 5.Nf3 Ngf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Nxf6+"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17d"]
+[Black "B17d"]
+[Result "*"]
+[ECO "B17d"]
+[Opening "Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Nxf6+"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ 
+    {Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Nxf6+}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Bc4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17e"]
+[Black "B17e"]
+[Result "*"]
+[ECO "B17e"]
+[Opening "Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Bc4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Bc4 
+    {Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Nxf6+ Nxf6 7.Bc4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Ng3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17f"]
+[Black "B17f"]
+[Result "*"]
+[ECO "B17f"]
+[Opening "Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Ng3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Ng3 
+    {Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Ng3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Ng3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17g"]
+[Black "B17g"]
+[Result "*"]
+[ECO "B17g"]
+[Opening "Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Ng3 e6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Ng3 e6 
+    {Caro-Kann: Steinitz, 5.Nf3 Ngf6 6.Ng3 e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Ng5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17h"]
+[Black "B17h"]
+[Result "*"]
+[ECO "B17h"]
+[Opening "Caro-Kann: Steinitz, 5.Ng5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 
+    {Caro-Kann: Steinitz, 5.Ng5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Ng5 Ngf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17i"]
+[Black "B17i"]
+[Result "*"]
+[ECO "B17i"]
+[Opening "Caro-Kann: Steinitz, 5.Ng5 Ngf6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 
+    {Caro-Kann: Steinitz, 5.Ng5 Ngf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17j"]
+[Black "B17j"]
+[Result "*"]
+[ECO "B17j"]
+[Opening "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 
+    {Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17k"]
+[Black "B17k"]
+[Result "*"]
+[ECO "B17k"]
+[Opening "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3 e6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 
+    {Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3 e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17l"]
+[Black "B17l"]
+[Result "*"]
+[ECO "B17l"]
+[Opening "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2
+    {Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3, Main Line 10.Qxe4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17m"]
+[Black "B17m"]
+[Result "*"]
+[ECO "B17m"]
+[Opening "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3, Main Line 10.Qxe4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2
+h6 9.Ne4 Nxe4 10.Qxe4 
+    {Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3, Main Line 10.Qxe4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3, Main Line 10.Qxe4 Qc7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17n"]
+[Black "B17n"]
+[Result "*"]
+[ECO "B17n"]
+[Opening "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3, Main Line 10.Qxe4 Qc7"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2
+h6 9.Ne4 Nxe4 10.Qxe4 Qc7 
+    {Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3, Main Line 10.Qxe4 Qc7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3, Main Line 10.Qxe4 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17o"]
+[Black "B17o"]
+[Result "*"]
+[ECO "B17o"]
+[Opening "Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3, Main Line 10.Qxe4 Nf6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Ng5 Ngf6 6.Bd3 e6 7.N1f3 Bd6 8.Qe2
+h6 9.Ne4 Nxe4 10.Qxe4 Nf6 
+    {Caro-Kann: Steinitz, 5.Ng5 Ngf6 6.Bd3, Main Line 10.Qxe4 Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Bc4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17p"]
+[Black "B17p"]
+[Result "*"]
+[ECO "B17p"]
+[Opening "Caro-Kann: Steinitz, 5.Bc4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 
+    {Caro-Kann: Steinitz, 5.Bc4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Bc4 Ngf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17q"]
+[Black "B17q"]
+[Result "*"]
+[ECO "B17q"]
+[Opening "Caro-Kann: Steinitz, 5.Bc4 Ngf6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 
+    {Caro-Kann: Steinitz, 5.Bc4 Ngf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17r"]
+[Black "B17r"]
+[Result "*"]
+[ECO "B17r"]
+[Opening "Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Ng5 
+    {Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5, 8.Bb3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17s"]
+[Black "B17s"]
+[Result "*"]
+[ECO "B17s"]
+[Opening "Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5, 8.Bb3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Ng5 e6 7.Qe2 Nb6 8.Bb3 
+    {Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5, 8.Bb3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5, 8.Bd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17t"]
+[Black "B17t"]
+[Result "*"]
+[ECO "B17t"]
+[Opening "Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5, 8.Bd3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Ng5 e6 7.Qe2 Nb6 8.Bd3 
+    {Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5, 8.Bd3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5, 8.Bd3 h6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B17u"]
+[Black "B17u"]
+[Result "*"]
+[ECO "B17u"]
+[Opening "Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5, 8.Bd3 h6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Bc4 Ngf6 6.Ng5 e6 7.Qe2 Nb6 8.Bd3 
+h6 
+    {Caro-Kann: Steinitz, 5.Bc4 Ngf6 6.Ng5, 8.Bd3 h6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18a"]
+[Black "B18a"]
+[Result "*"]
+[ECO "B18a"]
+[Opening "Caro-Kann: Classical"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 
+    {Caro-Kann: Classical}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 5.Nc5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18b"]
+[Black "B18b"]
+[Result "*"]
+[ECO "B18b"]
+[Opening "Caro-Kann: Classical, 5.Nc5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Nc5 
+    {Caro-Kann: Classical, 5.Nc5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 5.Nc5 b6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18c"]
+[Black "B18c"]
+[Result "*"]
+[ECO "B18c"]
+[Opening "Caro-Kann: Classical, 5.Nc5 b6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Nc5 b6 
+    {Caro-Kann: Classical, 5.Nc5 b6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 5.Ng3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18d"]
+[Black "B18d"]
+[Result "*"]
+[ECO "B18d"]
+[Opening "Caro-Kann: Classical, 5.Ng3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 
+    {Caro-Kann: Classical, 5.Ng3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 5.Ng3 Bg6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18e"]
+[Black "B18e"]
+[Result "*"]
+[ECO "B18e"]
+[Opening "Caro-Kann: Classical, 5.Ng3 Bg6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 
+    {Caro-Kann: Classical, 5.Ng3 Bg6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Maroczy Attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18f"]
+[Black "B18f"]
+[Result "*"]
+[ECO "B18f"]
+[Opening "Caro-Kann: Classical, Maroczy Attack"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.f4 
+    {Caro-Kann: Classical, Maroczy Attack}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Flohr Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18g"]
+[Black "B18g"]
+[Result "*"]
+[ECO "B18g"]
+[Opening "Caro-Kann: Classical, Flohr Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nh3 
+    {Caro-Kann: Classical, Flohr Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.N1e2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18h"]
+[Black "B18h"]
+[Result "*"]
+[ECO "B18h"]
+[Opening "Caro-Kann: Classical, 6.N1e2"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.N1e2 
+    {Caro-Kann: Classical, 6.N1e2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.Bc4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18i"]
+[Black "B18i"]
+[Result "*"]
+[ECO "B18i"]
+[Opening "Caro-Kann: Classical, 6.Bc4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Bc4 
+    {Caro-Kann: Classical, 6.Bc4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.Bc4 e6 7.N1e2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18j"]
+[Black "B18j"]
+[Result "*"]
+[ECO "B18j"]
+[Opening "Caro-Kann: Classical, 6.Bc4 e6 7.N1e2"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Bc4 e6 7.N1e2 
+    {Caro-Kann: Classical, 6.Bc4 e6 7.N1e2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.Bc4 e6 7.N1e2 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18k"]
+[Black "B18k"]
+[Result "*"]
+[ECO "B18k"]
+[Opening "Caro-Kann: Classical, 6.Bc4 e6 7.N1e2 Nf6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Bc4 e6 7.N1e2 Nf6 
+    {Caro-Kann: Classical, 6.Bc4 e6 7.N1e2 Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18l"]
+[Black "B18l"]
+[Result "*"]
+[ECO "B18l"]
+[Opening "Caro-Kann: Classical, 6.Nf3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 
+    {Caro-Kann: Classical, 6.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.Nf3 Nd7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18m"]
+[Black "B18m"]
+[Result "*"]
+[ECO "B18m"]
+[Opening "Caro-Kann: Classical, 6.Nf3 Nd7"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 
+    {Caro-Kann: Classical, 6.Nf3 Nd7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.Nf3 Nd7 7.Bd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18n"]
+[Black "B18n"]
+[Result "*"]
+[ECO "B18n"]
+[Opening "Caro-Kann: Classical, 6.Nf3 Nd7 7.Bd3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.Bd3 
+    {Caro-Kann: Classical, 6.Nf3 Nd7 7.Bd3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.Nf3 Nd7 7.Bd3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18o"]
+[Black "B18o"]
+[Result "*"]
+[ECO "B18o"]
+[Opening "Caro-Kann: Classical, 6.Nf3 Nd7 7.Bd3 e6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 7.Bd3 e6 
+    {Caro-Kann: Classical, 6.Nf3 Nd7 7.Bd3 e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.h4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18p"]
+[Black "B18p"]
+[Result "*"]
+[ECO "B18p"]
+[Opening "Caro-Kann: Classical, 6.h4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 
+    {Caro-Kann: Classical, 6.h4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.h4 h6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18p"]
+[Black "B18p"]
+[Result "*"]
+[ECO "B18p"]
+[Opening "Caro-Kann: Classical, 6.h4 h6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 
+    {Caro-Kann: Classical, 6.h4 h6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.h4 h6 7.Nh3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18q"]
+[Black "B18q"]
+[Result "*"]
+[ECO "B18q"]
+[Opening "Caro-Kann: Classical, 6.h4 h6 7.Nh3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nh3 
+    {Caro-Kann: Classical, 6.h4 h6 7.Nh3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.h4 h6 7.f4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18r"]
+[Black "B18r"]
+[Result "*"]
+[ECO "B18r"]
+[Opening "Caro-Kann: Classical, 6.h4 h6 7.f4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.f4 
+    {Caro-Kann: Classical, 6.h4 h6 7.f4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 6.h4 h6 7.h5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B18s"]
+[Black "B18s"]
+[Result "*"]
+[ECO "B18s"]
+[Opening "Caro-Kann: Classical, 6.h4 h6 7.h5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.h5 
+    {Caro-Kann: Classical, 6.h4 h6 7.h5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 7.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19a"]
+[Black "B19a"]
+[Result "*"]
+[ECO "B19a"]
+[Opening "Caro-Kann: Classical, 7.Nf3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 
+    {Caro-Kann: Classical, 7.Nf3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 7.Nf3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19b"]
+[Black "B19b"]
+[Result "*"]
+[ECO "B19b"]
+[Opening "Caro-Kann: Classical, 7.Nf3 e6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 e6 
+    {Caro-Kann: Classical, 7.Nf3 e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 7.Nf3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19c"]
+[Black "B19c"]
+[Result "*"]
+[ECO "B19c"]
+[Opening "Caro-Kann: Classical, 7.Nf3 Nf6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nf6 
+    {Caro-Kann: Classical, 7.Nf3 Nf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 7.Nf3 Nf6 8.h5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19d"]
+[Black "B19d"]
+[Result "*"]
+[ECO "B19d"]
+[Opening "Caro-Kann: Classical, 7.Nf3 Nf6 8.h5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nf6 8.h5 
+    {Caro-Kann: Classical, 7.Nf3 Nf6 8.h5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 7.Nf3 Nf6 8.h5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19d"]
+[Black "B19d"]
+[Result "*"]
+[ECO "B19d"]
+[Opening "Caro-Kann: Classical, 7.Nf3 Nf6 8.h5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nf6 8.h5 Bh7
+    {Caro-Kann: Classical, 7.Nf3 Nf6 8.h5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 7.Nf3 Nf6 8.Ne5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19e"]
+[Black "B19e"]
+[Result "*"]
+[ECO "B19e"]
+[Opening "Caro-Kann: Classical, 7.Nf3 Nf6 8.Ne5"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nf6 8.Ne5 
+    {Caro-Kann: Classical, 7.Nf3 Nf6 8.Ne5}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 7.Nf3 Nf6 8.Ne5 Bh7 9.Bd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19f"]
+[Black "B19f"]
+[Result "*"]
+[ECO "B19f"]
+[Opening "Caro-Kann: Classical, 7.Nf3 Nf6 8.Ne5 Bh7 9.Bd3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nf6 8.Ne5 
+Bh7 9.Bd3 
+    {Caro-Kann: Classical, 7.Nf3 Nf6 8.Ne5 Bh7 9.Bd3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, 7.Nf3 Nd7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19g"]
+[Black "B19g"]
+[Result "*"]
+[ECO "B19g"]
+[Opening "Caro-Kann: Classical, 7.Nf3 Nd7"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 
+    {Caro-Kann: Classical, 7.Nf3 Nd7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19h"]
+[Black "B19h"]
+[Result "*"]
+[ECO "B19h"]
+[Opening "Caro-Kann: Classical, Spassky Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 
+    {Caro-Kann: Classical, Spassky Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19h"]
+[Black "B19h"]
+[Result "*"]
+[ECO "B19h"]
+[Opening "Caro-Kann: Classical, Spassky Variation"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+    {Caro-Kann: Classical, Spassky Variation}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky, 10.Qxd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19i"]
+[Black "B19i"]
+[Result "*"]
+[ECO "B19i"]
+[Opening "Caro-Kann: Classical, Spassky, 10.Qxd3"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 
+    {Caro-Kann: Classical, Spassky, 10.Qxd3}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky, 10.Qxd3 Ngf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19j"]
+[Black "B19j"]
+[Result "*"]
+[ECO "B19j"]
+[Opening "Caro-Kann: Classical, Spassky, 10.Qxd3 Ngf6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Ngf6 
+    {Caro-Kann: Classical, Spassky, 10.Qxd3 Ngf6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky, 10.Qxd3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19k"]
+[Black "B19k"]
+[Result "*"]
+[ECO "B19k"]
+[Opening "Caro-Kann: Classical, Spassky, 10.Qxd3 e6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 
+    {Caro-Kann: Classical, Spassky, 10.Qxd3 e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky, 10.Qxd3 e6 11.Bf4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19l"]
+[Black "B19l"]
+[Result "*"]
+[ECO "B19l"]
+[Opening "Caro-Kann: Classical, Spassky, 10.Qxd3 e6 11.Bf4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 
+    {Caro-Kann: Classical, Spassky, 10.Qxd3 e6 11.Bf4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky, 10.Qxd3 Qc7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19m"]
+[Black "B19m"]
+[Result "*"]
+[ECO "B19m"]
+[Opening "Caro-Kann: Classical, Spassky, 10.Qxd3 Qc7"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Qc7 
+    {Caro-Kann: Classical, Spassky, 10.Qxd3 Qc7}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky, 10.Qxd3 Qc7 11.Bd2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19n"]
+[Black "B19n"]
+[Result "*"]
+[ECO "B19n"]
+[Opening "Caro-Kann: Classical, Spassky, 10.Qxd3 Qc7 11.Bd2"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Qc7 11.Bd2 
+    {Caro-Kann: Classical, Spassky, 10.Qxd3 Qc7 11.Bd2}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky, 10.Qxd3 Qc7 11.Bd2 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19o"]
+[Black "B19o"]
+[Result "*"]
+[ECO "B19o"]
+[Opening "Caro-Kann: Classical, Spassky, 10.Qxd3 Qc7 11.Bd2 e6"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Qc7 11.Bd2 e6 
+    {Caro-Kann: Classical, Spassky, 10.Qxd3 Qc7 11.Bd2 e6}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky, 10.Qxd3 Qc7 11.Bd2 e6 12.O-O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19p"]
+[Black "B19p"]
+[Result "*"]
+[ECO "B19p"]
+[Opening "Caro-Kann: Classical, Spassky, 10.Qxd3 Qc7 11.Bd2 e6 12.O-O-O"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Qc7 11.Bd2 e6 12.O-O-O 
+    {Caro-Kann: Classical, Spassky, 10.Qxd3 Qc7 11.Bd2 e6 12.O-O-O}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky, Main Line"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19q"]
+[Black "B19q"]
+[Result "*"]
+[ECO "B19q"]
+[Opening "Caro-Kann: Classical, Spassky, Main Line"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Qc7 11.Bd2 e6 12.O-O-O Ngf6 
+    {Caro-Kann: Classical, Spassky, Main Line}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky, Main Line, 13.Ne4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19r"]
+[Black "B19r"]
+[Result "*"]
+[ECO "B19r"]
+[Opening "Caro-Kann: Classical, Spassky, Main Line, 13.Ne4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Qc7 11.Bd2 e6 12.O-O-O Ngf6 13.Ne4 
+    {Caro-Kann: Classical, Spassky, Main Line, 13.Ne4}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky, Main Line, 13.Ne4 O-O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19s"]
+[Black "B19s"]
+[Result "*"]
+[ECO "B19s"]
+[Opening "Caro-Kann: Classical, Spassky, Main Line, 13.Ne4 O-O-O"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Qc7 11.Bd2 e6 12.O-O-O Ngf6 13.Ne4 O-O-O 
+    {Caro-Kann: Classical, Spassky, Main Line, 13.Ne4 O-O-O}
+*
+
+[Event "?"]
+[Site "Caro-Kann: Classical, Spassky, Main Line, 14.g3 Nxe4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B19t"]
+[Black "B19t"]
+[Result "*"]
+[ECO "B19t"]
+[Opening "Caro-Kann: Classical, Spassky, Main Line, 14.g3 Nxe4"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 Qc7 11.Bd2 e6 12.O-O-O Ngf6 13.Ne4 O-O-O 14.g3 Nxe4 
+    {Caro-Kann: Classical, Spassky, Main Line, 14.g3 Nxe4}
+*
+

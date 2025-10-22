@@ -1,0 +1,9302 @@
+[Event "?"]
+[Site "English"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English"]
+
+1.c4 
+    {English}
+*
+
+[Event "?"]
+[Site "English: 1...g5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...g5"]
+
+1.c4 g5 
+    {English: 1...g5}
+*
+
+[Event "?"]
+[Site "English: 1...g5 2.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...g5 2.d4"]
+
+1.c4 g5 2.d4 
+    {English: 1...g5 2.d4}
+*
+
+[Event "?"]
+[Site "English: Myers Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Myers Gambit"]
+
+1.c4 g5 2.d4 Bg7 
+    {English: Myers Gambit}
+*
+
+[Event "?"]
+[Site "English: 1...Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...Nc6"]
+
+1.c4 Nc6 
+    {English: 1...Nc6}
+*
+
+[Event "?"]
+[Site "English: 1...Nc6 2.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...Nc6 2.Nc3"]
+
+1.c4 Nc6 2.Nc3 
+    {English: 1...Nc6 2.Nc3}
+*
+
+[Event "?"]
+[Site "English: Jaenisch Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Jaenisch Gambit"]
+
+1.c4 b5 
+    {English: Jaenisch Gambit}
+*
+
+[Event "?"]
+[Site "English: Vector"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Vector"]
+
+1.c4 d5 
+    {English: Vector}
+*
+
+[Event "?"]
+[Site "English: 1...b6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...b6"]
+
+1.c4 b6 
+    {English: 1...b6}
+*
+
+[Event "?"]
+[Site "English: 1...b6 2.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...b6 2.Nf3"]
+
+1.c4 b6 2.Nf3 
+    {English: 1...b6 2.Nf3}
+*
+
+[Event "?"]
+[Site "English: 1...b6 2.Nf3 Bb7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...b6 2.Nf3 Bb7"]
+
+1.c4 b6 2.Nf3 Bb7 
+    {English: 1...b6 2.Nf3 Bb7}
+*
+
+[Event "?"]
+[Site "English: 1...b6 2.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...b6 2.Nc3"]
+
+1.c4 b6 2.Nc3 
+    {English: 1...b6 2.Nc3}
+*
+
+[Event "?"]
+[Site "English: 1...b6 2.Nc3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...b6 2.Nc3 e6"]
+
+1.c4 b6 2.Nc3 e6 
+    {English: 1...b6 2.Nc3 e6}
+*
+
+[Event "?"]
+[Site "English: 1...b6 2.Nc3 e6 3.e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...b6 2.Nc3 e6 3.e4"]
+
+1.c4 b6 2.Nc3 e6 3.e4 
+    {English: 1...b6 2.Nc3 e6 3.e4}
+*
+
+[Event "?"]
+[Site "English: 1...b6 2.Nc3 Bb7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...b6 2.Nc3 Bb7"]
+
+1.c4 b6 2.Nc3 Bb7 
+    {English: 1...b6 2.Nc3 Bb7}
+*
+
+[Event "?"]
+[Site "English: 1...b6 2.Nc3 Bb7 3.e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...b6 2.Nc3 Bb7 3.e4"]
+
+1.c4 b6 2.Nc3 Bb7 3.e4 
+    {English: 1...b6 2.Nc3 Bb7 3.e4}
+*
+
+[Event "?"]
+[Site "English: 1...b6 2.Nc3 Bb7 3.e4 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...b6 2.Nc3 Bb7 3.e4 e6"]
+
+1.c4 b6 2.Nc3 Bb7 3.e4 e6 
+    {English: 1...b6 2.Nc3 Bb7 3.e4 e6}
+*
+
+[Event "?"]
+[Site "English: 1...d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...d6"]
+
+1.c4 d6 
+    {English: 1...d6}
+*
+
+[Event "?"]
+[Site "English: 1...d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...d6"]
+
+1.c4 d6 2.Nc3 
+    {English: 1...d6}
+*
+
+[Event "?"]
+[Site "English: 1...d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...d6"]
+
+1.c4 d6 2.Nf3 
+    {English: 1...d6}
+*
+
+[Event "?"]
+[Site "English: 1...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...g6"]
+
+1.c4 g6 
+    {English: 1...g6}
+*
+
+[Event "?"]
+[Site "English: 1...g6 2.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...g6 2.g3"]
+
+1.c4 g6 2.g3 
+    {English: 1...g6 2.g3}
+*
+
+[Event "?"]
+[Site "English: 1...g6 2.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...g6 2.Nc3"]
+
+1.c4 g6 2.Nc3 
+    {English: 1...g6 2.Nc3}
+*
+
+[Event "?"]
+[Site "English: 1...g6 2.Nc3 Bg7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...g6 2.Nc3 Bg7"]
+
+1.c4 g6 2.Nc3 Bg7 
+    {English: 1...g6 2.Nc3 Bg7}
+*
+
+[Event "?"]
+[Site "English: 1...g6 2.Nc3 Bg7 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...g6 2.Nc3 Bg7 3.g3"]
+
+1.c4 g6 2.Nc3 Bg7 3.g3 
+    {English: 1...g6 2.Nc3 Bg7 3.g3}
+*
+
+[Event "?"]
+[Site "English: 1...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...g6"]
+
+1.c4 g6 2.Nf3 
+    {English: 1...g6}
+*
+
+[Event "?"]
+[Site "English: 1...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...g6"]
+
+1.c4 g6 2.Nf3 Bg7 
+    {English: 1...g6}
+*
+
+[Event "?"]
+[Site "English: 1...g6 2.e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: 1...g6 2.e4"]
+
+1.c4 g6 2.e4 
+    {English: 1...g6 2.e4}
+*
+
+[Event "?"]
+[Site "English: Adorjan Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Adorjan Defence"]
+
+1.c4 g6 2.e4 e5 
+    {English: Adorjan Defence}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Wade Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Wade Gambit"]
+
+1.c4 f5 2.g4 
+    {English: Wade Gambit}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.g3 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.g3 Nf6 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.g3 Nf6 3.Bg2 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nc3 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nc3 Nf6 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nc3 Nf6 3.g3 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nc3 Nf6 3.g3 g6 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nf3 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nf3 e6 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nf3 Nf6 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nf3 Nf6 3.Nc3 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nf3 Nf6 3.g3 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nf3 Nf6 3.g3 e6 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nf3 Nf6 3.g3 e6 4.Bg2 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nf3 Nf6 3.g3 e6 4.Bg2 c6 5.O-O d5 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nf3 Nf6 3.g3 e6 4.Bg2 Be7 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nf3 Nf6 3.g3 e6 4.Bg2 Be7 5.O-O 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nf3 Nf6 3.g3 e6 4.Bg2 Be7 5.O-O O-O 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Anglo-Dutch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A10"]
+[Black "A10"]
+[Result "*"]
+[ECO "A10"]
+[Opening "English: Anglo-Dutch"]
+
+1.c4 f5 2.Nf3 Nf6 3.g3 e6 4.Bg2 Be7 5.O-O O-O 6.Nc3 
+    {English: Anglo-Dutch}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.g3 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.g3 Nf6 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.g3 Nf6 3.Bg2 d5 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.g3 Nf6 3.Bg2 d5 4.Nf3 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.g3 Nf6 3.Bg2 d5 4.Nf3 Bf5 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.g3 Nf6 3.Bg2 d5 4.Nf3 Bf5 5.O-O 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.g3 Nf6 3.Bg2 d5 4.Nf3 Bf5 5.O-O e6 6.d3 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.g3 Nf6 3.Bg2 d5 4.Nf3 Bg4 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.g3 Nf6 3.Bg2 d5 4.Nf3 Bg4 5.O-O 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.Nc3 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.Nc3 d5 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.Nf3 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.Nf3 Nf6 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence"]
+
+1.c4 c6 2.Nf3 d5 
+    {English: Caro-Kann Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence, 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence, 3.g3"]
+
+1.c4 c6 2.Nf3 d5 3.g3 
+    {English: Caro-Kann Defence, 3.g3}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence, 3.g3 Bg4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence, 3.g3 Bg4"]
+
+1.c4 c6 2.Nf3 d5 3.g3 Bg4 
+    {English: Caro-Kann Defence, 3.g3 Bg4}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence, 3.g3 Bg4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence, 3.g3 Bg4"]
+
+1.c4 c6 2.Nf3 d5 3.g3 Bg4 4.Bg2 
+    {English: Caro-Kann Defence, 3.g3 Bg4}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence, 3.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence, 3.e3"]
+
+1.c4 c6 2.Nf3 d5 3.e3 
+    {English: Caro-Kann Defence, 3.e3}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence, 3.e3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence, 3.e3 Nf6"]
+
+1.c4 c6 2.Nf3 d5 3.e3 Nf6 
+    {English: Caro-Kann Defence, 3.e3 Nf6}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence, 3.e3 Nf6 4.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A11"]
+[Black "A11"]
+[Result "*"]
+[ECO "A11"]
+[Opening "English: Caro-Kann Defence, 3.e3 Nf6 4.Nc3"]
+
+1.c4 c6 2.Nf3 d5 3.e3 Nf6 4.Nc3 
+    {English: Caro-Kann Defence, 3.e3 Nf6 4.Nc3}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence, 3.b3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: Caro-Kann Defence, 3.b3"]
+
+1.c4 c6 2.Nf3 d5 3.b3 
+    {English: Caro-Kann Defence, 3.b3}
+*
+
+[Event "?"]
+[Site "English: Torre Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: Torre Defence"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.g3 Bg4 
+    {English: Torre Defence}
+*
+
+[Event "?"]
+[Site "English: Torre Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: Torre Defence"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.g3 Bg4 5.Bg2 
+    {English: Torre Defence}
+*
+
+[Event "?"]
+[Site "English: Torre Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: Torre Defence"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.g3 Bg4 5.Bg2 e6 
+    {English: Torre Defence}
+*
+
+[Event "?"]
+[Site "English: Torre Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: Torre Defence"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.g3 Bg4 5.Bg2 e6 6.Bb2 
+    {English: Torre Defence}
+*
+
+[Event "?"]
+[Site "English: London Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: London Defence"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.g3 Bf5 
+    {English: London Defence}
+*
+
+[Event "?"]
+[Site "English: London Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: London Defence"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.g3 Bf5 5.Bg2 
+    {English: London Defence}
+*
+
+[Event "?"]
+[Site "English: London Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: London Defence"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.g3 Bf5 5.Bg2 e6 
+    {English: London Defence}
+*
+
+[Event "?"]
+[Site "English: London Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: London Defence"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.g3 Bf5 5.Bg2 e6 6.Bb2 
+    {English: London Defence}
+*
+
+[Event "?"]
+[Site "English: Caro-Kann Defence, 3.b3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: Caro-Kann Defence, 3.b3"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2 
+    {English: Caro-Kann Defence, 3.b3}
+*
+
+[Event "?"]
+[Site "English: Bled Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: Bled Variation"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2 g6 
+    {English: Bled Variation}
+*
+
+[Event "?"]
+[Site "English: Bled Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: Bled Variation"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2 g6 5.e3 Bg7 
+    {English: Bled Variation}
+*
+
+[Event "?"]
+[Site "English: New York/London Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: New York/London Defence"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2 Bf5 
+    {English: New York/London Defence}
+*
+
+[Event "?"]
+[Site "English: Capablanca"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: Capablanca"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2 Bg4 
+    {English: Capablanca}
+*
+
+[Event "?"]
+[Site "English: Bogoljubow Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A12"]
+[Black "A12"]
+[Result "*"]
+[ECO "A12"]
+[Opening "English: Bogoljubow Variation"]
+
+1.c4 c6 2.Nf3 d5 3.b3 Bg4 
+    {English: Bogoljubow Variation}
+*
+
+[Event "?"]
+[Site "English: 1...e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13a"]
+[Black "A13a"]
+[Result "*"]
+[ECO "A13a"]
+[Opening "English: 1...e6"]
+
+1.c4 e6 
+    {English: 1...e6}
+*
+
+[Event "?"]
+[Site "English: 1...e6 2.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13b"]
+[Black "A13b"]
+[Result "*"]
+[ECO "A13b"]
+[Opening "English: 1...e6 2.g3"]
+
+1.c4 e6 2.g3 
+    {English: 1...e6 2.g3}
+*
+
+[Event "?"]
+[Site "English: 1...e6 2.g3 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13c"]
+[Black "A13c"]
+[Result "*"]
+[ECO "A13c"]
+[Opening "English: 1...e6 2.g3 d5"]
+
+1.c4 e6 2.g3 d5 
+    {English: 1...e6 2.g3 d5}
+*
+
+[Event "?"]
+[Site "English: 1...e6 2.g3 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13d"]
+[Black "A13d"]
+[Result "*"]
+[ECO "A13d"]
+[Opening "English: 1...e6 2.g3 d5"]
+
+1.c4 e6 2.g3 d5 3.Bg2 
+    {English: 1...e6 2.g3 d5}
+*
+
+[Event "?"]
+[Site "English: 1...e6 2.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13e"]
+[Black "A13e"]
+[Result "*"]
+[ECO "A13e"]
+[Opening "English: 1...e6 2.Nc3"]
+
+1.c4 e6 2.Nc3 
+    {English: 1...e6 2.Nc3}
+*
+
+[Event "?"]
+[Site "English: 1...e6 2.Nc3 Bb4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13f"]
+[Black "A13f"]
+[Result "*"]
+[ECO "A13f"]
+[Opening "English: 1...e6 2.Nc3 Bb4"]
+
+1.c4 e6 2.Nc3 Bb4 
+    {English: 1...e6 2.Nc3 Bb4}
+*
+
+[Event "?"]
+[Site "English: 1...e6 2.Nc3 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13g"]
+[Black "A13g"]
+[Result "*"]
+[ECO "A13g"]
+[Opening "English: 1...e6 2.Nc3 d5"]
+
+1.c4 e6 2.Nc3 d5 
+    {English: 1...e6 2.Nc3 d5}
+*
+
+[Event "?"]
+[Site "English: 1...e6 2.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13h"]
+[Black "A13h"]
+[Result "*"]
+[ECO "A13h"]
+[Opening "English: 1...e6 2.Nf3"]
+
+1.c4 e6 2.Nf3 
+    {English: 1...e6 2.Nf3}
+*
+
+[Event "?"]
+[Site "English: 1...e6 2.Nf3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13i"]
+[Black "A13i"]
+[Result "*"]
+[ECO "A13i"]
+[Opening "English: 1...e6 2.Nf3 Nf6"]
+
+1.c4 e6 2.Nf3 Nf6 
+    {English: 1...e6 2.Nf3 Nf6}
+*
+
+[Event "?"]
+[Site "English: 1...e6 2.Nf3 Nf6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13j"]
+[Black "A13j"]
+[Result "*"]
+[ECO "A13j"]
+[Opening "English: 1...e6 2.Nf3 Nf6 3.g3"]
+
+1.c4 e6 2.Nf3 Nf6 3.g3 
+    {English: 1...e6 2.Nf3 Nf6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Romanishin Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13k"]
+[Black "A13k"]
+[Result "*"]
+[ECO "A13k"]
+[Opening "English: Romanishin Gambit"]
+
+1.c4 e6 2.Nf3 Nf6 3.g3 a6 4.Bg2 b5 
+    {English: Romanishin Gambit}
+*
+
+[Event "?"]
+[Site "English: 1...e6 2.Nf3 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13l"]
+[Black "A13l"]
+[Result "*"]
+[ECO "A13l"]
+[Opening "English: 1...e6 2.Nf3 d5"]
+
+1.c4 e6 2.Nf3 d5 
+    {English: 1...e6 2.Nf3 d5}
+*
+
+[Event "?"]
+[Site "English: Agincourt Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13m"]
+[Black "A13m"]
+[Result "*"]
+[ECO "A13m"]
+[Opening "English: Agincourt Variation"]
+
+1.c4 e6 2.Nf3 d5 3.b3 
+    {English: Agincourt Variation}
+*
+
+[Event "?"]
+[Site "English: Wimpey System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13n"]
+[Black "A13n"]
+[Result "*"]
+[ECO "A13n"]
+[Opening "English: Wimpey System"]
+
+1.c4 e6 2.Nf3 d5 3.b3 Nf6 4.Bb2 c5 5.e3 
+    {English: Wimpey System}
+*
+
+[Event "?"]
+[Site "English: Wimpey System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13n"]
+[Black "A13n"]
+[Result "*"]
+[ECO "A13n"]
+[Opening "English: Wimpey System"]
+
+1.c4 e6 2.Nf3 d5 3.b3 Nf6 4.Bb2 c5 5.e3 Nc6 
+    {English: Wimpey System}
+*
+
+[Event "?"]
+[Site "English: Agincourt Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13o"]
+[Black "A13o"]
+[Result "*"]
+[ECO "A13o"]
+[Opening "English: Agincourt Variation"]
+
+1.c4 e6 2.Nf3 d5 3.g3 
+    {English: Agincourt Variation}
+*
+
+[Event "?"]
+[Site "English: Kurajica Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13p"]
+[Black "A13p"]
+[Result "*"]
+[ECO "A13p"]
+[Opening "English: Kurajica Defence"]
+
+1.c4 e6 2.Nf3 d5 3.g3 c6 
+    {English: Kurajica Defence}
+*
+
+[Event "?"]
+[Site "English: Kurajica Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13q"]
+[Black "A13q"]
+[Result "*"]
+[ECO "A13q"]
+[Opening "English: Kurajica Defence"]
+
+1.c4 e6 2.Nf3 d5 3.g3 c6 4.Qc2 
+    {English: Kurajica Defence}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13r"]
+[Black "A13r"]
+[Result "*"]
+[ECO "A13r"]
+[Opening "English: Neo-Catalan"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 
+    {English: Neo-Catalan}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13s"]
+[Black "A13s"]
+[Result "*"]
+[ECO "A13s"]
+[Opening "English: Neo-Catalan"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 
+    {English: Neo-Catalan}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan, 4...c6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13s"]
+[Black "A13s"]
+[Result "*"]
+[ECO "A13s"]
+[Opening "English: Neo-Catalan, 4...c6"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 c6 
+    {English: Neo-Catalan, 4...c6}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan, 4...c6 5.b3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13s"]
+[Black "A13s"]
+[Result "*"]
+[ECO "A13s"]
+[Opening "English: Neo-Catalan, 4...c6 5.b3"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 c6 5.b3 
+    {English: Neo-Catalan, 4...c6 5.b3}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan, 4...c5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13t"]
+[Black "A13t"]
+[Result "*"]
+[ECO "A13t"]
+[Opening "English: Neo-Catalan, 4...c5"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 c5 
+    {English: Neo-Catalan, 4...c5}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan, 4...c5 5.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13t"]
+[Black "A13t"]
+[Result "*"]
+[ECO "A13t"]
+[Opening "English: Neo-Catalan, 4...c5 5.O-O"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 c5 5.O-O 
+    {English: Neo-Catalan, 4...c5 5.O-O}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Accepted"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13u"]
+[Black "A13u"]
+[Result "*"]
+[ECO "A13u"]
+[Opening "English: Neo-Catalan Accepted"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 dxc4 
+    {English: Neo-Catalan Accepted}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Accepted, 5.Qa4+"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13v"]
+[Black "A13v"]
+[Result "*"]
+[ECO "A13v"]
+[Opening "English: Neo-Catalan Accepted, 5.Qa4+"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 dxc4 5.Qa4+ 
+    {English: Neo-Catalan Accepted, 5.Qa4+}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Accepted, 5.Qa4+ Nbd7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13v"]
+[Black "A13v"]
+[Result "*"]
+[ECO "A13v"]
+[Opening "English: Neo-Catalan Accepted, 5.Qa4+ Nbd7"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 dxc4 5.Qa4+ Nbd7 
+    {English: Neo-Catalan Accepted, 5.Qa4+ Nbd7}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Accepted, 5.Qa4+ Nbd7 6.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13v"]
+[Black "A13v"]
+[Result "*"]
+[ECO "A13v"]
+[Opening "English: Neo-Catalan Accepted, 5.Qa4+ Nbd7 6.O-O"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 dxc4 5.Qa4+ Nbd7 6.O-O 
+    {English: Neo-Catalan Accepted, 5.Qa4+ Nbd7 6.O-O}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Accepted, 5.Qa4+ Nbd7 6.Qxc4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13w"]
+[Black "A13w"]
+[Result "*"]
+[ECO "A13w"]
+[Opening "English: Neo-Catalan Accepted, 5.Qa4+ Nbd7 6.Qxc4"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 dxc4 5.Qa4+ Nbd7 6.Qxc4 
+    {English: Neo-Catalan Accepted, 5.Qa4+ Nbd7 6.Qxc4}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Accepted, 5.Qa4+ Nbd7 6.Qxc4 a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13w"]
+[Black "A13w"]
+[Result "*"]
+[ECO "A13w"]
+[Opening "English: Neo-Catalan Accepted, 5.Qa4+ Nbd7 6.Qxc4 a6"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 dxc4 5.Qa4+ Nbd7 6.Qxc4 a6 
+    {English: Neo-Catalan Accepted, 5.Qa4+ Nbd7 6.Qxc4 a6}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Accepted, 5.Qa4+ Nbd7 6.Qxc4 c5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A13w"]
+[Black "A13w"]
+[Result "*"]
+[ECO "A13w"]
+[Opening "English: Neo-Catalan Accepted, 5.Qa4+ Nbd7 6.Qxc4 c5"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 dxc4 5.Qa4+ Nbd7 6.Qxc4 c5 
+    {English: Neo-Catalan Accepted, 5.Qa4+ Nbd7 6.Qxc4 c5}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 
+    {English: Neo-Catalan Declined}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O 
+    {English: Neo-Catalan Declined}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined, 5...c6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined, 5...c6"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O c6 
+    {English: Neo-Catalan Declined, 5...c6}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined, 5...c5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined, 5...c5"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O c5 
+    {English: Neo-Catalan Declined, 5...c5}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined, 5...O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined, 5...O-O"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 
+    {English: Neo-Catalan Declined, 5...O-O}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined, 5...O-O 6.b3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined, 5...O-O 6.b3"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 
+    {English: Neo-Catalan Declined, 5...O-O 6.b3}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined, 5...O-O 6.b3 b6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined, 5...O-O 6.b3 b6"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 b6 
+    {English: Neo-Catalan Declined, 5...O-O 6.b3 b6}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined, 5...O-O 6.b3 b6 7.Bb2 Bb7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined, 5...O-O 6.b3 b6 7.Bb2 Bb7"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 b6 7.Bb2 Bb7 
+    {English: Neo-Catalan Declined, 5...O-O 6.b3 b6 7.Bb2 Bb7}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined, 5...O-O 6.b3 b6 7.Bb2 Bb7 8.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined, 5...O-O 6.b3 b6 7.Bb2 Bb7 8.e3"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 b6 7.Bb2 Bb7 8.e3 
+    {English: Neo-Catalan Declined, 5...O-O 6.b3 b6 7.Bb2 Bb7 8.e3}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined, 5...O-O 6.b3 c5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined, 5...O-O 6.b3 c5"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 c5 
+    {English: Neo-Catalan Declined, 5...O-O 6.b3 c5}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined, 5...O-O 6.b3 c5 7.Bb2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined, 5...O-O 6.b3 c5 7.Bb2"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 c5 7.Bb2 
+    {English: Neo-Catalan Declined, 5...O-O 6.b3 c5 7.Bb2}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined, 5...O-O 6.b3 c5 7.Bb2 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined, 5...O-O 6.b3 c5 7.Bb2 Nc6"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 c5 7.Bb2 Nc6 
+    {English: Neo-Catalan Declined, 5...O-O 6.b3 c5 7.Bb2 Nc6}
+*
+
+[Event "?"]
+[Site "English: Neo-Catalan Declined, 5...O-O 6.b3 c5 7.Bb2 Nc6 8.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A14"]
+[Black "A14"]
+[Result "*"]
+[ECO "A14"]
+[Opening "English: Neo-Catalan Declined, 5...O-O 6.b3 c5 7.Bb2 Nc6 8.e3"]
+
+1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O O-O 6.b3 c5 7.Bb2 Nc6 8.e3 
+    {English: Neo-Catalan Declined, 5...O-O 6.b3 c5 7.Bb2 Nc6 8.e3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A15"]
+[Black "A15"]
+[Result "*"]
+[ECO "A15"]
+[Opening "English: Anglo-Indian"]
+
+1.c4 Nf6 
+    {English: Anglo-Indian}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, Polish"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A15"]
+[Black "A15"]
+[Result "*"]
+[ECO "A15"]
+[Opening "English: Anglo-Indian, Polish"]
+
+1.c4 Nf6 2.b4 
+    {English: Anglo-Indian, Polish}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A15"]
+[Black "A15"]
+[Result "*"]
+[ECO "A15"]
+[Opening "English: Anglo-Indian, 2.g3"]
+
+1.c4 Nf6 2.g3 
+    {English: Anglo-Indian, 2.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.g3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A15"]
+[Black "A15"]
+[Result "*"]
+[ECO "A15"]
+[Opening "English: Anglo-Indian, 2.g3 e6"]
+
+1.c4 Nf6 2.g3 e6 
+    {English: Anglo-Indian, 2.g3 e6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.g3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A15"]
+[Black "A15"]
+[Result "*"]
+[ECO "A15"]
+[Opening "English: Anglo-Indian, 2.g3 e6"]
+
+1.c4 Nf6 2.g3 e6 3.Bg2 
+    {English: Anglo-Indian, 2.g3 e6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.g3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A15"]
+[Black "A15"]
+[Result "*"]
+[ECO "A15"]
+[Opening "English: Anglo-Indian, 2.g3 g6"]
+
+1.c4 Nf6 2.g3 g6 
+    {English: Anglo-Indian, 2.g3 g6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.g3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A15"]
+[Black "A15"]
+[Result "*"]
+[ECO "A15"]
+[Opening "English: Anglo-Indian, 2.g3 g6"]
+
+1.c4 Nf6 2.g3 g6 3.Bg2 Bg7 
+    {English: Anglo-Indian, 2.g3 g6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A15"]
+[Black "A15"]
+[Result "*"]
+[ECO "A15"]
+[Opening "English: Anglo-Indian, 2.Nf3"]
+
+1.c4 Nf6 2.Nf3 
+    {English: Anglo-Indian, 2.Nf3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nf3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A15"]
+[Black "A15"]
+[Result "*"]
+[ECO "A15"]
+[Opening "English: Anglo-Indian, 2.Nf3 g6"]
+
+1.c4 Nf6 2.Nf3 g6 
+    {English: Anglo-Indian, 2.Nf3 g6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nf3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A15"]
+[Black "A15"]
+[Result "*"]
+[ECO "A15"]
+[Opening "English: Anglo-Indian, 2.Nf3 g6"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 
+    {English: Anglo-Indian, 2.Nf3 g6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nf3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A15"]
+[Black "A15"]
+[Result "*"]
+[ECO "A15"]
+[Opening "English: Anglo-Indian, 2.Nf3 g6"]
+
+1.c4 Nf6 2.Nf3 g6 3.g3 Bg7 4.Bg2 O-O 
+    {English: Anglo-Indian, 2.Nf3 g6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3"]
+
+1.c4 Nf6 2.Nc3 
+    {English: Anglo-Indian, 2.Nc3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 Nc6"]
+
+1.c4 Nf6 2.Nc3 Nc6 
+    {English: Anglo-Indian, 2.Nc3 Nc6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 c6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 c6"]
+
+1.c4 Nf6 2.Nc3 c6 
+    {English: Anglo-Indian, 2.Nc3 c6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 c6 3.e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 c6 3.e4"]
+
+1.c4 Nf6 2.Nc3 c6 3.e4 
+    {English: Anglo-Indian, 2.Nc3 c6 3.e4}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 c6 3.e4 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 c6 3.e4 d5"]
+
+1.c4 Nf6 2.Nc3 c6 3.e4 d5 
+    {English: Anglo-Indian, 2.Nc3 c6 3.e4 d5}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 c6 3.e4 e5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 c6 3.e4 e5"]
+
+1.c4 Nf6 2.Nc3 c6 3.e4 e5 
+    {English: Anglo-Indian, 2.Nc3 c6 3.e4 e5}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 d6"]
+
+1.c4 Nf6 2.Nc3 d6 
+    {English: Anglo-Indian, 2.Nc3 d6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 g6"]
+
+1.c4 Nf6 2.Nc3 g6 
+    {English: Anglo-Indian, 2.Nc3 g6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 g6 3.e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 g6 3.e4"]
+
+1.c4 Nf6 2.Nc3 g6 3.e4 
+    {English: Anglo-Indian, 2.Nc3 g6 3.e4}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 
+    {English: Anglo-Indian, 2.Nc3 g6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 
+    {English: Anglo-Indian, 2.Nc3 g6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 
+    {English: Anglo-Indian, 2.Nc3 g6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 
+    {English: Anglo-Indian, 2.Nc3 g6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.e4 
+    {English: Anglo-Indian, 2.Nc3 g6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 
+    {English: Anglo-Indian, 2.Nc3 g6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Indian, 2.Nc3 g6 3.g3"]
+
+1.c4 Nf6 2.Nc3 g6 3.g3 Bg7 4.Bg2 O-O 5.Nf3 d6 6.O-O 
+    {English: Anglo-Indian, 2.Nc3 g6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld"]
+
+1.c4 Nf6 2.Nc3 d5 
+    {English: Anglo-Gruenfeld}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld"]
+
+1.c4 Nf6 2.Nc3 d5 3.Nf3 
+    {English: Anglo-Gruenfeld}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld"]
+
+1.c4 Nf6 2.Nc3 d5 3.Nf3 g6 
+    {English: Anglo-Gruenfeld}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld"]
+
+1.c4 Nf6 2.Nc3 d5 3.Nf3 g6 4.Qa4+ 
+    {English: Anglo-Gruenfeld}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld"]
+
+1.c4 Nf6 2.Nc3 d5 3.Nf3 g6 4.g3 
+    {English: Anglo-Gruenfeld}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, 3.cxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, 3.cxd5"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 
+    {English: Anglo-Gruenfeld, 3.cxd5}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, Smyslov Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, Smyslov Variation"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nxc3 
+    {English: Anglo-Gruenfeld, Smyslov Variation}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, Smyslov Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, Smyslov Variation"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nxc3 6.bxc3 
+    {English: Anglo-Gruenfeld, Smyslov Variation}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, Smyslov Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, Smyslov Variation"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nxc3 6.bxc3 Bg7 
+    {English: Anglo-Gruenfeld, Smyslov Variation}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, Smyslov, 7.Rb1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, Smyslov, 7.Rb1"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nxc3 6.bxc3 Bg7 7.Rb1 
+    {English: Anglo-Gruenfeld, Smyslov, 7.Rb1}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, Czech Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, Czech Variation"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nb6 
+    {English: Anglo-Gruenfeld, Czech Variation}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, 4.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, 4.Nf3"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 
+    {English: Anglo-Gruenfeld, 4.Nf3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, 4.Nf3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, 4.Nf3 g6"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 g6 
+    {English: Anglo-Gruenfeld, 4.Nf3 g6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, 4.Nf3 g6 5.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, 4.Nf3 g6 5.g3"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 g6 5.g3 
+    {English: Anglo-Gruenfeld, 4.Nf3 g6 5.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, 4.Nf3 g6 5.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, 4.Nf3 g6 5.g3"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 g6 5.g3 Bg7 
+    {English: Anglo-Gruenfeld, 4.Nf3 g6 5.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, Korchnoi Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, Korchnoi Variation"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 g6 5.g3 Bg7 6.Bg2 e5 
+    {English: Anglo-Gruenfeld, Korchnoi Variation}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, Andersson-Boeoek Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, Andersson-Boeoek Variation"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 g6 5.e4 
+    {English: Anglo-Gruenfeld, Andersson-Boeoek Variation}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, Andersson-Boeoek, Queenswap"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, Andersson-Boeoek, Queenswap"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 g6 5.e4 Nxc3 6.dxc3 Qxd1+ 7.Kxd1 
+    {English: Anglo-Gruenfeld, Andersson-Boeoek, Queenswap}
+*
+
+[Event "?"]
+[Site "English: Anglo-Gruenfeld, 4.Nf3 g6 5.Qa4+"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A16"]
+[Black "A16"]
+[Result "*"]
+[ECO "A16"]
+[Opening "English: Anglo-Gruenfeld, 4.Nf3 g6 5.Qa4+"]
+
+1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 g6 5.Qa4+ 
+    {English: Anglo-Gruenfeld, 4.Nf3 g6 5.Qa4+}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Anglo-Indian, 2.Nc3 e6"]
+
+1.c4 Nf6 2.Nc3 e6 
+    {English: Anglo-Indian, 2.Nc3 e6}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 e6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Anglo-Indian, 2.Nc3 e6 3.g3"]
+
+1.c4 Nf6 2.Nc3 e6 3.g3 
+    {English: Anglo-Indian, 2.Nc3 e6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 e6 3.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Anglo-Indian, 2.Nc3 e6 3.Nf3"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 
+    {English: Anglo-Indian, 2.Nc3 e6 3.Nf3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Indian, 2.Nc3 e6 3.Nf3 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Anglo-Indian, 2.Nc3 e6 3.Nf3 d5"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 
+    {English: Anglo-Indian, 2.Nc3 e6 3.Nf3 d5}
+*
+
+[Event "?"]
+[Site "English: Anglo-Queen's Indian"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Anglo-Queen's Indian"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 
+    {English: Anglo-Queen's Indian}
+*
+
+[Event "?"]
+[Site "English: Anglo-Queen's Indian, 4.e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Anglo-Queen's Indian, 4.e4"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 4.e4 
+    {English: Anglo-Queen's Indian, 4.e4}
+*
+
+[Event "?"]
+[Site "English: Anglo-Queen's Indian, Romanishin"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Anglo-Queen's Indian, Romanishin"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 4.e4 Bb7 5.Bd3 
+    {English: Anglo-Queen's Indian, Romanishin}
+*
+
+[Event "?"]
+[Site "English: Anglo-Queen's Indian, 4.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Anglo-Queen's Indian, 4.g3"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 4.g3 
+    {English: Anglo-Queen's Indian, 4.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Queen's Indian, 4.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Anglo-Queen's Indian, 4.g3"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 
+    {English: Anglo-Queen's Indian, 4.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Queen's Indian, 4.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Anglo-Queen's Indian, 4.g3"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 
+    {English: Anglo-Queen's Indian, 4.g3}
+*
+
+[Event "?"]
+[Site "English: Anglo-Queen's Indian, 4.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Anglo-Queen's Indian, 4.g3"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 4.g3 Bb7 5.Bg2 Be7 6.O-O O-O 7.Re1 
+    {English: Anglo-Queen's Indian, 4.g3}
+*
+
+[Event "?"]
+[Site "English: Nimzo-English"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Nimzo-English"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 Bb4 
+    {English: Nimzo-English}
+*
+
+[Event "?"]
+[Site "English: Nimzo-English, 4.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Nimzo-English, 4.g3"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 Bb4 4.g3 
+    {English: Nimzo-English, 4.g3}
+*
+
+[Event "?"]
+[Site "English: Nimzo-English, 4.Qc2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Nimzo-English, 4.Qc2"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 Bb4 4.Qc2 
+    {English: Nimzo-English, 4.Qc2}
+*
+
+[Event "?"]
+[Site "English: Nimzo-English, 4.Qc2 O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A17"]
+[Black "A17"]
+[Result "*"]
+[ECO "A17"]
+[Opening "English: Nimzo-English, 4.Qc2 O-O"]
+
+1.c4 Nf6 2.Nc3 e6 3.Nf3 Bb4 4.Qc2 O-O 
+    {English: Nimzo-English, 4.Qc2 O-O}
+*
+
+[Event "?"]
+[Site "English: Mikenas"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 
+    {English: Mikenas}
+*
+
+[Event "?"]
+[Site "English: Mikenas, Kevitz Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas, Kevitz Defence"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 Nc6 
+    {English: Mikenas, Kevitz Defence}
+*
+
+[Event "?"]
+[Site "English: Mikenas, 3...d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas, 3...d6"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d6 
+    {English: Mikenas, 3...d6}
+*
+
+[Event "?"]
+[Site "English: Mikenas, 3...d6 4.d4 Be7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas, 3...d6 4.d4 Be7"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d6 4.d4 Be7 
+    {English: Mikenas, 3...d6 4.d4 Be7}
+*
+
+[Event "?"]
+[Site "English: Mikenas, French Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas, French Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 
+    {English: Mikenas, French Variation}
+*
+
+[Event "?"]
+[Site "English: Mikenas, French, 4.cxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas, French, 4.cxd5"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.cxd5 
+    {English: Mikenas, French, 4.cxd5}
+*
+
+[Event "?"]
+[Site "English: Mikenas, Flohr Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas, Flohr Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 
+    {English: Mikenas, Flohr Variation}
+*
+
+[Event "?"]
+[Site "English: Mikenas, Flohr, 4...Ne4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas, Flohr, 4...Ne4"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 Ne4 
+    {English: Mikenas, Flohr, 4...Ne4}
+*
+
+[Event "?"]
+[Site "English: Mikenas, Flohr, 4...d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas, Flohr, 4...d4"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 
+    {English: Mikenas, Flohr, 4...d4}
+*
+
+[Event "?"]
+[Site "English: Mikenas, Flohr, 7.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas, Flohr, 7.Nf3"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.Nf3 
+    {English: Mikenas, Flohr, 7.Nf3}
+*
+
+[Event "?"]
+[Site "English: Mikenas, Flohr, 7.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas, Flohr, 7.d4"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.d4 
+    {English: Mikenas, Flohr, 7.d4}
+*
+
+[Event "?"]
+[Site "English: Mikenas, Flohr, 7.d4 c5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas, Flohr, 7.d4 c5"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.d4 c5 
+    {English: Mikenas, Flohr, 7.d4 c5}
+*
+
+[Event "?"]
+[Site "English: Mikenas, Flohr, 7.d4 e5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A18"]
+[Black "A18"]
+[Result "*"]
+[ECO "A18"]
+[Opening "English: Mikenas, Flohr, 7.d4 e5"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5 d4 5.exf6 dxc3 6.bxc3 Qxf6 7.d4 e5 
+    {English: Mikenas, Flohr, 7.d4 e5}
+*
+
+[Event "?"]
+[Site "English: Mikenas, Sicilian Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A19"]
+[Black "A19"]
+[Result "*"]
+[ECO "A19"]
+[Opening "English: Mikenas, Sicilian Variation"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 
+    {English: Mikenas, Sicilian Variation}
+*
+
+[Event "?"]
+[Site "English: Mikenas, Sicilian, 4.e5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A19"]
+[Black "A19"]
+[Result "*"]
+[ECO "A19"]
+[Opening "English: Mikenas, Sicilian, 4.e5"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 
+    {English: Mikenas, Sicilian, 4.e5}
+*
+
+[Event "?"]
+[Site "English: Mikenas, Sicilian, 4.e5 Ng8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A19"]
+[Black "A19"]
+[Result "*"]
+[ECO "A19"]
+[Opening "English: Mikenas, Sicilian, 4.e5 Ng8"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8 
+    {English: Mikenas, Sicilian, 4.e5 Ng8}
+*
+
+[Event "?"]
+[Site "English: Mikenas, Nei Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A19"]
+[Black "A19"]
+[Result "*"]
+[ECO "A19"]
+[Opening "English: Mikenas, Nei Gambit"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8 5.d4 
+    {English: Mikenas, Nei Gambit}
+*
+
+[Event "?"]
+[Site "English: Mikenas, 5.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A19"]
+[Black "A19"]
+[Result "*"]
+[ECO "A19"]
+[Opening "English: Mikenas, 5.Nf3"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8 5.Nf3 
+    {English: Mikenas, 5.Nf3}
+*
+
+[Event "?"]
+[Site "English: Mikenas, 5.Nf3 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A19"]
+[Black "A19"]
+[Result "*"]
+[ECO "A19"]
+[Opening "English: Mikenas, 5.Nf3 Nc6"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8 5.Nf3 Nc6 
+    {English: Mikenas, 5.Nf3 Nc6}
+*
+
+[Event "?"]
+[Site "English: Mikenas, 5.Nf3 Nc6 6.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A19"]
+[Black "A19"]
+[Result "*"]
+[ECO "A19"]
+[Opening "English: Mikenas, 5.Nf3 Nc6 6.d4"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8 5.Nf3 Nc6 6.d4 
+    {English: Mikenas, 5.Nf3 Nc6 6.d4}
+*
+
+[Event "?"]
+[Site "English: Mikenas, 6.d4 cxd4 7.Nxd4 Nxe5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A19"]
+[Black "A19"]
+[Result "*"]
+[ECO "A19"]
+[Opening "English: Mikenas, 6.d4 cxd4 7.Nxd4 Nxe5"]
+
+1.c4 Nf6 2.Nc3 e6 3.e4 c5 4.e5 Ng8 5.Nf3 Nc6 6.d4 cxd4 7.Nxd4 Nxe5 
+    {English: Mikenas, 6.d4 cxd4 7.Nxd4 Nxe5}
+*
+
+[Event "?"]
+[Site "English: King's (1...e5)"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's (1...e5)"]
+
+1.c4 e5 
+    {English: King's (1...e5)}
+*
+
+[Event "?"]
+[Site "English: King's, 2.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.d3"]
+
+1.c4 e5 2.d3 
+    {English: King's, 2.d3}
+*
+
+[Event "?"]
+[Site "English: King's, 2.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.e3"]
+
+1.c4 e5 2.e3 
+    {English: King's, 2.e3}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3"]
+
+1.c4 e5 2.g3 
+    {English: King's, 2.g3}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 f5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 f5"]
+
+1.c4 e5 2.g3 f5 
+    {English: King's, 2.g3 f5}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 g6"]
+
+1.c4 e5 2.g3 g6 
+    {English: King's, 2.g3 g6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 g6"]
+
+1.c4 e5 2.g3 g6 3.Bg2 
+    {English: King's, 2.g3 g6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 g6"]
+
+1.c4 e5 2.g3 g6 3.Bg2 Bg7 
+    {English: King's, 2.g3 g6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 c6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 c6"]
+
+1.c4 e5 2.g3 c6 
+    {English: King's, 2.g3 c6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 c6 3.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 c6 3.d4"]
+
+1.c4 e5 2.g3 c6 3.d4 
+    {English: King's, 2.g3 c6 3.d4}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 d6"]
+
+1.c4 e5 2.g3 d6 
+    {English: King's, 2.g3 d6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 d6"]
+
+1.c4 e5 2.g3 d6 3.Bg2 
+    {English: King's, 2.g3 d6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 Nc6"]
+
+1.c4 e5 2.g3 Nc6 
+    {English: King's, 2.g3 Nc6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 Nc6 3.Bg2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 Nc6 3.Bg2"]
+
+1.c4 e5 2.g3 Nc6 3.Bg2 
+    {English: King's, 2.g3 Nc6 3.Bg2}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 Nf6"]
+
+1.c4 e5 2.g3 Nf6 
+    {English: King's, 2.g3 Nf6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 Nf6 3.Bg2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 Nf6 3.Bg2"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 
+    {English: King's, 2.g3 Nf6 3.Bg2}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 Nf6 3.Bg2 Bc5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 Nf6 3.Bg2 Bc5"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 Bc5 
+    {English: King's, 2.g3 Nf6 3.Bg2 Bc5}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 Nf6 3.Bg2 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 Nf6 3.Bg2 Nc6"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 Nc6 
+    {English: King's, 2.g3 Nf6 3.Bg2 Nc6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 Nf6 3.Bg2 c6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 Nf6 3.Bg2 c6"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 c6 
+    {English: King's, 2.g3 Nf6 3.Bg2 c6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.g3 Nf6 3.Bg2 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, 2.g3 Nf6 3.Bg2 d5"]
+
+1.c4 e5 2.g3 Nf6 3.Bg2 d5 
+    {English: King's, 2.g3 Nf6 3.Bg2 d5}
+*
+
+[Event "?"]
+[Site "English: King's, Nimzowitsch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, Nimzowitsch"]
+
+1.c4 e5 2.Nf3 
+    {English: King's, Nimzowitsch}
+*
+
+[Event "?"]
+[Site "English: King's, Nimzowitsch, 2...Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, Nimzowitsch, 2...Nc6"]
+
+1.c4 e5 2.Nf3 Nc6 
+    {English: King's, Nimzowitsch, 2...Nc6}
+*
+
+[Event "?"]
+[Site "English: King's, Nimzowitsch, Flohr Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A20"]
+[Black "A20"]
+[Result "*"]
+[ECO "A20"]
+[Opening "English: King's, Nimzowitsch, Flohr Variation"]
+
+1.c4 e5 2.Nf3 e4 
+    {English: King's, Nimzowitsch, Flohr Variation}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, 2.Nc3"]
+
+1.c4 e5 2.Nc3 
+    {English: King's, 2.Nc3}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 f5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, 2.Nc3 f5"]
+
+1.c4 e5 2.Nc3 f5 
+    {English: King's, 2.Nc3 f5}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 f5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, 2.Nc3 f5"]
+
+1.c4 e5 2.Nc3 f5 3.g3 Nf6 
+    {English: King's, 2.Nc3 f5}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 f5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, 2.Nc3 f5"]
+
+1.c4 e5 2.Nc3 f5 3.g3 Nf6 4.Bg2 
+    {English: King's, 2.Nc3 f5}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, 2.Nc3 g6"]
+
+1.c4 e5 2.Nc3 g6 
+    {English: King's, 2.Nc3 g6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, 2.Nc3 g6"]
+
+1.c4 e5 2.Nc3 g6 3.g3 Bg7 4.Bg2 
+    {English: King's, 2.Nc3 g6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, 2.Nc3 d6"]
+
+1.c4 e5 2.Nc3 d6 
+    {English: King's, 2.Nc3 d6}
+*
+
+[Event "?"]
+[Site "English: King's, Keres Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, Keres Variation"]
+
+1.c4 e5 2.Nc3 d6 3.g3 c6 
+    {English: King's, Keres Variation}
+*
+
+[Event "?"]
+[Site "English: King's, Keres Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, Keres Variation"]
+
+1.c4 e5 2.Nc3 d6 3.g3 c6 4.Bg2 
+    {English: King's, Keres Variation}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 d6 3.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, 2.Nc3 d6 3.d4"]
+
+1.c4 e5 2.Nc3 d6 3.d4 
+    {English: King's, 2.Nc3 d6 3.d4}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 d6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, 2.Nc3 d6 3.g3"]
+
+1.c4 e5 2.Nc3 d6 3.g3 
+    {English: King's, 2.Nc3 d6 3.g3}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 d6 3.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, 2.Nc3 d6 3.Nf3"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 
+    {English: King's, 2.Nc3 d6 3.Nf3}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 d6 3.Nf3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: King's, 2.Nc3 d6 3.Nf3 g6"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 g6 
+    {English: King's, 2.Nc3 d6 3.Nf3 g6}
+*
+
+[Event "?"]
+[Site "English: Lukin Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Lukin Variation"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 
+    {English: Lukin Variation}
+*
+
+[Event "?"]
+[Site "English: Lukin, 4.d4 e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Lukin, 4.d4 e4"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 4.d4 e4 
+    {English: Lukin, 4.d4 e4}
+*
+
+[Event "?"]
+[Site "English: Lukin, 5.Nd2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Lukin, 5.Nd2"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 4.d4 e4 5.Nd2 
+    {English: Lukin, 5.Nd2}
+*
+
+[Event "?"]
+[Site "English: Lukin, 5.Nd2 Nf6 6.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Lukin, 5.Nd2 Nf6 6.e3"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 4.d4 e4 5.Nd2 Nf6 6.e3 
+    {English: Lukin, 5.Nd2 Nf6 6.e3}
+*
+
+[Event "?"]
+[Site "English: Lukin, 5.Ng5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Lukin, 5.Ng5"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 4.d4 e4 5.Ng5 
+    {English: Lukin, 5.Ng5}
+*
+
+[Event "?"]
+[Site "English: Lukin, 5.Ng5 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Lukin, 5.Ng5 Nf6"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 4.d4 e4 5.Ng5 Nf6 
+    {English: Lukin, 5.Ng5 Nf6}
+*
+
+[Event "?"]
+[Site "English: Lukin, 5.Ng5 Be7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Lukin, 5.Ng5 Be7"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 4.d4 e4 5.Ng5 Be7 
+    {English: Lukin, 5.Ng5 Be7}
+*
+
+[Event "?"]
+[Site "English: Lukin, 5.Ng5 c6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Lukin, 5.Ng5 c6"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 f5 4.d4 e4 5.Ng5 c6 
+    {English: Lukin, 5.Ng5 c6}
+*
+
+[Event "?"]
+[Site "English: Smyslov Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Smyslov Defence"]
+
+1.c4 e5 2.Nc3 d6 3.Nf3 Bg4 
+    {English: Smyslov Defence}
+*
+
+[Event "?"]
+[Site "English: Kramnik-Shirov Counterattack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Kramnik-Shirov Counterattack"]
+
+1.c4 e5 2.Nc3 Bb4 
+    {English: Kramnik-Shirov Counterattack}
+*
+
+[Event "?"]
+[Site "English: Kramnik-Shirov, 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Kramnik-Shirov, 3.g3"]
+
+1.c4 e5 2.Nc3 Bb4 3.g3 
+    {English: Kramnik-Shirov, 3.g3}
+*
+
+[Event "?"]
+[Site "English: Kramnik-Shirov, 3.g3 Bxc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Kramnik-Shirov, 3.g3 Bxc3"]
+
+1.c4 e5 2.Nc3 Bb4 3.g3 Bxc3 
+    {English: Kramnik-Shirov, 3.g3 Bxc3}
+*
+
+[Event "?"]
+[Site "English: Kramnik-Shirov, 3.g3 Bxc3 4.bxc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Kramnik-Shirov, 3.g3 Bxc3 4.bxc3"]
+
+1.c4 e5 2.Nc3 Bb4 3.g3 Bxc3 4.bxc3 
+    {English: Kramnik-Shirov, 3.g3 Bxc3 4.bxc3}
+*
+
+[Event "?"]
+[Site "English: Kramnik-Shirov, 3.Nd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Kramnik-Shirov, 3.Nd5"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 
+    {English: Kramnik-Shirov, 3.Nd5}
+*
+
+[Event "?"]
+[Site "English: Kramnik-Shirov, 3.Nd5 a5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Kramnik-Shirov, 3.Nd5 a5"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 a5 
+    {English: Kramnik-Shirov, 3.Nd5 a5}
+*
+
+[Event "?"]
+[Site "English: Kramnik-Shirov, 3.Nd5 Ba5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Kramnik-Shirov, 3.Nd5 Ba5"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Ba5 
+    {English: Kramnik-Shirov, 3.Nd5 Ba5}
+*
+
+[Event "?"]
+[Site "English: Kramnik-Shirov, 3.Nd5 Bc5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Kramnik-Shirov, 3.Nd5 Bc5"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Bc5 
+    {English: Kramnik-Shirov, 3.Nd5 Bc5}
+*
+
+[Event "?"]
+[Site "English: Kramnik-Shirov, 3.Nd5 Be7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Kramnik-Shirov, 3.Nd5 Be7"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Be7 
+    {English: Kramnik-Shirov, 3.Nd5 Be7}
+*
+
+[Event "?"]
+[Site "English: Kramnik-Shirov, 3.Nd5 Be7 4.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A21"]
+[Black "A21"]
+[Result "*"]
+[ECO "A21"]
+[Opening "English: Kramnik-Shirov, 3.Nd5 Be7 4.d4"]
+
+1.c4 e5 2.Nc3 Bb4 3.Nd5 Be7 4.d4 
+    {English: Kramnik-Shirov, 3.Nd5 Be7 4.d4}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: King's, 2.Nc3 Nf6"]
+
+1.c4 e5 2.Nc3 Nf6 
+    {English: King's, 2.Nc3 Nf6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 Nf6 3.e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: King's, 2.Nc3 Nf6 3.e4"]
+
+1.c4 e5 2.Nc3 Nf6 3.e4 
+    {English: King's, 2.Nc3 Nf6 3.e4}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 Nf6 3.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: King's, 2.Nc3 Nf6 3.e3"]
+
+1.c4 e5 2.Nc3 Nf6 3.e3 
+    {English: King's, 2.Nc3 Nf6 3.e3}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 Nf6 3.e3 Bb4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: King's, 2.Nc3 Nf6 3.e3 Bb4"]
+
+1.c4 e5 2.Nc3 Nf6 3.e3 Bb4 
+    {English: King's, 2.Nc3 Nf6 3.e3 Bb4}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 Nf6 3.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: King's, 2.Nc3 Nf6 3.Nf3"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 
+    {English: King's, 2.Nc3 Nf6 3.Nf3}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 Nf6 3.Nf3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: King's, 2.Nc3 Nf6 3.Nf3 d6"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 d6 
+    {English: King's, 2.Nc3 Nf6 3.Nf3 d6}
+*
+
+[Event "?"]
+[Site "English: King's, 2.Nc3 Nf6 3.Nf3 e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: King's, 2.Nc3 Nf6 3.Nf3 e4"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 e4 
+    {English: King's, 2.Nc3 Nf6 3.Nf3 e4}
+*
+
+[Event "?"]
+[Site "English: Bellon Gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bellon Gambit"]
+
+1.c4 e5 2.Nc3 Nf6 3.Nf3 e4 4.Ng5 b5 
+    {English: Bellon Gambit}
+*
+
+[Event "?"]
+[Site "English: Bremen System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bremen System"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 
+    {English: Bremen System}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...Bc5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bremen, 3...Bc5"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bc5 
+    {English: Bremen, 3...Bc5}
+*
+
+[Event "?"]
+[Site "English: Bremen, Reverse Dragon"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bremen, Reverse Dragon"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 
+    {English: Bremen, Reverse Dragon}
+*
+
+[Event "?"]
+[Site "English: Bremen, Reverse Dragon, 4.cxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bremen, Reverse Dragon, 4.cxd5"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 
+    {English: Bremen, Reverse Dragon, 4.cxd5}
+*
+
+[Event "?"]
+[Site "English: Bremen, Reverse Dragon, 4.cxd5 Nxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bremen, Reverse Dragon, 4.cxd5 Nxd5"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 
+    {English: Bremen, Reverse Dragon, 4.cxd5 Nxd5}
+*
+
+[Event "?"]
+[Site "English: Bremen, Reverse Dragon, 4.cxd5 Nxd5 5.Bg2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bremen, Reverse Dragon, 4.cxd5 Nxd5 5.Bg2"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 
+    {English: Bremen, Reverse Dragon, 4.cxd5 Nxd5 5.Bg2}
+*
+
+[Event "?"]
+[Site "English: Bremen, Reverse Dragon, 4.cxd5 Nxd5 5.Bg2 Nb6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bremen, Reverse Dragon, 4.cxd5 Nxd5 5.Bg2 Nb6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nb6 
+    {English: Bremen, Reverse Dragon, 4.cxd5 Nxd5 5.Bg2 Nb6}
+*
+
+[Event "?"]
+[Site "English: Bremen, Smyslov System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bremen, Smyslov System"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 
+    {English: Bremen, Smyslov System}
+*
+
+[Event "?"]
+[Site "English: Bremen, Smyslov, 4.Bg2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bremen, Smyslov, 4.Bg2"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 4.Bg2 
+    {English: Bremen, Smyslov, 4.Bg2}
+*
+
+[Event "?"]
+[Site "English: Bremen, Smyslov, 4.Bg2 Bxc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bremen, Smyslov, 4.Bg2 Bxc3"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 4.Bg2 Bxc3 
+    {English: Bremen, Smyslov, 4.Bg2 Bxc3}
+*
+
+[Event "?"]
+[Site "English: Bremen, Smyslov, 4.Bg2 O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bremen, Smyslov, 4.Bg2 O-O"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 4.Bg2 O-O 
+    {English: Bremen, Smyslov, 4.Bg2 O-O}
+*
+
+[Event "?"]
+[Site "English: Bremen, Smyslov, 4.Bg2 O-O 5.e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A22"]
+[Black "A22"]
+[Result "*"]
+[ECO "A22"]
+[Opening "English: Bremen, Smyslov, 4.Bg2 O-O 5.e4"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 Bb4 4.Bg2 O-O 5.e4 
+    {English: Bremen, Smyslov, 4.Bg2 O-O 5.e4}
+*
+
+[Event "?"]
+[Site "English: Bremen, Keres System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A23"]
+[Black "A23"]
+[Result "*"]
+[ECO "A23"]
+[Opening "English: Bremen, Keres System"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 
+    {English: Bremen, Keres System}
+*
+
+[Event "?"]
+[Site "English: Bremen, Keres, 4.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A23"]
+[Black "A23"]
+[Result "*"]
+[ECO "A23"]
+[Opening "English: Bremen, Keres, 4.Nf3"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.Nf3 
+    {English: Bremen, Keres, 4.Nf3}
+*
+
+[Event "?"]
+[Site "English: Bremen, Keres, 4.Nf3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A23"]
+[Black "A23"]
+[Result "*"]
+[ECO "A23"]
+[Opening "English: Bremen, Keres, 4.Nf3 d6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.Nf3 d6 
+    {English: Bremen, Keres, 4.Nf3 d6}
+*
+
+[Event "?"]
+[Site "English: Bremen, Keres, 4.Nf3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A23"]
+[Black "A23"]
+[Result "*"]
+[ECO "A23"]
+[Opening "English: Bremen, Keres, 4.Nf3 d6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.Nf3 d6 5.Bg2 
+    {English: Bremen, Keres, 4.Nf3 d6}
+*
+
+[Event "?"]
+[Site "English: Bremen, Keres, 4.Nf3 e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A23"]
+[Black "A23"]
+[Result "*"]
+[ECO "A23"]
+[Opening "English: Bremen, Keres, 4.Nf3 e4"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.Nf3 e4 
+    {English: Bremen, Keres, 4.Nf3 e4}
+*
+
+[Event "?"]
+[Site "English: Bremen, Keres, 4.Bg2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A23"]
+[Black "A23"]
+[Result "*"]
+[ECO "A23"]
+[Opening "English: Bremen, Keres, 4.Bg2"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.Bg2 
+    {English: Bremen, Keres, 4.Bg2}
+*
+
+[Event "?"]
+[Site "English: Bremen, Keres, 4.Bg2 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A23"]
+[Black "A23"]
+[Result "*"]
+[ECO "A23"]
+[Opening "English: Bremen, Keres, 4.Bg2 d5"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.Bg2 d5 
+    {English: Bremen, Keres, 4.Bg2 d5}
+*
+
+[Event "?"]
+[Site "English: Bremen, Keres, 4.Bg2 d5 5.cxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A23"]
+[Black "A23"]
+[Result "*"]
+[ECO "A23"]
+[Opening "English: Bremen, Keres, 4.Bg2 d5 5.cxd5"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.Bg2 d5 5.cxd5 
+    {English: Bremen, Keres, 4.Bg2 d5 5.cxd5}
+*
+
+[Event "?"]
+[Site "English: Bremen, Keres, 4.Bg2 d5 5.cxd5 cxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A23"]
+[Black "A23"]
+[Result "*"]
+[ECO "A23"]
+[Opening "English: Bremen, Keres, 4.Bg2 d5 5.cxd5 cxd5"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 c6 4.Bg2 d5 5.cxd5 cxd5 
+    {English: Bremen, Keres, 4.Bg2 d5 5.cxd5 cxd5}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.d3 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.e3 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.e3 d6 6.Nge2 O-O 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.e4 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.Nf3 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.Nge2 O-O 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.Nge2 O-O 7.d3 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 d6 6.O-O O-O 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 d6 6.d3 O-O 7.O-O 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Bremen, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A24"]
+[Black "A24"]
+[Result "*"]
+[ECO "A24"]
+[Opening "English: Bremen, 3...g6"]
+
+1.c4 e5 2.Nc3 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 d6 6.d3 O-O 7.O-O c6 
+    {English: Bremen, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.e3 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.e3 Nf6 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 f5 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 f5 4.Bg2 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 f5 4.Bg2 Nf6 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 f5 4.Bg2 Nf6 5.e3 g6 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 f5 4.Bg2 Nf6 5.d3 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 Nf6 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 Nf6 4.Bg2 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 Nf6 4.Bg2 Bc5 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 Nf6 4.Bg2 Bc5 5.e3 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 Nf6 4.Bg2 Bb4 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 Nf6 4.Bg2 Bb4 5.Nd5 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 d6 4.Bg2 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed, Troeger Defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed, Troeger Defence"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 d6 4.Bg2 Be6 
+    {English: Closed, Troeger Defence}
+*
+
+[Event "?"]
+[Site "English: Closed, Troeger, 5.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed, Troeger, 5.d3"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 d6 4.Bg2 Be6 5.d3 
+    {English: Closed, Troeger, 5.d3}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 
+    {English: Closed}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed, 5.e3"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 
+    {English: Closed, 5.e3}
+*
+
+[Event "?"]
+[Site "English: Closed, Taimanov Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed, Taimanov Variation"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 d6 6.Nge2 Nh6 
+    {English: Closed, Taimanov Variation}
+*
+
+[Event "?"]
+[Site "English: Closed, Hort Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed, Hort Variation"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 d6 6.Nge2 Be6 
+    {English: Closed, Hort Variation}
+*
+
+[Event "?"]
+[Site "English: Closed, Hort, 7.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed, Hort, 7.d3"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 d6 6.Nge2 Be6 7.d3 
+    {English: Closed, Hort, 7.d3}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.Rb1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed, 5.Rb1"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Rb1 
+    {English: Closed, 5.Rb1}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.Rb1, Taimanov Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed, 5.Rb1, Taimanov Variation"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Rb1 Nh6 
+    {English: Closed, 5.Rb1, Taimanov Variation}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.Rb1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed, 5.Rb1"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Rb1 a5 
+    {English: Closed, 5.Rb1}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed, 5.e4"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 
+    {English: Closed, 5.e4}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed, 5.d3"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 
+    {English: Closed, 5.d3}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 Nge7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A25"]
+[Black "A25"]
+[Result "*"]
+[ECO "A25"]
+[Opening "English: Closed, 5.d3 Nge7"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 Nge7 
+    {English: Closed, 5.d3 Nge7}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 
+    {English: Closed, 5.d3 d6}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6 6.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6 6.e3"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e3 
+    {English: Closed, 5.d3 d6 6.e3}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6 6.Rb1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6 6.Rb1"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Rb1 
+    {English: Closed, 5.d3 d6 6.Rb1}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6 6.Rb1 f5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6 6.Rb1 f5"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Rb1 f5 
+    {English: Closed, 5.d3 d6 6.Rb1 f5}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6 6.Rb1 a5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6 6.Rb1 a5"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Rb1 a5 
+    {English: Closed, 5.d3 d6 6.Rb1 a5}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6 6.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6 6.Nf3"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nf3 
+    {English: Closed, 5.d3 d6 6.Nf3}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6 6.Nf3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6 6.Nf3 Nf6"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nf3 Nf6 
+    {English: Closed, 5.d3 d6 6.Nf3 Nf6}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nf3 Nf6 7.O-O 
+    {English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 
+    {English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 
+    {English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5 
+    {English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5 9.a3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5 9.a3"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5 
+9.a3 
+    {English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5 9.a3}
+*
+
+[Event "?"]
+[Site "English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5 9.a3 h6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5 9.a3 h6"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5 
+9.a3 h6 
+    {English: Closed, 5.d3 d6 6.Nf3 Nf6 7.O-O O-O 8.Rb1 a5 9.a3 h6}
+*
+
+[Event "?"]
+[Site "English: Botvinnik System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Botvinnik System"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e4 
+    {English: Botvinnik System}
+*
+
+[Event "?"]
+[Site "English: Botvinnik System, 6...Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Botvinnik System, 6...Nf6"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e4 Nf6 
+    {English: Botvinnik System, 6...Nf6}
+*
+
+[Event "?"]
+[Site "English: Botvinnik System, 6...Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Botvinnik System, 6...Nf6"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e4 Nf6 7.Nf3 
+    {English: Botvinnik System, 6...Nf6}
+*
+
+[Event "?"]
+[Site "English: Botvinnik System, 6...Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Botvinnik System, 6...Nf6"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e4 Nf6 7.Nf3 O-O 8.O-O 
+    {English: Botvinnik System, 6...Nf6}
+*
+
+[Event "?"]
+[Site "English: Botvinnik System, 6...Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Botvinnik System, 6...Nf6"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e4 Nf6 7.Nge2 
+    {English: Botvinnik System, 6...Nf6}
+*
+
+[Event "?"]
+[Site "English: Botvinnik System, 6...Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Botvinnik System, 6...Nf6"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e4 Nf6 7.Nge2 O-O 8.O-O 
+    {English: Botvinnik System, 6...Nf6}
+*
+
+[Event "?"]
+[Site "English: Botvinnik System, 6...Nge7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Botvinnik System, 6...Nge7"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e4 Nge7 
+    {English: Botvinnik System, 6...Nge7}
+*
+
+[Event "?"]
+[Site "English: Botvinnik System, 6...Nge7 7.Nge2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A26"]
+[Black "A26"]
+[Result "*"]
+[ECO "A26"]
+[Opening "English: Botvinnik System, 6...Nge7 7.Nge2"]
+
+1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e4 Nge7 7.Nge2 
+    {English: Botvinnik System, 6...Nge7 7.Nge2}
+*
+
+[Event "?"]
+[Site "English: Three Knights"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A27"]
+[Black "A27"]
+[Result "*"]
+[ECO "A27"]
+[Opening "English: Three Knights"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 
+    {English: Three Knights}
+*
+
+[Event "?"]
+[Site "English: Three Knights, 3...Bb4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A27"]
+[Black "A27"]
+[Result "*"]
+[ECO "A27"]
+[Opening "English: Three Knights, 3...Bb4"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Bb4 
+    {English: Three Knights, 3...Bb4}
+*
+
+[Event "?"]
+[Site "English: Three Knights, 3...d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A27"]
+[Black "A27"]
+[Result "*"]
+[ECO "A27"]
+[Opening "English: Three Knights, 3...d6"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 d6 
+    {English: Three Knights, 3...d6}
+*
+
+[Event "?"]
+[Site "English: Three Knights, 3...f5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A27"]
+[Black "A27"]
+[Result "*"]
+[ECO "A27"]
+[Opening "English: Three Knights, 3...f5"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 f5 
+    {English: Three Knights, 3...f5}
+*
+
+[Event "?"]
+[Site "English: Three Knights, 3...f5 4.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A27"]
+[Black "A27"]
+[Result "*"]
+[ECO "A27"]
+[Opening "English: Three Knights, 3...f5 4.d4"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 f5 4.d4 
+    {English: Three Knights, 3...f5 4.d4}
+*
+
+[Event "?"]
+[Site "English: Three Knights, 3...f5 4.d4 e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A27"]
+[Black "A27"]
+[Result "*"]
+[ECO "A27"]
+[Opening "English: Three Knights, 3...f5 4.d4 e4"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 f5 4.d4 e4 
+    {English: Three Knights, 3...f5 4.d4 e4}
+*
+
+[Event "?"]
+[Site "English: Three Knights, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A27"]
+[Black "A27"]
+[Result "*"]
+[ECO "A27"]
+[Opening "English: Three Knights, 3...g6"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 g6 
+    {English: Three Knights, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Three Knights, 3...g6 4.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A27"]
+[Black "A27"]
+[Result "*"]
+[ECO "A27"]
+[Opening "English: Three Knights, 3...g6 4.d4"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 g6 4.d4 
+    {English: Three Knights, 3...g6 4.d4}
+*
+
+[Event "?"]
+[Site "English: Three Knights, 3...g6 4.d4 exd4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A27"]
+[Black "A27"]
+[Result "*"]
+[ECO "A27"]
+[Opening "English: Three Knights, 3...g6 4.d4 exd4"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 g6 4.d4 exd4 
+    {English: Three Knights, 3...g6 4.d4 exd4}
+*
+
+[Event "?"]
+[Site "English: Three Knights, 3...g6 4.d4 exd4 5.Nxd4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A27"]
+[Black "A27"]
+[Result "*"]
+[ECO "A27"]
+[Opening "English: Three Knights, 3...g6 4.d4 exd4 5.Nxd4"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 g6 4.d4 exd4 5.Nxd4 
+    {English: Three Knights, 3...g6 4.d4 exd4 5.Nxd4}
+*
+
+[Event "?"]
+[Site "English: Four Knights"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A28"]
+[Black "A28"]
+[Result "*"]
+[ECO "A28"]
+[Opening "English: Four Knights"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 
+    {English: Four Knights}
+*
+
+[Event "?"]
+[Site "English: Four Knights, Nimzowitsch Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A28"]
+[Black "A28"]
+[Result "*"]
+[ECO "A28"]
+[Opening "English: Four Knights, Nimzowitsch Variation"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e4 
+    {English: Four Knights, Nimzowitsch Variation}
+*
+
+[Event "?"]
+[Site "English: Four Knights, Marini Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A28"]
+[Black "A28"]
+[Result "*"]
+[ECO "A28"]
+[Opening "English: Four Knights, Marini Variation"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.a3 
+    {English: Four Knights, Marini Variation}
+*
+
+[Event "?"]
+[Site "English: Four Knights, Capablanca Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A28"]
+[Black "A28"]
+[Result "*"]
+[ECO "A28"]
+[Opening "English: Four Knights, Capablanca Variation"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d3 
+    {English: Four Knights, Capablanca Variation}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A28"]
+[Black "A28"]
+[Result "*"]
+[ECO "A28"]
+[Opening "English: Four Knights, 4.d4"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d4 
+    {English: Four Knights, 4.d4}
+*
+
+[Event "?"]
+[Site "English: Four Knights, Nenarokov Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A28"]
+[Black "A28"]
+[Result "*"]
+[ECO "A28"]
+[Opening "English: Four Knights, Nenarokov Variation"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Bg5 h6 7.Bh4 Bxc3+ 8.
+bxc3 Ne5 
+    {English: Four Knights, Nenarokov Variation}
+*
+
+[Event "?"]
+[Site "English: Four Knights, Bradley Beach Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A28"]
+[Black "A28"]
+[Result "*"]
+[ECO "A28"]
+[Opening "English: Four Knights, Bradley Beach Variation"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d4 e4 
+    {English: Four Knights, Bradley Beach Variation}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A28"]
+[Black "A28"]
+[Result "*"]
+[ECO "A28"]
+[Opening "English: Four Knights, 4.e3"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 
+    {English: Four Knights, 4.e3}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.e3 Bb4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A28"]
+[Black "A28"]
+[Result "*"]
+[ECO "A28"]
+[Opening "English: Four Knights, 4.e3 Bb4"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 Bb4 
+    {English: Four Knights, 4.e3 Bb4}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.e3 Bb4 5.Qc2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A28"]
+[Black "A28"]
+[Result "*"]
+[ECO "A28"]
+[Opening "English: Four Knights, 4.e3 Bb4 5.Qc2"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 Bb4 5.Qc2 
+    {English: Four Knights, 4.e3 Bb4 5.Qc2}
+*
+
+[Event "?"]
+[Site "English: Four Knights, Stean Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A28"]
+[Black "A28"]
+[Result "*"]
+[ECO "A28"]
+[Opening "English: Four Knights, Stean Variation"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 Bb4 5.Qc2 O-O 6.Nd5 Re8 7.Qf5 
+    {English: Four Knights, Stean Variation}
+*
+
+[Event "?"]
+[Site "English: Four Knights, Romanishin Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A28"]
+[Black "A28"]
+[Result "*"]
+[ECO "A28"]
+[Opening "English: Four Knights, Romanishin Variation"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 Bb4 5.Qc2 Bxc3 
+    {English: Four Knights, Romanishin Variation}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 
+    {English: Four Knights, 4.g3}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 g6"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 g6 
+    {English: Four Knights, 4.g3 g6}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 g6 5.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 g6 5.d4"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 g6 5.d4 
+    {English: Four Knights, 4.g3 g6 5.d4}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 d5"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 
+    {English: Four Knights, 4.g3 d5}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 d5 5.cxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 d5 5.cxd5"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 
+    {English: Four Knights, 4.g3 d5 5.cxd5}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 
+    {English: Four Knights, 4.g3 d5 5.cxd5 Nxd5}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 
+    {English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Be6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Be6"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Be6 
+    {English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Be6}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 
+    {English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O 
+    {English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 
+    {English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.Rb1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.Rb1"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.Rb1 
+    {English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.Rb1}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.a3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.a3"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.a3 
+    {English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.a3}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3 
+    {English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3 
+O-O 
+    {English: Four Knights, 4.g3 d5 5.cxd5 Nxd5 6.Bg2 Nb6 7.O-O Be7 8.d3}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 Bc5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 Bc5"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bc5 
+    {English: Four Knights, 4.g3 Bc5}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 Bc5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 Bc5"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bc5 5.Bg2 
+    {English: Four Knights, 4.g3 Bc5}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 Bc5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 Bc5"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bc5 5.Bg2 d6 6.O-O 
+    {English: Four Knights, 4.g3 Bc5}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 Bc5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 Bc5"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bc5 5.Bg2 d6 6.O-O O-O 
+    {English: Four Knights, 4.g3 Bc5}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 Bc5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 Bc5"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bc5 5.Bg2 d6 6.O-O O-O 7.d3 
+    {English: Four Knights, 4.g3 Bc5}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 Bb4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 Bb4"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bb4 
+    {English: Four Knights, 4.g3 Bb4}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 Bb4 5.Nd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 Bb4 5.Nd5"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bb4 5.Nd5 
+    {English: Four Knights, 4.g3 Bb4 5.Nd5}
+*
+
+[Event "?"]
+[Site "English: Four Knights, 4.g3 Bb4 5.Bg2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, 4.g3 Bb4 5.Bg2"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bb4 5.Bg2 
+    {English: Four Knights, 4.g3 Bb4 5.Bg2}
+*
+
+[Event "?"]
+[Site "English: Four Knights, Main Line 6.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, Main Line 6.O-O"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bb4 5.Bg2 O-O 6.O-O 
+    {English: Four Knights, Main Line 6.O-O}
+*
+
+[Event "?"]
+[Site "English: Four Knights, Main Line 6.O-O e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A29"]
+[Black "A29"]
+[Result "*"]
+[ECO "A29"]
+[Opening "English: Four Knights, Main Line 6.O-O e4"]
+
+1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 Bb4 5.Bg2 O-O 6.O-O e4 
+    {English: Four Knights, Main Line 6.O-O e4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30a"]
+[Black "A30a"]
+[Result "*"]
+[ECO "A30a"]
+[Opening "English: Symmetrical"]
+
+1.c4 c5 
+    {English: Symmetrical}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.b3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30a"]
+[Black "A30a"]
+[Result "*"]
+[ECO "A30a"]
+[Opening "English: Symmetrical, 2.b3"]
+
+1.c4 c5 2.b3 
+    {English: Symmetrical, 2.b3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30a"]
+[Black "A30a"]
+[Result "*"]
+[ECO "A30a"]
+[Opening "English: Symmetrical, 2.g3"]
+
+1.c4 c5 2.g3 
+    {English: Symmetrical, 2.g3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.g3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30a"]
+[Black "A30a"]
+[Result "*"]
+[ECO "A30a"]
+[Opening "English: Symmetrical, 2.g3 g6"]
+
+1.c4 c5 2.g3 g6 
+    {English: Symmetrical, 2.g3 g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30b"]
+[Black "A30b"]
+[Result "*"]
+[ECO "A30b"]
+[Opening "English: Symmetrical, 2.Nf3"]
+
+1.c4 c5 2.Nf3 
+    {English: Symmetrical, 2.Nf3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nf3 b6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30b"]
+[Black "A30b"]
+[Result "*"]
+[ECO "A30b"]
+[Opening "English: Symmetrical, 2.Nf3 b6"]
+
+1.c4 c5 2.Nf3 b6 
+    {English: Symmetrical, 2.Nf3 b6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nf3 b6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30b"]
+[Black "A30b"]
+[Result "*"]
+[ECO "A30b"]
+[Opening "English: Symmetrical, 2.Nf3 b6 3.g3"]
+
+1.c4 c5 2.Nf3 b6 3.g3 
+    {English: Symmetrical, 2.Nf3 b6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nf3 b6 3.g3 Bb7 4.Bg2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30b"]
+[Black "A30b"]
+[Result "*"]
+[ECO "A30b"]
+[Opening "English: Symmetrical, 2.Nf3 b6 3.g3 Bb7 4.Bg2"]
+
+1.c4 c5 2.Nf3 b6 3.g3 Bb7 4.Bg2 
+    {English: Symmetrical, 2.Nf3 b6 3.g3 Bb7 4.Bg2}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nf3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30b"]
+[Black "A30b"]
+[Result "*"]
+[ECO "A30b"]
+[Opening "English: Symmetrical, 2.Nf3 g6"]
+
+1.c4 c5 2.Nf3 g6 
+    {English: Symmetrical, 2.Nf3 g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nf3 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30b"]
+[Black "A30b"]
+[Result "*"]
+[ECO "A30b"]
+[Opening "English: Symmetrical, 2.Nf3 Nc6"]
+
+1.c4 c5 2.Nf3 Nc6 
+    {English: Symmetrical, 2.Nf3 Nc6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nf3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30c"]
+[Black "A30c"]
+[Result "*"]
+[ECO "A30c"]
+[Opening "English: Symmetrical, 2.Nf3 Nf6"]
+
+1.c4 c5 2.Nf3 Nf6 
+    {English: Symmetrical, 2.Nf3 Nf6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nf3 Nf6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30d"]
+[Black "A30d"]
+[Result "*"]
+[ECO "A30d"]
+[Opening "English: Symmetrical, 2.Nf3 Nf6 3.g3"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 
+    {English: Symmetrical, 2.Nf3 Nf6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, b6 System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30e"]
+[Black "A30e"]
+[Result "*"]
+[ECO "A30e"]
+[Opening "English: Symmetrical, b6 System"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 
+    {English: Symmetrical, b6 System}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, b6 System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30e"]
+[Black "A30e"]
+[Result "*"]
+[ECO "A30e"]
+[Opening "English: Symmetrical, b6 System"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 
+    {English: Symmetrical, b6 System}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, b6 System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30e"]
+[Black "A30e"]
+[Result "*"]
+[ECO "A30e"]
+[Opening "English: Symmetrical, b6 System"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.Nc3 
+    {English: Symmetrical, b6 System}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, b6 System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30e"]
+[Black "A30e"]
+[Result "*"]
+[ECO "A30e"]
+[Opening "English: Symmetrical, b6 System"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O 
+    {English: Symmetrical, b6 System}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Double Fianchetto"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30f"]
+[Black "A30f"]
+[Result "*"]
+[ECO "A30f"]
+[Opening "English: Symmetrical, Double Fianchetto"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O g6 
+    {English: Symmetrical, Double Fianchetto}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Double Fianchetto"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30f"]
+[Black "A30f"]
+[Result "*"]
+[ECO "A30f"]
+[Opening "English: Symmetrical, Double Fianchetto"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O g6 6.Nc3 Bg7 
+    {English: Symmetrical, Double Fianchetto}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Mutual Double Fianchetto"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30g"]
+[Black "A30g"]
+[Result "*"]
+[ECO "A30g"]
+[Opening "English: Symmetrical, Mutual Double Fianchetto"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O g6 6.b3 
+    {English: Symmetrical, Mutual Double Fianchetto}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Mutual Double Fianchetto"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30g"]
+[Black "A30g"]
+[Result "*"]
+[ECO "A30g"]
+[Opening "English: Symmetrical, Mutual Double Fianchetto"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O g6 6.b3 Bg7 7.Bb2 O-O 
+    {English: Symmetrical, Mutual Double Fianchetto}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Mutual Double Fianchetto"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30g"]
+[Black "A30g"]
+[Result "*"]
+[ECO "A30g"]
+[Opening "English: Symmetrical, Mutual Double Fianchetto"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O g6 6.b3 Bg7 7.Bb2 O-O 8.Nc3 
+    {English: Symmetrical, Mutual Double Fianchetto}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Mutual Double Fianchetto with ...d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30g"]
+[Black "A30g"]
+[Result "*"]
+[ECO "A30g"]
+[Opening "English: Symmetrical, Mutual Double Fianchetto with ...d5"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O g6 6.b3 Bg7 7.Bb2 O-O 8.Nc3 d5 
+    {English: Symmetrical, Mutual Double Fianchetto with ...d5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30h"]
+[Black "A30h"]
+[Result "*"]
+[ECO "A30h"]
+[Opening "English: Symmetrical, Hedgehog System"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 
+    {English: Symmetrical, Hedgehog System}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30h"]
+[Black "A30h"]
+[Result "*"]
+[ECO "A30h"]
+[Opening "English: Symmetrical, Hedgehog System"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 
+    {English: Symmetrical, Hedgehog System}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 6...a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30i"]
+[Black "A30i"]
+[Result "*"]
+[ECO "A30i"]
+[Opening "English: Symmetrical, Hedgehog, 6...a6"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 a6 
+    {English: Symmetrical, Hedgehog, 6...a6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 6...d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30j"]
+[Black "A30j"]
+[Result "*"]
+[ECO "A30j"]
+[Opening "English: Symmetrical, Hedgehog, 6...d6"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 d6 
+    {English: Symmetrical, Hedgehog, 6...d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 6...d6 7.b3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30k"]
+[Black "A30k"]
+[Result "*"]
+[ECO "A30k"]
+[Opening "English: Symmetrical, Hedgehog, 6...d6 7.b3"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 d6 7.b3 
+    {English: Symmetrical, Hedgehog, 6...d6 7.b3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 6...d6 7.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30l"]
+[Black "A30l"]
+[Result "*"]
+[ECO "A30l"]
+[Opening "English: Symmetrical, Hedgehog, 6...d6 7.d4"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 d6 7.d4 
+    {English: Symmetrical, Hedgehog, 6...d6 7.d4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30m"]
+[Black "A30m"]
+[Result "*"]
+[ECO "A30m"]
+[Opening "English: Symmetrical, Hedgehog System"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 
+    {English: Symmetrical, Hedgehog System}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 7.Re1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30n"]
+[Black "A30n"]
+[Result "*"]
+[ECO "A30n"]
+[Opening "English: Symmetrical, Hedgehog, 7.Re1"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.Re1 
+    {English: Symmetrical, Hedgehog, 7.Re1}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 7.Re1 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30o"]
+[Black "A30o"]
+[Result "*"]
+[ECO "A30o"]
+[Opening "English: Symmetrical, Hedgehog, 7.Re1 d5"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.Re1 d5 
+    {English: Symmetrical, Hedgehog, 7.Re1 d5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 7.b3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30p"]
+[Black "A30p"]
+[Result "*"]
+[ECO "A30p"]
+[Opening "English: Symmetrical, Hedgehog, 7.b3"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.b3 
+    {English: Symmetrical, Hedgehog, 7.b3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 7.b3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30p"]
+[Black "A30p"]
+[Result "*"]
+[ECO "A30p"]
+[Opening "English: Symmetrical, Hedgehog, 7.b3"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.b3 O-O 
+    {English: Symmetrical, Hedgehog, 7.b3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 7.b3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30p"]
+[Black "A30p"]
+[Result "*"]
+[ECO "A30p"]
+[Opening "English: Symmetrical, Hedgehog, 7.b3"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.b3 O-O 8.Bb2 d6 
+    {English: Symmetrical, Hedgehog, 7.b3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 7.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30q"]
+[Black "A30q"]
+[Result "*"]
+[ECO "A30q"]
+[Opening "English: Symmetrical, Hedgehog, 7.d4"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 
+    {English: Symmetrical, Hedgehog, 7.d4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 8.Qxd4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30r"]
+[Black "A30r"]
+[Result "*"]
+[ECO "A30r"]
+[Opening "English: Symmetrical, Hedgehog, 8.Qxd4"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 
+    {English: Symmetrical, Hedgehog, 8.Qxd4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 8.Qxd4 O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30s"]
+[Black "A30s"]
+[Result "*"]
+[ECO "A30s"]
+[Opening "English: Symmetrical, Hedgehog, 8.Qxd4 O-O"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 
+O-O 
+    {English: Symmetrical, Hedgehog, 8.Qxd4 O-O}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 8.Qxd4 O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30s"]
+[Black "A30s"]
+[Result "*"]
+[ECO "A30s"]
+[Opening "English: Symmetrical, Hedgehog, 8.Qxd4 O-O"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 
+O-O 9.Rd1 Nc6 
+    {English: Symmetrical, Hedgehog, 8.Qxd4 O-O}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 8.Qxd4 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30t"]
+[Black "A30t"]
+[Result "*"]
+[ECO "A30t"]
+[Opening "English: Symmetrical, Hedgehog, 8.Qxd4 Nc6"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 
+Nc6 
+    {English: Symmetrical, Hedgehog, 8.Qxd4 Nc6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 8.Qxd4 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30u"]
+[Black "A30u"]
+[Result "*"]
+[ECO "A30u"]
+[Opening "English: Symmetrical, Hedgehog, 8.Qxd4 d6"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 d6
+    {English: Symmetrical, Hedgehog, 8.Qxd4 d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 9.b3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30v"]
+[Black "A30v"]
+[Result "*"]
+[ECO "A30v"]
+[Opening "English: Symmetrical, Hedgehog, 9.b3"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 d6
+9.b3 
+    {English: Symmetrical, Hedgehog, 9.b3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 9.b3 Nbd7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30v"]
+[Black "A30v"]
+[Result "*"]
+[ECO "A30v"]
+[Opening "English: Symmetrical, Hedgehog, 9.b3 Nbd7"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 d6
+9.b3 Nbd7 
+    {English: Symmetrical, Hedgehog, 9.b3 Nbd7}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 9.b3 Nbd7 10.Nb5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30v"]
+[Black "A30v"]
+[Result "*"]
+[ECO "A30v"]
+[Opening "English: Symmetrical, Hedgehog, 9.b3 Nbd7 10.Nb5"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 d6
+9.b3 Nbd7 10.Nb5 
+    {English: Symmetrical, Hedgehog, 9.b3 Nbd7 10.Nb5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, 9.Rd1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30w"]
+[Black "A30w"]
+[Result "*"]
+[ECO "A30w"]
+[Opening "English: Symmetrical, Hedgehog, 9.Rd1"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 d6
+9.Rd1 
+    {English: Symmetrical, Hedgehog, 9.Rd1}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, Flexible Formation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30x"]
+[Black "A30x"]
+[Result "*"]
+[ECO "A30x"]
+[Opening "English: Symmetrical, Hedgehog, Flexible Formation"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 d6
+9.Rd1 a6 10.b3 Nbd7 
+    {English: Symmetrical, Hedgehog, Flexible Formation}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, Flexible Formation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30y"]
+[Black "A30y"]
+[Result "*"]
+[ECO "A30y"]
+[Opening "English: Symmetrical, Hedgehog, Flexible Formation"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 d6
+9.Rd1 a6 10.b3 Nbd7 11.e4 
+    {English: Symmetrical, Hedgehog, Flexible Formation}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, Flexible Formation, 11.e4 Qc7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30y"]
+[Black "A30y"]
+[Result "*"]
+[ECO "A30y"]
+[Opening "English: Symmetrical, Hedgehog, Flexible Formation, 11.e4 Qc7"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 d6
+9.Rd1 a6 10.b3 Nbd7 11.e4 Qc7 
+    {English: Symmetrical, Hedgehog, Flexible Formation, 11.e4 Qc7}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Hedgehog, Flexible Formation, 11.e4 O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A30y"]
+[Black "A30y"]
+[Result "*"]
+[ECO "A30y"]
+[Opening "English: Symmetrical, Hedgehog, Flexible Formation, 11.e4 O-O"]
+
+1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 d6
+9.Rd1 a6 10.b3 Nbd7 11.e4 O-O 
+    {English: Symmetrical, Hedgehog, Flexible Formation, 11.e4 O-O}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 
+    {English: Symmetrical, Two Knights}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 3...a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 3...a6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 a6 
+    {English: Symmetrical, Two Knights, 3...a6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 3...g6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 g6 
+    {English: Symmetrical, Two Knights, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 3...g6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 g6 4.d5 
+    {English: Symmetrical, Two Knights, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 3...g6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 g6 4.Nc3 
+    {English: Symmetrical, Two Knights, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 
+    {English: Symmetrical, Two Knights}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 
+    {English: Symmetrical, Two Knights}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 4...b6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 4...b6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 b6 
+    {English: Symmetrical, Two Knights, 4...b6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 4...b6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 4...b6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 b6 5.Nc3 Bb7 
+    {English: Symmetrical, Two Knights, 4...b6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 4...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 4...g6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 g6 
+    {English: Symmetrical, Two Knights, 4...g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 4...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 4...g6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 
+    {English: Symmetrical, Two Knights, 4...g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 4...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 4...g6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 
+    {English: Symmetrical, Two Knights, 4...g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 4...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 4...g6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.e4 
+    {English: Symmetrical, Two Knights, 4...g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 4...Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 4...Nc6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 Nc6 
+    {English: Symmetrical, Two Knights, 4...Nc6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 4...Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 4...Nc6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 
+    {English: Symmetrical, Two Knights, 4...Nc6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 4...Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 4...Nc6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 g6 
+    {English: Symmetrical, Two Knights, 4...Nc6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 4...e5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 4...e5"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e5 
+    {English: Symmetrical, Two Knights, 4...e5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 4...e5 5.Nb5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A31"]
+[Black "A31"]
+[Result "*"]
+[ECO "A31"]
+[Opening "English: Symmetrical, Two Knights, 4...e5 5.Nb5"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 
+    {English: Symmetrical, Two Knights, 4...e5 5.Nb5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 4...e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 4...e6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 
+    {English: Symmetrical, Two Knights, 4...e6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.e3"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.e3 
+    {English: Symmetrical, Two Knights, 5.e3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.g3"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.g3 
+    {English: Symmetrical, Two Knights, 5.g3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.g3 a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.g3 a6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.g3 a6 
+    {English: Symmetrical, Two Knights, 5.g3 a6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.g3 a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.g3 a6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.g3 a6 6.Bg2 
+    {English: Symmetrical, Two Knights, 5.g3 a6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.g3 Qb6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.g3 Qb6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.g3 Qb6 
+    {English: Symmetrical, Two Knights, 5.g3 Qb6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.g3 Qb6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.g3 Qb6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.g3 Qb6 6.Bg2 
+    {English: Symmetrical, Two Knights, 5.g3 Qb6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.g3 Qc7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.g3 Qc7"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.g3 Qc7 
+    {English: Symmetrical, Two Knights, 5.g3 Qc7}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.g3 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.g3 Nc6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.g3 Nc6 
+    {English: Symmetrical, Two Knights, 5.g3 Nc6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.g3 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.g3 Nc6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.g3 Nc6 6.Bg2 
+    {English: Symmetrical, Two Knights, 5.g3 Nc6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.g3 Bb4+"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.g3 Bb4+"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.g3 Bb4+ 
+    {English: Symmetrical, Two Knights, 5.g3 Bb4+}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.g3 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.g3 d5"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.g3 d5 
+    {English: Symmetrical, Two Knights, 5.g3 d5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.g3 d5 6.Bg2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.g3 d5 6.Bg2"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.g3 d5 6.Bg2 
+    {English: Symmetrical, Two Knights, 5.g3 d5 6.Bg2}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.g3 d5 6.Bg2 e5 7.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.g3 d5 6.Bg2 e5 7.Nf3"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.g3 d5 6.Bg2 e5 7.Nf3 
+    {English: Symmetrical, Two Knights, 5.g3 d5 6.Bg2 e5 7.Nf3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 
+    {English: Symmetrical, Two Knights, 5.Nc3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 d5"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 d5 
+    {English: Symmetrical, Two Knights, 5.Nc3 d5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 a6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 a6 
+    {English: Symmetrical, Two Knights, 5.Nc3 a6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 a6 6.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 a6 6.g3"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 a6 6.g3 
+    {English: Symmetrical, Two Knights, 5.Nc3 a6 6.g3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Bb4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Bb4"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Bb4 
+    {English: Symmetrical, Two Knights, 5.Nc3 Bb4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Bb4 6.Qb3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Bb4 6.Qb3"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Bb4 6.Qb3 
+    {English: Symmetrical, Two Knights, 5.Nc3 Bb4 6.Qb3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Bb4 6.Nb5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Bb4 6.Nb5"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Bb4 6.Nb5 
+    {English: Symmetrical, Two Knights, 5.Nc3 Bb4 6.Nb5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Bb4 6.Bd2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Bb4 6.Bd2"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Bb4 6.Bd2 
+    {English: Symmetrical, Two Knights, 5.Nc3 Bb4 6.Bd2}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Bb4 6.Bd2 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A32"]
+[Black "A32"]
+[Result "*"]
+[ECO "A32"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Bb4 6.Bd2 Nc6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Bb4 6.Bd2 Nc6 
+    {English: Symmetrical, Two Knights, 5.Nc3 Bb4 6.Bd2 Nc6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33a"]
+[Black "A33a"]
+[Result "*"]
+[ECO "A33a"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Bf4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33b"]
+[Black "A33b"]
+[Result "*"]
+[ECO "A33b"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Bf4"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.Bf4 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Bf4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Bg5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33c"]
+[Black "A33c"]
+[Result "*"]
+[ECO "A33c"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Bg5"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.Bg5 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Bg5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33d"]
+[Black "A33d"]
+[Result "*"]
+[ECO "A33d"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.e3"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.e3 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.e3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.a3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33e"]
+[Black "A33e"]
+[Result "*"]
+[ECO "A33e"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.a3"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.a3 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.a3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.a3 Bc5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33f"]
+[Black "A33f"]
+[Result "*"]
+[ECO "A33f"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.a3 Bc5"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.a3 Bc5 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.a3 Bc5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Ndb5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33g"]
+[Black "A33g"]
+[Result "*"]
+[ECO "A33g"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Ndb5"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.Ndb5 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Ndb5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Ndb5 Bb4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33h"]
+[Black "A33h"]
+[Result "*"]
+[ECO "A33h"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Ndb5 Bb4"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.Ndb5 Bb4 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Ndb5 Bb4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Ndb5 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33i"]
+[Black "A33i"]
+[Result "*"]
+[ECO "A33i"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Ndb5 d5"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.Ndb5 d5 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Ndb5 d5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Ndb5 d5 Queenswap"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33j"]
+[Black "A33j"]
+[Result "*"]
+[ECO "A33j"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Ndb5 d5 Queenswap"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.Ndb5 d5 7.Bf4 e5 8.cxd5 
+exf4 9.dxc6 bxc6 10.Qxd8+ Kxd8 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.Ndb5 d5 Queenswap}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33k"]
+[Black "A33k"]
+[Result "*"]
+[ECO "A33k"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.g3"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.g3 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.g3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.g3 a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33l"]
+[Black "A33l"]
+[Result "*"]
+[ECO "A33l"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.g3 a6"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.g3 a6 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.g3 a6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.g3 Bb4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33m"]
+[Black "A33m"]
+[Result "*"]
+[ECO "A33m"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.g3 Bb4"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.g3 Bb4 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.g3 Bb4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.g3 Bc5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33n"]
+[Black "A33n"]
+[Result "*"]
+[ECO "A33n"]
+[Opening "English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.g3 Bc5"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.g3 Bc5 
+    {English: Symmetrical, Two Knights, 5.Nc3 Nc6 6.g3 Bc5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Geller Variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33o"]
+[Black "A33o"]
+[Result "*"]
+[ECO "A33o"]
+[Opening "English: Symmetrical, Geller Variation"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.g3 Qb6 
+    {English: Symmetrical, Geller Variation}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Geller, 7.Nb3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33p"]
+[Black "A33p"]
+[Result "*"]
+[ECO "A33p"]
+[Opening "English: Symmetrical, Geller, 7.Nb3"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.g3 Qb6 7.Nb3 
+    {English: Symmetrical, Geller, 7.Nb3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Geller, 7.Nb3 Ne5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A33q"]
+[Black "A33q"]
+[Result "*"]
+[ECO "A33q"]
+[Opening "English: Symmetrical, Geller, 7.Nb3 Ne5"]
+
+1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.g3 Qb6 7.Nb3 Ne5 
+    {English: Symmetrical, Geller, 7.Nb3 Ne5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical"]
+
+1.c4 c5 2.Nc3 
+    {English: Symmetrical}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2...b6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 2...b6"]
+
+1.c4 c5 2.Nc3 b6 
+    {English: Symmetrical, 2...b6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2...b6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 2...b6"]
+
+1.c4 c5 2.Nc3 b6 3.Nf3 
+    {English: Symmetrical, 2...b6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2...b6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 2...b6"]
+
+1.c4 c5 2.Nc3 b6 3.Nf3 Bb7 
+    {English: Symmetrical, 2...b6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 2...g6"]
+
+1.c4 c5 2.Nc3 g6 
+    {English: Symmetrical, 2...g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 2...g6"]
+
+1.c4 c5 2.Nc3 g6 3.Nf3 
+    {English: Symmetrical, 2...g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 2...g6"]
+
+1.c4 c5 2.Nc3 g6 3.g3 
+    {English: Symmetrical, 2...g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 2...g6"]
+
+1.c4 c5 2.Nc3 g6 3.g3 Bg7 4.Bg2 
+    {English: Symmetrical, 2...g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2...Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 2...Nf6"]
+
+1.c4 c5 2.Nc3 Nf6 
+    {English: Symmetrical, 2...Nf6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2...Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 2...Nf6"]
+
+1.c4 c5 2.Nc3 Nf6 3.g3 d5 
+    {English: Symmetrical, 2...Nf6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2...Nf6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 2...Nf6 3.g3"]
+
+1.c4 c5 2.Nc3 Nf6 3.g3 
+    {English: Symmetrical, 2...Nf6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2...Nf6 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 2...Nf6 3.g3"]
+
+1.c4 c5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 
+    {English: Symmetrical, 2...Nf6 3.g3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Rubinstein System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, Rubinstein System"]
+
+1.c4 c5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc7 
+    {English: Symmetrical, Rubinstein System}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 
+    {English: Symmetrical, 3 Knights}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 3...b6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 3...b6"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 b6 
+    {English: Symmetrical, 3 Knights, 3...b6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 3...e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 3...e6"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 e6 
+    {English: Symmetrical, 3 Knights, 3...e6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 3...e6 4.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 3...e6 4.g3"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 e6 4.g3 
+    {English: Symmetrical, 3 Knights, 3...e6 4.g3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 3...g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 3...g6"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 g6 
+    {English: Symmetrical, 3 Knights, 3...g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 
+    {English: Symmetrical, 3 Knights}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, Exchange"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, Exchange"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5 
+    {English: Symmetrical, 3 Knights, Exchange}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 5.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 5.g3"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5 5.g3 
+    {English: Symmetrical, 3 Knights, 5.g3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 5.e4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 5.e4"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5 5.e4 
+    {English: Symmetrical, 3 Knights, 5.e4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 5.e4 Nxc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 5.e4 Nxc3"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5 5.e4 Nxc3 
+    {English: Symmetrical, 3 Knights, 5.e4 Nxc3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, Queenswap"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, Queenswap"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.dxc3 Qxd1+ 7.Kxd1 
+    {English: Symmetrical, 3 Knights, Queenswap}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 5.e4 Nb4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 5.e4 Nb4"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5 5.e4 Nb4 
+    {English: Symmetrical, 3 Knights, 5.e4 Nb4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 5.e4 Nb4 6.Bb5+"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 5.e4 Nb4 6.Bb5+"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5 5.e4 Nb4 6.Bb5+ 
+    {English: Symmetrical, 3 Knights, 5.e4 Nb4 6.Bb5+}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 5.e4 Nb4 6.Bc4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 5.e4 Nb4 6.Bc4"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5 5.e4 Nb4 6.Bc4 
+    {English: Symmetrical, 3 Knights, 5.e4 Nb4 6.Bc4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 5.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 5.d4"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5 5.d4 
+    {English: Symmetrical, 3 Knights, 5.d4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 5.d4 cxd4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 5.d4 cxd4"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5 5.d4 cxd4 
+    {English: Symmetrical, 3 Knights, 5.d4 cxd4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3 Knights, 5.d4 Nxc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A34"]
+[Black "A34"]
+[Result "*"]
+[ECO "A34"]
+[Opening "English: Symmetrical, 3 Knights, 5.d4 Nxc3"]
+
+1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5 5.d4 Nxc3 
+    {English: Symmetrical, 3 Knights, 5.d4 Nxc3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35a"]
+[Black "A35a"]
+[Result "*"]
+[ECO "A35a"]
+[Opening "English: Symmetrical"]
+
+1.c4 c5 2.Nc3 Nc6 
+    {English: Symmetrical}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nc3 Nc6 3.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35b"]
+[Black "A35b"]
+[Result "*"]
+[ECO "A35b"]
+[Opening "English: Symmetrical, 2.Nc3 Nc6 3.e3"]
+
+1.c4 c5 2.Nc3 Nc6 3.e3 
+    {English: Symmetrical, 2.Nc3 Nc6 3.e3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nc3 Nc6 3.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35c"]
+[Black "A35c"]
+[Result "*"]
+[ECO "A35c"]
+[Opening "English: Symmetrical, 2.Nc3 Nc6 3.Nf3"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 
+    {English: Symmetrical, 2.Nc3 Nc6 3.Nf3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nc3 Nc6 3.Nf3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35d"]
+[Black "A35d"]
+[Result "*"]
+[ECO "A35d"]
+[Opening "English: Symmetrical, 2.Nc3 Nc6 3.Nf3 g6"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 g6 
+    {English: Symmetrical, 2.Nc3 Nc6 3.Nf3 g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nc3 Nc6 3.Nf3 g6 4.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35e"]
+[Black "A35e"]
+[Result "*"]
+[ECO "A35e"]
+[Opening "English: Symmetrical, 2.Nc3 Nc6 3.Nf3 g6 4.e3"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 g6 4.e3 
+    {English: Symmetrical, 2.Nc3 Nc6 3.Nf3 g6 4.e3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 2.Nc3 Nc6 3.Nf3 g6 4.e3 Bg7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35f"]
+[Black "A35f"]
+[Result "*"]
+[ECO "A35f"]
+[Opening "English: Symmetrical, 2.Nc3 Nc6 3.Nf3 g6 4.e3 Bg7"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 g6 4.e3 Bg7 
+    {English: Symmetrical, 2.Nc3 Nc6 3.Nf3 g6 4.e3 Bg7}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Four Knights"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35g"]
+[Black "A35g"]
+[Result "*"]
+[ECO "A35g"]
+[Opening "English: Symmetrical, Four Knights"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 Nf6 
+    {English: Symmetrical, Four Knights}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Four Knights, 4.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35g"]
+[Black "A35g"]
+[Result "*"]
+[ECO "A35g"]
+[Opening "English: Symmetrical, Four Knights, 4.d4"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 Nf6 4.d4 
+    {English: Symmetrical, Four Knights, 4.d4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Four Knights, 4.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35h"]
+[Black "A35h"]
+[Result "*"]
+[ECO "A35h"]
+[Opening "English: Symmetrical, Four Knights, 4.e3"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 
+    {English: Symmetrical, Four Knights, 4.e3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Four Knights, 4.e3 e5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35i"]
+[Black "A35i"]
+[Result "*"]
+[ECO "A35i"]
+[Opening "English: Symmetrical, Four Knights, 4.e3 e5"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 e5 
+    {English: Symmetrical, Four Knights, 4.e3 e5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Four Knights, 4.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35j"]
+[Black "A35j"]
+[Result "*"]
+[ECO "A35j"]
+[Opening "English: Symmetrical, Four Knights, 4.g3"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 
+    {English: Symmetrical, Four Knights, 4.g3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Four Knights, 4.g3 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35k"]
+[Black "A35k"]
+[Result "*"]
+[ECO "A35k"]
+[Opening "English: Symmetrical, Four Knights, 4.g3 d5"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 
+    {English: Symmetrical, Four Knights, 4.g3 d5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Four Knights, 4.g3 d5 5.cxd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A35l"]
+[Black "A35l"]
+[Result "*"]
+[ECO "A35l"]
+[Opening "English: Symmetrical, Four Knights, 4.g3 d5 5.cxd5"]
+
+1.c4 c5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3 d5 5.cxd5 
+    {English: Symmetrical, Four Knights, 4.g3 d5 5.cxd5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3.g3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36a"]
+[Black "A36a"]
+[Result "*"]
+[ECO "A36a"]
+[Opening "English: Symmetrical, 3.g3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 
+    {English: Symmetrical, 3.g3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3.g3 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36b"]
+[Black "A36b"]
+[Result "*"]
+[ECO "A36b"]
+[Opening "English: Symmetrical, 3.g3 Nf6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 Nf6 
+    {English: Symmetrical, 3.g3 Nf6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3.g3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36c"]
+[Black "A36c"]
+[Result "*"]
+[ECO "A36c"]
+[Opening "English: Symmetrical, 3.g3 e6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 e6 
+    {English: Symmetrical, 3.g3 e6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3.g3 e6 4.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36c"]
+[Black "A36c"]
+[Result "*"]
+[ECO "A36c"]
+[Opening "English: Symmetrical, 3.g3 e6 4.Nf3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 e6 4.Nf3 
+    {English: Symmetrical, 3.g3 e6 4.Nf3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Keres-Parma System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36c"]
+[Black "A36c"]
+[Result "*"]
+[ECO "A36c"]
+[Opening "English: Symmetrical, Keres-Parma System"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 e6 4.Nf3 Nf6 
+    {English: Symmetrical, Keres-Parma System}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Keres-Parma, Main Line Exchange"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36d"]
+[Black "A36d"]
+[Result "*"]
+[ECO "A36d"]
+[Opening "English: Symmetrical, Keres-Parma, Main Line Exchange"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 e6 4.Nf3 Nf6 5.Bg2 Be7 6.O-O d5 7.cxd5 Nxd5 
+    {English: Symmetrical, Keres-Parma, Main Line Exchange}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3.g3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36e"]
+[Black "A36e"]
+[Result "*"]
+[ECO "A36e"]
+[Opening "English: Symmetrical, 3.g3 g6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 
+    {English: Symmetrical, 3.g3 g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3.g3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36e"]
+[Black "A36e"]
+[Result "*"]
+[ECO "A36e"]
+[Opening "English: Symmetrical, 3.g3 g6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 
+    {English: Symmetrical, 3.g3 g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 3.g3 g6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36e"]
+[Black "A36e"]
+[Result "*"]
+[ECO "A36e"]
+[Opening "English: Symmetrical, 3.g3 g6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 
+    {English: Symmetrical, 3.g3 g6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36f"]
+[Black "A36f"]
+[Result "*"]
+[ECO "A36f"]
+[Opening "English: Symmetrical, 5.d3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 
+    {English: Symmetrical, 5.d3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.a3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36g"]
+[Black "A36g"]
+[Result "*"]
+[ECO "A36g"]
+[Opening "English: Symmetrical, 5.a3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.a3 
+    {English: Symmetrical, 5.a3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.a3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36h"]
+[Black "A36h"]
+[Result "*"]
+[ECO "A36h"]
+[Opening "English: Symmetrical, 5.a3 e6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.a3 e6 
+    {English: Symmetrical, 5.a3 e6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.a3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36i"]
+[Black "A36i"]
+[Result "*"]
+[ECO "A36i"]
+[Opening "English: Symmetrical, 5.a3 d6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.a3 d6 
+    {English: Symmetrical, 5.a3 d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.b3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36j"]
+[Black "A36j"]
+[Result "*"]
+[ECO "A36j"]
+[Opening "English: Symmetrical, 5.b3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.b3 
+    {English: Symmetrical, 5.b3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36k"]
+[Black "A36k"]
+[Result "*"]
+[ECO "A36k"]
+[Opening "English: Symmetrical, 5.e3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 
+    {English: Symmetrical, 5.e3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.e3 e5 (Botvinnik Reversed)"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36l"]
+[Black "A36l"]
+[Result "*"]
+[ECO "A36l"]
+[Opening "English: Symmetrical, 5.e3 e5 (Botvinnik Reversed)"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 e5 
+    {English: Symmetrical, 5.e3 e5 (Botvinnik Reversed)}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.e3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36m"]
+[Black "A36m"]
+[Result "*"]
+[ECO "A36m"]
+[Opening "English: Symmetrical, 5.e3 e6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 e6 
+    {English: Symmetrical, 5.e3 e6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.e3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36m"]
+[Black "A36m"]
+[Result "*"]
+[ECO "A36m"]
+[Opening "English: Symmetrical, 5.e3 e6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 e6 6.Nge2 
+    {English: Symmetrical, 5.e3 e6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.e3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36m"]
+[Black "A36m"]
+[Result "*"]
+[ECO "A36m"]
+[Opening "English: Symmetrical, 5.e3 e6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 e6 6.Nge2 Nge7 
+    {English: Symmetrical, 5.e3 e6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik System"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36n"]
+[Black "A36n"]
+[Result "*"]
+[ECO "A36n"]
+[Opening "English: Symmetrical, Botvinnik System"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 
+    {English: Symmetrical, Botvinnik System}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik, 5...Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36o"]
+[Black "A36o"]
+[Result "*"]
+[ECO "A36o"]
+[Opening "English: Symmetrical, Botvinnik, 5...Nf6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 Nf6 
+    {English: Symmetrical, Botvinnik, 5...Nf6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik, 5...Nf6 6.Nge2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36o"]
+[Black "A36o"]
+[Result "*"]
+[ECO "A36o"]
+[Opening "English: Symmetrical, Botvinnik, 5...Nf6 6.Nge2"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 Nf6 6.Nge2 
+    {English: Symmetrical, Botvinnik, 5...Nf6 6.Nge2}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik, 5...e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36p"]
+[Black "A36p"]
+[Result "*"]
+[ECO "A36p"]
+[Opening "English: Symmetrical, Botvinnik, 5...e6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 e6 
+    {English: Symmetrical, Botvinnik, 5...e6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik, 5...e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36p"]
+[Black "A36p"]
+[Result "*"]
+[ECO "A36p"]
+[Opening "English: Symmetrical, Botvinnik, 5...e6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 e6 6.Nge2 Nge7 
+    {English: Symmetrical, Botvinnik, 5...e6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik, 5...e6, 8.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36q"]
+[Black "A36q"]
+[Result "*"]
+[ECO "A36q"]
+[Opening "English: Symmetrical, Botvinnik, 5...e6, 8.d3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 e6 6.Nge2 Nge7 7.O-O O-O 8.d3 
+    {English: Symmetrical, Botvinnik, 5...e6, 8.d3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik, 5...e6, 8.d3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36r"]
+[Black "A36r"]
+[Result "*"]
+[ECO "A36r"]
+[Opening "English: Symmetrical, Botvinnik, 5...e6, 8.d3 d6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 e6 6.Nge2 Nge7 7.O-O O-O 8.d3 d6 
+    {English: Symmetrical, Botvinnik, 5...e6, 8.d3 d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik, 5...d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36s"]
+[Black "A36s"]
+[Result "*"]
+[ECO "A36s"]
+[Opening "English: Symmetrical, Botvinnik, 5...d6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 
+    {English: Symmetrical, Botvinnik, 5...d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik, 5...d6 6.Nge2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36t"]
+[Black "A36t"]
+[Result "*"]
+[ECO "A36t"]
+[Opening "English: Symmetrical, Botvinnik, 5...d6 6.Nge2"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.Nge2 
+    {English: Symmetrical, Botvinnik, 5...d6 6.Nge2}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik, 5...d6 6.Nge2 Nf6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36u"]
+[Black "A36u"]
+[Result "*"]
+[ECO "A36u"]
+[Opening "English: Symmetrical, Botvinnik, 5...d6 6.Nge2 Nf6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.Nge2 Nf6 
+    {English: Symmetrical, Botvinnik, 5...d6 6.Nge2 Nf6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik System, 5...d6, 7.O-O O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36v"]
+[Black "A36v"]
+[Result "*"]
+[ECO "A36v"]
+[Opening "English: Symmetrical, Botvinnik System, 5...d6, 7.O-O O-O"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.Nge2 Nf6 7.O-O O-O 
+    {English: Symmetrical, Botvinnik System, 5...d6, 7.O-O O-O}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik System, 5...d6, 8.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36w"]
+[Black "A36w"]
+[Result "*"]
+[ECO "A36w"]
+[Opening "English: Symmetrical, Botvinnik System, 5...d6, 8.d3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.Nge2 Nf6 7.O-O O-O 8.d3 
+    {English: Symmetrical, Botvinnik System, 5...d6, 8.d3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik System, 5...d6, 8.d3 Rb8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36x"]
+[Black "A36x"]
+[Result "*"]
+[ECO "A36x"]
+[Opening "English: Symmetrical, Botvinnik System, 5...d6, 8.d3 Rb8"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.Nge2 Nf6 7.O-O O-O 8.d3 Rb8 
+    {English: Symmetrical, Botvinnik System, 5...d6, 8.d3 Rb8}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik System, 5...d6, 8.d3 Ne8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36y"]
+[Black "A36y"]
+[Result "*"]
+[ECO "A36y"]
+[Opening "English: Symmetrical, Botvinnik System, 5...d6, 8.d3 Ne8"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.Nge2 Nf6 7.O-O O-O 8.d3 Ne8 
+    {English: Symmetrical, Botvinnik System, 5...d6, 8.d3 Ne8}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Botvinnik System, 5...d6, 8.d3 a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A36z"]
+[Black "A36z"]
+[Result "*"]
+[ECO "A36z"]
+[Opening "English: Symmetrical, Botvinnik System, 5...d6, 8.d3 a6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4 d6 6.Nge2 Nf6 7.O-O O-O 8.d3 a6 
+    {English: Symmetrical, Botvinnik System, 5...d6, 8.d3 a6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37a"]
+[Black "A37a"]
+[Result "*"]
+[ECO "A37a"]
+[Opening "English: Symmetrical, 5.Nf3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 
+    {English: Symmetrical, 5.Nf3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37b"]
+[Black "A37b"]
+[Result "*"]
+[ECO "A37b"]
+[Opening "English: Symmetrical, 5.Nf3 a6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 a6 
+    {English: Symmetrical, 5.Nf3 a6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 Nh6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37c"]
+[Black "A37c"]
+[Result "*"]
+[ECO "A37c"]
+[Opening "English: Symmetrical, 5.Nf3 Nh6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nh6 
+    {English: Symmetrical, 5.Nf3 Nh6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 Nh6 6.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37d"]
+[Black "A37d"]
+[Result "*"]
+[ECO "A37d"]
+[Opening "English: Symmetrical, 5.Nf3 Nh6 6.O-O"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nh6 6.O-O 
+    {English: Symmetrical, 5.Nf3 Nh6 6.O-O}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37e"]
+[Black "A37e"]
+[Result "*"]
+[ECO "A37e"]
+[Opening "English: Symmetrical, 5.Nf3 d6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 d6 
+    {English: Symmetrical, 5.Nf3 d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 d6 6.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37f"]
+[Black "A37f"]
+[Result "*"]
+[ECO "A37f"]
+[Opening "English: Symmetrical, 5.Nf3 d6 6.d3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 d6 6.d3 
+    {English: Symmetrical, 5.Nf3 d6 6.d3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 d6 6.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37g"]
+[Black "A37g"]
+[Result "*"]
+[ECO "A37g"]
+[Opening "English: Symmetrical, 5.Nf3 d6 6.O-O"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 d6 6.O-O 
+    {English: Symmetrical, 5.Nf3 d6 6.O-O}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 d6 6.O-O Nh6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37h"]
+[Black "A37h"]
+[Result "*"]
+[ECO "A37h"]
+[Opening "English: Symmetrical, 5.Nf3 d6 6.O-O Nh6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 d6 6.O-O Nh6 
+    {English: Symmetrical, 5.Nf3 d6 6.O-O Nh6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37i"]
+[Black "A37i"]
+[Result "*"]
+[ECO "A37i"]
+[Opening "English: Symmetrical, 5.Nf3 e6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e6 
+    {English: Symmetrical, 5.Nf3 e6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e6 6.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37j"]
+[Black "A37j"]
+[Result "*"]
+[ECO "A37j"]
+[Opening "English: Symmetrical, 5.Nf3 e6 6.d3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e6 6.d3 
+    {English: Symmetrical, 5.Nf3 e6 6.d3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e6 6.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37k"]
+[Black "A37k"]
+[Result "*"]
+[ECO "A37k"]
+[Opening "English: Symmetrical, 5.Nf3 e6 6.e3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e6 6.e3 
+    {English: Symmetrical, 5.Nf3 e6 6.e3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e6 6.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37l"]
+[Black "A37l"]
+[Result "*"]
+[ECO "A37l"]
+[Opening "English: Symmetrical, 5.Nf3 e6 6.O-O"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e6 6.O-O 
+    {English: Symmetrical, 5.Nf3 e6 6.O-O}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e6 6.O-O Nge7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37l"]
+[Black "A37l"]
+[Result "*"]
+[ECO "A37l"]
+[Opening "English: Symmetrical, 5.Nf3 e6 6.O-O Nge7"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e6 6.O-O Nge7 
+    {English: Symmetrical, 5.Nf3 e6 6.O-O Nge7}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e6 6.O-O Nge7 7.e3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37m"]
+[Black "A37m"]
+[Result "*"]
+[ECO "A37m"]
+[Opening "English: Symmetrical, 5.Nf3 e6 6.O-O Nge7 7.e3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e6 6.O-O Nge7 7.e3 
+    {English: Symmetrical, 5.Nf3 e6 6.O-O Nge7 7.e3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e6 6.O-O Nge7 7.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37n"]
+[Black "A37n"]
+[Result "*"]
+[ECO "A37n"]
+[Opening "English: Symmetrical, 5.Nf3 e6 6.O-O Nge7 7.d3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e6 6.O-O Nge7 7.d3 
+    {English: Symmetrical, 5.Nf3 e6 6.O-O Nge7 7.d3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e6 6.O-O Nge7 7.d3 O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37o"]
+[Black "A37o"]
+[Result "*"]
+[ECO "A37o"]
+[Opening "English: Symmetrical, 5.Nf3 e6 6.O-O Nge7 7.d3 O-O"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e6 6.O-O Nge7 7.d3 O-O 
+    {English: Symmetrical, 5.Nf3 e6 6.O-O Nge7 7.d3 O-O}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e6 6.O-O Nge7 7.d3 O-O 8.Bd2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37p"]
+[Black "A37p"]
+[Result "*"]
+[ECO "A37p"]
+[Opening "English: Symmetrical, 5.Nf3 e6 6.O-O Nge7 7.d3 O-O 8.Bd2"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e6 6.O-O Nge7 7.d3 O-O 8.Bd2 
+    {English: Symmetrical, 5.Nf3 e6 6.O-O Nge7 7.d3 O-O 8.Bd2}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37q"]
+[Black "A37q"]
+[Result "*"]
+[ECO "A37q"]
+[Opening "English: Symmetrical, 5.Nf3 e5"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 
+    {English: Symmetrical, 5.Nf3 e5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5 6.a3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37r"]
+[Black "A37r"]
+[Result "*"]
+[ECO "A37r"]
+[Opening "English: Symmetrical, 5.Nf3 e5 6.a3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 6.a3 
+    {English: Symmetrical, 5.Nf3 e5 6.a3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5 6.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37s"]
+[Black "A37s"]
+[Result "*"]
+[ECO "A37s"]
+[Opening "English: Symmetrical, 5.Nf3 e5 6.d3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 6.d3 
+    {English: Symmetrical, 5.Nf3 e5 6.d3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5 6.d3 Nge7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37t"]
+[Black "A37t"]
+[Result "*"]
+[ECO "A37t"]
+[Opening "English: Symmetrical, 5.Nf3 e5 6.d3 Nge7"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 6.d3 Nge7 
+    {English: Symmetrical, 5.Nf3 e5 6.d3 Nge7}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5 6.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37u"]
+[Black "A37u"]
+[Result "*"]
+[ECO "A37u"]
+[Opening "English: Symmetrical, 5.Nf3 e5 6.O-O"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 6.O-O 
+    {English: Symmetrical, 5.Nf3 e5 6.O-O}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5 6.O-O d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37u"]
+[Black "A37u"]
+[Result "*"]
+[ECO "A37u"]
+[Opening "English: Symmetrical, 5.Nf3 e5 6.O-O d6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 6.O-O d6 
+    {English: Symmetrical, 5.Nf3 e5 6.O-O d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5 6.O-O d6 7.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37v"]
+[Black "A37v"]
+[Result "*"]
+[ECO "A37v"]
+[Opening "English: Symmetrical, 5.Nf3 e5 6.O-O d6 7.d3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 6.O-O d6 7.d3 
+    {English: Symmetrical, 5.Nf3 e5 6.O-O d6 7.d3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5 6.O-O d6 7.d3 Nge7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37v"]
+[Black "A37v"]
+[Result "*"]
+[ECO "A37v"]
+[Opening "English: Symmetrical, 5.Nf3 e5 6.O-O d6 7.d3 Nge7"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 6.O-O d6 7.d3 Nge7 
+    {English: Symmetrical, 5.Nf3 e5 6.O-O d6 7.d3 Nge7}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5 6.O-O d6 7.d3 Nge7 8.a3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37w"]
+[Black "A37w"]
+[Result "*"]
+[ECO "A37w"]
+[Opening "English: Symmetrical, 5.Nf3 e5 6.O-O d6 7.d3 Nge7 8.a3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 6.O-O d6 7.d3 Nge7 8.a3 
+    {English: Symmetrical, 5.Nf3 e5 6.O-O d6 7.d3 Nge7 8.a3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5 6.O-O Nge7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37x"]
+[Black "A37x"]
+[Result "*"]
+[ECO "A37x"]
+[Opening "English: Symmetrical, 5.Nf3 e5 6.O-O Nge7"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 6.O-O Nge7 
+    {English: Symmetrical, 5.Nf3 e5 6.O-O Nge7}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5 6.O-O Nge7 7.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37y"]
+[Black "A37y"]
+[Result "*"]
+[ECO "A37y"]
+[Opening "English: Symmetrical, 5.Nf3 e5 6.O-O Nge7 7.d3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 6.O-O Nge7 7.d3 
+    {English: Symmetrical, 5.Nf3 e5 6.O-O Nge7 7.d3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5 6.O-O Nge7 7.d3 O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37y"]
+[Black "A37y"]
+[Result "*"]
+[ECO "A37y"]
+[Opening "English: Symmetrical, 5.Nf3 e5 6.O-O Nge7 7.d3 O-O"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 6.O-O Nge7 7.d3 O-O 
+    {English: Symmetrical, 5.Nf3 e5 6.O-O Nge7 7.d3 O-O}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, 5.Nf3 e5 6.O-O Nge7 7.d3 O-O 8.a3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A37y"]
+[Black "A37y"]
+[Result "*"]
+[ECO "A37y"]
+[Opening "English: Symmetrical, 5.Nf3 e5 6.O-O Nge7 7.d3 O-O 8.a3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5 6.O-O Nge7 7.d3 O-O 8.a3 
+    {English: Symmetrical, 5.Nf3 e5 6.O-O Nge7 7.d3 O-O 8.a3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38a"]
+[Black "A38a"]
+[Result "*"]
+[ECO "A38a"]
+[Opening "English: Symmetrical, Main Line"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 
+    {English: Symmetrical, Main Line}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 6.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38b"]
+[Black "A38b"]
+[Result "*"]
+[ECO "A38b"]
+[Opening "English: Symmetrical, Main Line, 6.d4"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.d4 
+    {English: Symmetrical, Main Line, 6.d4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 6.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38c"]
+[Black "A38c"]
+[Result "*"]
+[ECO "A38c"]
+[Opening "English: Symmetrical, Main Line, 6.O-O"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O 
+    {English: Symmetrical, Main Line, 6.O-O}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 6.O-O d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38d"]
+[Black "A38d"]
+[Result "*"]
+[ECO "A38d"]
+[Opening "English: Symmetrical, Main Line, 6.O-O d5"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O d5 
+    {English: Symmetrical, Main Line, 6.O-O d5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 6.O-O d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38e"]
+[Black "A38e"]
+[Result "*"]
+[ECO "A38e"]
+[Opening "English: Symmetrical, Main Line, 6.O-O d6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O d6 
+    {English: Symmetrical, Main Line, 6.O-O d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 6.O-O O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38f"]
+[Black "A38f"]
+[Result "*"]
+[ECO "A38f"]
+[Opening "English: Symmetrical, Main Line, 6.O-O O-O"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 
+    {English: Symmetrical, Main Line, 6.O-O O-O}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 7.Rb1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38g"]
+[Black "A38g"]
+[Result "*"]
+[ECO "A38g"]
+[Opening "English: Symmetrical, Main Line, 7.Rb1"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.Rb1 
+    {English: Symmetrical, Main Line, 7.Rb1}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 7.b3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38h"]
+[Black "A38h"]
+[Result "*"]
+[ECO "A38h"]
+[Opening "English: Symmetrical, Main Line, 7.b3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.b3 
+    {English: Symmetrical, Main Line, 7.b3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 7.a3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38i"]
+[Black "A38i"]
+[Result "*"]
+[ECO "A38i"]
+[Opening "English: Symmetrical, Main Line, 7.a3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.a3 
+    {English: Symmetrical, Main Line, 7.a3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 7.a3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38j"]
+[Black "A38j"]
+[Result "*"]
+[ECO "A38j"]
+[Opening "English: Symmetrical, Main Line, 7.a3 d6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.a3 d6 
+    {English: Symmetrical, Main Line, 7.a3 d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 7.d3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38k"]
+[Black "A38k"]
+[Result "*"]
+[ECO "A38k"]
+[Opening "English: Symmetrical, Main Line, 7.d3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d3 
+    {English: Symmetrical, Main Line, 7.d3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 7.d3 a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38l"]
+[Black "A38l"]
+[Result "*"]
+[ECO "A38l"]
+[Opening "English: Symmetrical, Main Line, 7.d3 a6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d3 a6 
+    {English: Symmetrical, Main Line, 7.d3 a6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 7.d3 d5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38m"]
+[Black "A38m"]
+[Result "*"]
+[ECO "A38m"]
+[Opening "English: Symmetrical, Main Line, 7.d3 d5"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d3 d5 
+    {English: Symmetrical, Main Line, 7.d3 d5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 7.d3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38n"]
+[Black "A38n"]
+[Result "*"]
+[ECO "A38n"]
+[Opening "English: Symmetrical, Main Line, 7.d3 d6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d3 d6 
+    {English: Symmetrical, Main Line, 7.d3 d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 7.d3 d6 8.Rb1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38o"]
+[Black "A38o"]
+[Result "*"]
+[ECO "A38o"]
+[Opening "English: Symmetrical, Main Line, 7.d3 d6 8.Rb1"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d3 d6 8.Rb1 
+    {English: Symmetrical, Main Line, 7.d3 d6 8.Rb1}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 7.d3 d6 8.Bd2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38p"]
+[Black "A38p"]
+[Result "*"]
+[ECO "A38p"]
+[Opening "English: Symmetrical, Main Line, 7.d3 d6 8.Bd2"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d3 d6 8.Bd2 
+    {English: Symmetrical, Main Line, 7.d3 d6 8.Bd2}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 7.d3 d6 8.a3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38q"]
+[Black "A38q"]
+[Result "*"]
+[ECO "A38q"]
+[Opening "English: Symmetrical, Main Line, 7.d3 d6 8.a3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d3 d6 8.a3 
+    {English: Symmetrical, Main Line, 7.d3 d6 8.a3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line, 7.d3 d6 8.a3 a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A38r"]
+[Black "A38r"]
+[Result "*"]
+[ECO "A38r"]
+[Opening "English: Symmetrical, Main Line, 7.d3 d6 8.a3 a6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d3 d6 8.a3 a6 
+    {English: Symmetrical, Main Line, 7.d3 d6 8.a3 a6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39a"]
+[Black "A39a"]
+[Result "*"]
+[ECO "A39a"]
+[Opening "English: Symmetrical, Main Line 7.d4"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 
+    {English: Symmetrical, Main Line 7.d4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39b"]
+[Black "A39b"]
+[Result "*"]
+[ECO "A39b"]
+[Opening "English: Symmetrical, Main Line 7.d4"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 
+    {English: Symmetrical, Main Line 7.d4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39c"]
+[Black "A39c"]
+[Result "*"]
+[ECO "A39c"]
+[Opening "English: Symmetrical, Main Line 7.d4"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+    {English: Symmetrical, Main Line 7.d4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 8...Qa5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39d"]
+[Black "A39d"]
+[Result "*"]
+[ECO "A39d"]
+[Opening "English: Symmetrical, Main Line 7.d4, 8...Qa5"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Qa5 
+    {English: Symmetrical, Main Line 7.d4, 8...Qa5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 8...Qb6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39e"]
+[Black "A39e"]
+[Result "*"]
+[ECO "A39e"]
+[Opening "English: Symmetrical, Main Line 7.d4, 8...Qb6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Qb6 
+    {English: Symmetrical, Main Line 7.d4, 8...Qb6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 8...Qb6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39e"]
+[Black "A39e"]
+[Result "*"]
+[ECO "A39e"]
+[Opening "English: Symmetrical, Main Line 7.d4, 8...Qb6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Qb6 9.Nc2 
+    {English: Symmetrical, Main Line 7.d4, 8...Qb6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 8...a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39f"]
+[Black "A39f"]
+[Result "*"]
+[ECO "A39f"]
+[Opening "English: Symmetrical, Main Line 7.d4, 8...a6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+a6 
+    {English: Symmetrical, Main Line 7.d4, 8...a6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 8...d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39g"]
+[Black "A39g"]
+[Result "*"]
+[ECO "A39g"]
+[Opening "English: Symmetrical, Main Line 7.d4, 8...d6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+d6 
+    {English: Symmetrical, Main Line 7.d4, 8...d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 8...Ng4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39h"]
+[Black "A39h"]
+[Result "*"]
+[ECO "A39h"]
+[Opening "English: Symmetrical, Main Line 7.d4, 8...Ng4"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Ng4 
+    {English: Symmetrical, Main Line 7.d4, 8...Ng4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 8...Ng4 9.e3 d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39i"]
+[Black "A39i"]
+[Result "*"]
+[ECO "A39i"]
+[Opening "English: Symmetrical, Main Line 7.d4, 8...Ng4 9.e3 d6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Ng4 9.e3 d6 
+    {English: Symmetrical, Main Line 7.d4, 8...Ng4 9.e3 d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 8...Nxd4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39j"]
+[Black "A39j"]
+[Result "*"]
+[ECO "A39j"]
+[Opening "English: Symmetrical, Main Line 7.d4, 8...Nxd4"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Nxd4 
+    {English: Symmetrical, Main Line 7.d4, 8...Nxd4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 9.Qxd4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39j"]
+[Black "A39j"]
+[Result "*"]
+[ECO "A39j"]
+[Opening "English: Symmetrical, Main Line 7.d4, 9.Qxd4"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Nxd4 9.Qxd4 
+    {English: Symmetrical, Main Line 7.d4, 9.Qxd4}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 9...d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39k"]
+[Black "A39k"]
+[Result "*"]
+[ECO "A39k"]
+[Opening "English: Symmetrical, Main Line 7.d4, 9...d6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Nxd4 9.Qxd4 d6 
+    {English: Symmetrical, Main Line 7.d4, 9...d6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 10.Qd2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39l"]
+[Black "A39l"]
+[Result "*"]
+[ECO "A39l"]
+[Opening "English: Symmetrical, Main Line 7.d4, 10.Qd2"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Nxd4 9.Qxd4 d6 10.Qd2 
+    {English: Symmetrical, Main Line 7.d4, 10.Qd2}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 10.Qd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39m"]
+[Black "A39m"]
+[Result "*"]
+[ECO "A39m"]
+[Opening "English: Symmetrical, Main Line 7.d4, 10.Qd3"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Nxd4 9.Qxd4 d6 10.Qd3 
+    {English: Symmetrical, Main Line 7.d4, 10.Qd3}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 10.Qd3 Bf5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39n"]
+[Black "A39n"]
+[Result "*"]
+[ECO "A39n"]
+[Opening "English: Symmetrical, Main Line 7.d4, 10.Qd3 Bf5"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Nxd4 9.Qxd4 d6 10.Qd3 Bf5 
+    {English: Symmetrical, Main Line 7.d4, 10.Qd3 Bf5}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 10.Qd3 Rb8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39o"]
+[Black "A39o"]
+[Result "*"]
+[ECO "A39o"]
+[Opening "English: Symmetrical, Main Line 7.d4, 10.Qd3 Rb8"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Nxd4 9.Qxd4 d6 10.Qd3 Rb8 
+    {English: Symmetrical, Main Line 7.d4, 10.Qd3 Rb8}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 10.Qd3 a6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39p"]
+[Black "A39p"]
+[Result "*"]
+[ECO "A39p"]
+[Opening "English: Symmetrical, Main Line 7.d4, 10.Qd3 a6"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Nxd4 9.Qxd4 d6 10.Qd3 a6 
+    {English: Symmetrical, Main Line 7.d4, 10.Qd3 a6}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 10.Qd3 a6 11.Bd2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39q"]
+[Black "A39q"]
+[Result "*"]
+[ECO "A39q"]
+[Opening "English: Symmetrical, Main Line 7.d4, 10.Qd3 a6 11.Bd2"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Nxd4 9.Qxd4 d6 10.Qd3 a6 11.Bd2 
+    {English: Symmetrical, Main Line 7.d4, 10.Qd3 a6 11.Bd2}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 10.Qd3 a6 11.Bd2 Rb8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39q"]
+[Black "A39q"]
+[Result "*"]
+[ECO "A39q"]
+[Opening "English: Symmetrical, Main Line 7.d4, 10.Qd3 a6 11.Bd2 Rb8"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Nxd4 9.Qxd4 d6 10.Qd3 a6 11.Bd2 Rb8 
+    {English: Symmetrical, Main Line 7.d4, 10.Qd3 a6 11.Bd2 Rb8}
+*
+
+[Event "?"]
+[Site "English: Symmetrical, Main Line 7.d4, 10.Qd3 a6 11.Bd2 Rb8 12.Rac1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "A39r"]
+[Black "A39r"]
+[Result "*"]
+[ECO "A39r"]
+[Opening "English: Symmetrical, Main Line 7.d4, 10.Qd3 a6 11.Bd2 Rb8 12.Rac1"]
+
+1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4 cxd4 8.Nxd4 
+Nxd4 9.Qxd4 d6 10.Qd3 a6 11.Bd2 Rb8 12.Rac1 
+    {English: Symmetrical, Main Line 7.d4, 10.Qd3 a6 11.Bd2 Rb8 12.Rac1}
+*
+
