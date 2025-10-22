@@ -1,0 +1,293 @@
+/* ======================================
+Estilos CSS Personalizados para PyChess AI
+Tema: claro / blanco (reemplaza el tema morado)
+====================================== */
+
+/* Utilidades generales */
+body { font-family: "Mulish", sans-serif; }
+
+/* Reset y estilo general */
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+
+body::-webkit-scrollbar { width: 8px; }
+body::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.12); border-radius: 8px; }
+
+body {
+  margin: 0;
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.3;
+  letter-spacing: 0.02em;
+  background: linear-gradient(180deg, #1e1f29 0%, #2f3142 100%);
+  color: #f8fafc;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+}
+
+/* Tipografía */
+h1, h2, p { color: #0f172a; margin: 0; }
+h1 { font-weight: 800; font-size: 2.5rem; }
+
+/* Contenedor principal */
+.main-container {
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+  width: 100%;
+  max-width: 1000px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  border: 1px solid rgba(15,23,42,0.04);
+}
+
+/* Pantalla de inicio */
+#splash-screen {
+  text-align: center;
+  padding: 2rem 0;
+}
+#splash-screen h1 {
+  color: #0b1220;
+  text-shadow: none;
+  line-height: 1.05;
+}
+#splash-screen p {
+  font-size: 1rem;
+  color: #475569;
+  margin-bottom: 1.25rem;
+}
+
+/* Selector y botones */
+#difficulty-select {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  background: #ffffff;
+  border: 1px solid #e6eef8;
+  color: #0f172a;
+  font-size: 1rem;
+  box-shadow: 0 2px 6px rgba(2,6,23,0.04);
+  appearance: none;
+  cursor: pointer;
+}
+.start-button {
+  font: inherit;
+  font-weight: 700;
+  color: #ffffff;
+  background: linear-gradient(180deg,#0b79f7 0%, #0366d6 100%);
+  padding: 12px 22px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.12s, box-shadow 0.12s;
+  font-size: 1rem;
+}
+.start-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(3,102,214,0.18);
+}
+
+/* Estructura del juego */
+#game-screen {
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+.panel {
+  background-color: rgba(244,246,248,0.8);
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: inset 0 0 6px rgba(2,6,23,0.02);
+}
+.panel h2 { color: #0b1220; margin-bottom: 8px; }
+.status-message {
+  padding: 12px;
+  border-radius: 8px;
+  font-weight: 700;
+  margin-bottom: 12px;
+  color: #0b1220;
+  background: #eef2ff;
+}
+.status-info { background-color: #eef2ff; color: #0b1220; }
+.status-warning { background-color: #fff7ed; color: #92400e; }
+.status-error { background-color: #fee2e2; color: #7f1d1d; }
+.status-success { background-color: #ecfdf5; color: #064e3b; }
+
+/* Tablero: aspecto visual tipo ajedrez */
+:root {
+  --board-size: min(88vw, 720px);
+  --square-size: calc(var(--board-size) / 8);
+  --light-square: #f2f4f6; /* clásico claro */
+  --dark-square:  #3b4455; /* clásico oscuro */
+  --highlight-move: rgba(255, 206, 86, 0.8);
+  --highlight-selected: rgba(102, 126, 234, 0.55);
+  --highlight-legal: rgba(102, 126, 234, 0.65);
+}
+
+.board {
+  width: var(--board-size);
+  height: var(--board-size);
+  display: grid;
+  grid-template-columns: repeat(8, var(--square-size));
+  grid-template-rows: repeat(8, var(--square-size));
+  box-shadow: 0 12px 30px rgba(2,6,23,0.06);
+  border-radius: 10px;
+  overflow: hidden;
+  border: 6px solid #11182710;
+  background: linear-gradient(180deg,#e8dfc2 0%, #efe7cc 100%);
+}
+
+/* Casillas */
+.square {
+  width: var(--square-size);
+  height: var(--square-size);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: calc(var(--square-size) * 0.5);
+  cursor: pointer;
+  transition: background-color 0.08s, transform 0.04s;
+  user-select: none;
+  position: relative;
+}
+
+/* colores del tablero clásico */
+.light { background-color: var(--light-square); }
+.dark  { background-color: var(--dark-square); }
+
+/* Piezas (cuando se usan imágenes) */
+.chess-piece-image {
+  width: 86%;
+  height: 86%;
+  object-fit: contain;
+  position: absolute;
+  top: 7%;
+  left: 7%;
+  pointer-events: none;
+  transition: transform 0.08s ease, filter 0.08s ease;
+  filter: drop-shadow(0 8px 14px rgba(2,6,23,0.12));
+}
+
+/* Caballos por defecto */
+img[data-piece="wN"],
+img[data-piece="bN"],
+.piece.wN,
+.piece.bN,
+.chess-piece-image[data-piece="wN"],
+.chess-piece-image[data-piece="bN"] {
+  transform: none !important;
+}
+
+/* Caballos invertidos solo en b1 y b8 */
+.square-b1 img[data-piece="wN"],
+.square-b8 img[data-piece="wN"],
+.square-b1 img[data-piece="bN"],
+.square-b8 img[data-piece="bN"],
+.square-b1 .piece.wN,
+.square-b8 .piece.wN,
+.square-b1 .piece.bN,
+.square-b8 .piece.bN,
+.square-b1 .chess-piece-image[data-piece="wN"],
+.square-b8 .chess-piece-image[data-piece="wN"],
+.square-b1 .chess-piece-image[data-piece="bN"],
+.square-b8 .chess-piece-image[data-piece="bN"] {
+  transform: scaleX(-1) !important;
+  transform-origin: center;
+}
+
+/* texto de piezas (fallback) */
+.piece-emoji { font-size: calc(var(--square-size) * 0.6); }
+
+/* Estados visuales */
+.square:hover { transform: translateY(-2px); }
+.selected {
+  box-shadow: inset 0 0 0 4px var(--highlight-selected);
+  transform: none;
+}
+.move-source {
+  box-shadow: inset 0 0 0 4px var(--highlight-move);
+}
+.move-target {
+  box-shadow: inset 0 0 0 4px rgba(255, 165, 0, 0.85);
+}
+.possible-move::after {
+  content: "";
+  width: 22%;
+  height: 22%;
+  border-radius: 50%;
+  background: var(--highlight-legal);
+  position: absolute;
+  z-index: 5;
+  box-shadow: 0 0 10px rgba(102, 126, 234, 0.45);
+  transition: transform 0.2s ease;
+}
+.possible-move:hover::after {
+  transform: scale(1.3);
+}
+.in-check {
+  box-shadow: inset 0 0 0 6px rgba(239,68,68,0.9);
+}
+
+.move-animate {
+  animation: pieceMove 0.25s ease-out;
+}
+
+@keyframes pieceMove {
+  0% { transform: scale(0.9); opacity: 0.6; }
+  60% { transform: scale(1.03); opacity: 1; }
+  100% { transform: scale(1); }
+}
+
+/* Botones de control */
+.game-control-button {
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  background: #0b1220;
+  color: #fff;
+  transition: background 0.12s, transform 0.08s;
+}
+.reset-button { background: #ef4444; }
+.reset-button:hover { background: #dc2626; transform: translateY(-1px); }
+
+/* Modal */
+.modal {
+  position: fixed;
+  z-index: 1000;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(2,6,23,0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.modal-content {
+  background-color: #ffffff;
+  padding: 24px;
+  border-radius: 12px;
+  text-align: center;
+  max-width: 480px;
+  box-shadow: 0 10px 30px rgba(2,6,23,0.12);
+}
+.modal-content h3 { color: #0b1220; font-size: 1.5rem; margin-bottom: 8px; }
+.modal-content button { margin: 0 8px; padding: 10px 14px; border-radius: 8px; cursor: pointer; }
+
+/* Responsive */
+@media (max-width: 768px) {
+  :root { --board-size: min(92vw, 520px); }
+  .main-container { padding: 1rem; }
+  .square { font-size: calc(var(--square-size) * 0.5); }
+  #splash-screen h1 { font-size: 1.75rem; }
+  .panel h2 { font-size: 1.25rem; }
+}
+
+/* utilidad */
+.hidden { display: none !important; }

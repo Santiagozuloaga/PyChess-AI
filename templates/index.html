@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PyChess AI - Ajedrez Interactivo</title>
+  
+  <link rel="stylesheet" href="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css">
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+      min-height: 100vh;
+    }
+    
+    h1 {
+      color: white;
+      margin: 20px 0;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+      font-size: 2.5em;
+    }
+    
+    /* === MODAL DE INTRO === */
+    #intro-modal {
+      display: flex;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.85);
+      z-index: 10000;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    #intro-modal.hidden {
+      display: none;
+    }
+    
+    .intro-content {
+      background: rgb(255, 255, 255);
+      padding: 40px;
+      border-radius: 20px;
+      max-width: 600px;
+      text-align: center;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+      animation: slideIn 0.5s ease-out;
+    }
+    
+    @keyframes slideIn {
+      from {
+        transform: translateY(-50px);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+    
+    .intro-content h2 {
+      color: #667eea;
+      font-size: 2.5em;
+      margin-bottom: 20px;
+    }
+    
+    .intro-content p {
+      color: #000000;
+      font-size: 1.1em;
+      line-height: 1.8;
+      margin-bottom: 15px;
+    }
+    
+    .intro-features {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 15px;
+      margin: 30px 0;
+      text-align: left;
+    }
+    
+    .feature-item {
+      background: #b9b9b9;
+      padding: 15px;
+      border-radius: 10px;
+      border-left: 4px solid #667eea;
+    }
+    
+    .feature-item strong {
+      color: #667eea;
+      display: block;
+      margin-bottom: 5px;
+    }
+    
+    .intro-buttons {
+      display: flex;
+      gap: 15px;
+      justify-content: center;
+      margin-top: 30px;
+    }
+    
+    .intro-btn {
+      padding: 15px 30px;
+      font-size: 1.1em;
+      font-weight: bold;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+    
+    .intro-btn.primary {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+    }
+    
+    .intro-btn.primary:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 20px rgba(102, 126, 234, 0.4);
+    }
+    
+    .intro-btn.secondary {
+      background: white;
+      color: #667eea;
+      border: 2px solid #667eea;
+    }
+    
+    .intro-btn.secondary:hover {
+      background: #667eea;
+      color: white;
+    }
+    
+    /* === ALERT DE JAQUE === */
+    #check-alert {
+      position: fixed;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%) translateY(-150px);
+      background: linear-gradient(135deg, #ff6b6b, #ee5a6f);
+      color: white;
+      padding: 25px 50px;
+      border-radius: 15px;
+      font-size: 2em;
+      font-weight: bold;
+      box-shadow: 0 10px 30px rgba(255, 107, 107, 0.5);
+      z-index: 9999;
+      transition: transform 0.5s ease-out;
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      border: 3px solid #fff;
+    }
+    
+    #check-alert.show {
+      transform: translateX(-50%) translateY(0);
+      animation: shake 0.5s;
+    }
+    
+    #check-alert::before {
+      content: "⚠️";
+      font-size: 1.8em;
+      animation: pulse 1s infinite;
+    }
+    
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.3); }
+    }
+    
+    @keyframes shake {
+      0%, 100% { transform: translateX(-50%) translateY(0) rotate(0deg); }
+      25% { transform: translateX(-50%) translateY(0) rotate(-5deg); }
+      75% { transform: translateX(-50%) translateY(0) rotate(5deg); }
+    }
+    
+    /* === MODAL DE PROMOCIÓN === */
+    #promotion-modal {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.8);
+      z-index: 10001;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    #promotion-modal.show {
+      display: flex;
+    }
+    
+    .promotion-content {
+      background: white;
+      padding: 30px;
+      border-radius: 15px;
+      text-align: center;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+    }
+    
+    .promotion-content h3 {
+      margin-bottom: 20px;
+      color: #333;
+      font-size: 1.5em;
+    }
+    
+    .promotion-pieces {
+      display: flex;
+      gap: 15px;
+      justify-content: center;
+    }
+    
+    .promotion-piece {
+      width: 80px;
+      height: 80px;
+      border: 3px solid #ddd;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all 0.3s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 3em;
+      background: white;
+    }
+    
+    .promotion-piece:hover {
+      border-color: #667eea;
+      transform: scale(1.1);
+      box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+    }
+    
+    /* === CONTENEDOR DEL JUEGO === */
+    #game-container {
+      background: white;
+      border-radius: 12px;
+      padding: 25px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+      max-width: 600px;
+      width: 100%;
+    }
+    
+    #controls {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    
+    #controls label {
+      font-weight: 600;
+      color: #333;
+    }
+    
+    select, button {
+      padding: 10px 15px;
+      border: 2px solid #ddd;
+      border-radius: 6px;
+      background-color: white;
+      cursor: pointer;
+      font-size: 14px;
+      transition: all 0.3s;
+    }
+    
+    select:hover, select:focus {
+      border-color: #667eea;
+      outline: none;
+    }
+    
+    button {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      border: none;
+      font-weight: bold;
+    }
+    
+    button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+    }
+    
+    button:active {
+      transform: translateY(0);
+    }
+    
+    button:disabled {
+      background: #ccc;
+      cursor: not-allowed;
+      transform: none;
+    }
+    
+    #board {
+      width: 100%;
+      max-width: 500px;
+      margin: 0 auto;
+    }
+    
+    #status {
+      margin-top: 20px;
+      padding: 15px;
+      background-color: #e3f2fd;
+      border-left: 4px solid #2196f3;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 500;
+      color: #333;
+      text-align: center;
+    }
+    
+    #status.error {
+      background-color: #ffebee;
+      border-left-color: #f44336;
+    }
+    
+    #status.thinking {
+      background-color: #fff3e0;
+      border-left-color: #ff9800;
+    }
+    
+    #status.success {
+      background-color: #e8f5e9;
+      border-left-color: #4caf50;
+    }
+    
+    #status.check {
+      background-color: #fff3e0;
+      border-left-color: #ff5722;
+      font-weight: bold;
+    }
+    
+    #status.gameover {
+      background-color: #f3e5f5;
+      border-left-color: #9c27b0;
+      font-size: 16px;
+      font-weight: bold;
+    }
+    
+    .move-history {
+      margin-top: 20px;
+      max-height: 200px;
+      overflow-y: auto;
+      padding: 10px;
+      background-color: #f9f9f9;
+      border-radius: 6px;
+      border: 1px solid #e0e0e0;
+    }
+    
+    .move-history h3 {
+      margin-bottom: 10px;
+      color: #555;
+      font-size: 16px;
+    }
+    
+    .move-item {
+      padding: 6px 10px;
+      margin: 3px 0;
+      background: white;
+      border-radius: 4px;
+      font-family: 'Courier New', monospace;
+      font-size: 13px;
+      border-left: 3px solid #667eea;
+    }
+    
+    /* Mode Tabs */
+    .mode-tabs {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+      border-bottom: 2px solid #e0e0e0;
+      padding-bottom: 10px;
+    }
+    
+    .mode-tab {
+      padding: 10px 20px;
+      background: transparent;
+      color: #666;
+      border: none;
+      border-bottom: 3px solid transparent;
+      cursor: pointer;
+      font-size: 15px;
+      font-weight: 600;
+      transition: all 0.3s;
+    }
+    
+    .mode-tab:hover {
+      color: #667eea;
+      background: transparent;
+      transform: none;
+    }
+    
+    .mode-tab.active {
+      color: #667eea;
+      border-bottom-color: #667eea;
+      background: transparent;
+    }
+    
+    #ai-settings {
+      display: none;
+    }
+    
+    #ai-settings.active,
+    #pvp-settings.active {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+    
+
+    
+    @media (max-width: 600px) {
+      h1 { font-size: 2em; }
+      #controls { justify-content: center; }
+      .intro-features { grid-template-columns: 1fr; }
+      .intro-content { padding: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <!-- MODAL DE INTRO -->
+  <div id="intro-modal">
+    <div class="intro-content">
+      <h2>♟️ Bienvenido a PyChess AI</h2>
+      <p>Un juego de ajedrez inteligente desarrollado con algoritmo Minimax y poda Alpha-Beta</p>
+      
+      <div class="intro-features">
+        <div class="feature-item">
+          <strong>🤖 Jugar vs IA</strong>
+          <span>5 niveles de dificultad</span>
+        </div>
+        <div class="feature-item">
+          <strong>👥 Modo 2 Jugadores</strong>
+          <span>Juega con un amigo</span>
+        </div>
+        <div class="feature-item">
+          <strong>⚠️ Alertas de Jaque</strong>
+          <span>Notificaciones visuales</span>
+        </div>
+        <div class="feature-item">
+          <strong>🎨 Elige tu Color</strong>
+          <span>Blancas o Negras</span>
+        </div>
+      </div>
+      
+      <p style="font-size: 0.95em; color: #777;">
+        <strong>Cómo jugar:</strong> Arrastra y suelta las piezas para mover. 
+        El sistema valida automáticamente todos los movimientos.
+      </p>
+      
+      <div class="intro-buttons">
+        <button class="intro-btn primary" onclick="startGame()">
+          🚀 ¡Comenzar a Jugar!
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ALERTA DE JAQUE -->
+  <div id="check-alert">¡JAQUE AL REY!</div>
+
+  <!-- MODAL DE PROMOCIÓN -->
+  <div id="promotion-modal">
+    <div class="promotion-content">
+      <h3>♟️ Elige la pieza de promoción</h3>
+      <div class="promotion-pieces">
+        <div class="promotion-piece" data-piece="q" title="Reina">♕</div>
+        <div class="promotion-piece" data-piece="r" title="Torre">♖</div>
+        <div class="promotion-piece" data-piece="b" title="Alfil">♗</div>
+        <div class="promotion-piece" data-piece="n" title="Caballo">♘</div>
+      </div>
+    </div>
+  </div>
+
+  <h1>♟️ PyChess AI</h1>
+  
+  <div id="game-container">
+    <!-- TABS DE MODO -->
+    <div class="mode-tabs">
+      <button class="mode-tab active" data-mode="ai">🤖 vs IA</button>
+      <button class="mode-tab" data-mode="pvp">👥 2 Jugadores</button>
+    </div>
+
+    <div id="controls">
+      <!-- Configuración vs IA -->
+      <div id="ai-settings" class="active">
+        <label for="player-color">Tu color:</label>
+        <select id="player-color">
+          <option value="white" selected>⚪ Blancas</option>
+          <option value="black">⚫ Negras</option>
+        </select>
+        
+        <label for="difficulty">Dificultad:</label>
+        <select id="difficulty">
+          <option value="1">Muy Fácil (1) - 400 ELO</option>
+          <option value="2">Fácil (2) - 800 ELO</option>
+          <option value="3" selected>Normal (3) - 1200 ELO</option>
+          <option value="4">Difícil (4) - 1600 ELO</option>
+          <option value="5">Muy Difícil (5) - 2000 ELO</option>
+        </select>
+      </div>
+      
+      <!-- Configuración PvP -->
+      <div id="pvp-settings">
+        <label style="color: #667eea; font-size: 1.1em;">Modo local para 2 jugadores</label>
+      </div>
+      
+      <button id="resetBtn">🔄 Reiniciar</button>
+    </div>
+    
+    <div id="board"></div>
+    
+    <div id="status" class="success">
+      ✅ Listo para jugar
+    </div>
+    
+    <div class="move-history">
+      <h3>📝 Historial de Movimientos</h3>
+      <div id="moveList"></div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.js"></script>
+  
+  <script>
+    let board = null;
+    let isThinking = false;
+    let moveCount = 0;
+    let gameMode = 'ai'; // 'ai' o 'pvp'
+    let playerColor = 'white';
+    let currentTurn = 'white';
+
+    const selectionHighlights = new Set();
+    const legalHighlights = new Set();
+    const moveHighlights = new Set();
+    let pendingLegalRequest = null;
+    let pendingLegalSquare = null;
+
+    function getSquareElement(square) {
+      if (!square) return $();
+      return $(`#board .square-${square.toLowerCase()}`);
+    }
+
+    function clearHighlights() {
+      selectionHighlights.forEach(square => {
+        getSquareElement(square).removeClass('selected');
+      });
+      selectionHighlights.clear();
+
+      legalHighlights.forEach(square => {
+        getSquareElement(square).removeClass('possible-move');
+      });
+      legalHighlights.clear();
+
+      if (pendingLegalRequest && typeof pendingLegalRequest.abort === 'function') {
+        pendingLegalRequest.abort();
+      }
+      pendingLegalRequest = null;
+      pendingLegalSquare = null;
+    }
+
+    function clearMoveHighlights() {
+      moveHighlights.forEach(square => {
+        getSquareElement(square).removeClass('move-source move-target move-animate');
+      });
+      moveHighlights.clear();
+    }
+
+    function highlightSelectedSquare(square) {
+      const $square = getSquareElement(square);
+      if ($square.length === 0) return;
+      selectionHighlights.add(square);
+      $square.addClass('selected');
+    }
+
+    function showLegalMoves(square) {
+      legalHighlights.forEach(existing => {
+        getSquareElement(existing).removeClass('possible-move');
+      });
+      legalHighlights.clear();
+
+      if (!square) {
+        return;
+      }
+
+      if (pendingLegalRequest && typeof pendingLegalRequest.abort === 'function') {
+        pendingLegalRequest.abort();
+      }
+
+      pendingLegalSquare = square;
+      pendingLegalRequest = $.ajax({
+        url: '/legal_moves',
+        method: 'GET',
+        data: { square: square },
+        success: function(response) {
+          if (!response || response.status !== 'success') {
+            return;
+          }
+
+          if (pendingLegalSquare !== square) {
+            return;
+          }
+
+          (response.destinations || []).forEach(destination => {
+            const $destination = getSquareElement(destination);
+            if ($destination.length === 0) return;
+            legalHighlights.add(destination);
+            $destination.addClass('possible-move');
+          });
+        },
+        error: function() {
+          console.warn('No se pudo obtener movimientos legales para', square);
+        },
+        complete: function() {
+          pendingLegalRequest = null;
+        }
+      });
+    }
+
+    function highlightMoveSequence(moves) {
+      if (!Array.isArray(moves) || moves.length === 0) {
+        return;
+      }
+
+      clearMoveHighlights();
+      const animatedSquares = new Set();
+
+      moves.forEach(move => {
+        if (!move || move.length < 4) {
+          return;
+        }
+
+        const from = move.substring(0, 2);
+        const to = move.substring(2, 4);
+
+        const $from = getSquareElement(from);
+        if ($from.length) {
+          $from.addClass('move-source');
+          moveHighlights.add(from);
+        }
+
+        const $to = getSquareElement(to);
+        if ($to.length) {
+          $to.addClass('move-target move-animate');
+          moveHighlights.add(to);
+          animatedSquares.add(to);
+        }
+      });
+
+      animatedSquares.forEach(square => {
+        const $square = getSquareElement(square);
+        setTimeout(() => $square.removeClass('move-animate'), 300);
+      });
+    }
+
+
+    // Inicializar
+    $(document).ready(function() {
+      board = Chessboard('board', {
+        draggable: true,
+        position: 'start',
+        onDragStart: onDragStart,
+        onDrop: onDrop,
+        pieceTheme: 'https://chessboardjs.com/img/chesspieces/wikipedia/{piece}.png'
+      });
+      
+      setDifficulty(parseInt($('#difficulty').val()));
+    });
+    
+    // Iniciar juego (cerrar intro)
+    function startGame() {
+      $('#intro-modal').addClass('hidden');
+      updateStatus('✅ Selecciona un modo de juego', 'success');
+    }
+    
+    // Cambiar modo de juego
+    $('.mode-tab').click(function() {
+      $('.mode-tab').removeClass('active');
+      $(this).addClass('active');
+      
+      gameMode = $(this).data('mode');
+      
+      if (gameMode === 'ai') {
+        $('#ai-settings').addClass('active');
+        $('#pvp-settings').removeClass('active');
+        updateStatus('🤖 Modo vs IA activado. Configura tu color y dificultad', 'success');
+      } else {
+        $('#ai-settings').removeClass('active');
+        $('#pvp-settings').addClass('active');
+        updateStatus('👥 Modo 2 Jugadores activado. Turno de Blancas ⚪', 'success');
+      }
+      
+      resetGame();
+    });
+    
+    // Cambiar color del jugador
+    $('#player-color').change(function() {
+      playerColor = $(this).val();
+      board.orientation(playerColor === 'white' ? 'white' : 'black');
+      resetGame();
+      
+      if (playerColor === 'black' && gameMode === 'ai') {
+        updateStatus('⏳ La IA jugará primero...', 'thinking');
+        setTimeout(makeAIFirstMove, 500);
+      }
+    });
+    
+    // Primera jugada de la IA cuando el usuario elige negras
+    function makeAIFirstMove() {
+      isThinking = true;
+      $.ajax({
+        url: '/ai_first_move',
+        method: 'POST',
+        contentType: 'application/json',
+        success: function(response) {
+          if (response.status === 'success') {
+            board.position(response.fen);
+            moveCount++;
+            addMoveToHistory(moveCount, 'IA ⚪', response.ai_move);
+            updateStatus('✅ Tu turno. Mueve las Negras ⚫', 'success');
+            isThinking = false;
+          }
+        },
+        error: function() {
+          updateStatus('❌ Error en el primer movimiento de la IA', 'error');
+          isThinking = false;
+        }
+      });
+    }
+    
+    function onDragStart(source, piece) {
+      if (isThinking) {
+        updateStatus('⏳ Espera tu turno...', 'thinking');
+        return false;
+      }
+      
+      clearHighlights();
+      highlightSelectedSquare(source);
+      showLegalMoves(source);
+      
+      if (gameMode === 'pvp') {
+        // En modo PvP, alternar turnos
+        if ((currentTurn === 'white' && piece.search(/^b/) !== -1) ||
+            (currentTurn === 'black' && piece.search(/^w/) !== -1)) {
+          return false;
+        }
+      } else {
+        // En modo IA, solo mover piezas del color del jugador
+        if (playerColor === 'white' && piece.search(/^b/) !== -1) {
+          return false;
+        }
+        if (playerColor === 'black' && piece.search(/^w/) !== -1) {
+          return false;
+        }
+      }
+      
+      return true;
+    }
+    
+    function onDrop(source, target) {
+      if (isThinking) return 'snapback';
+      
+      clearHighlights();
+      
+      const move = source + target;
+      
+      if (gameMode === 'pvp') {
+        makePvPMove(move);
+      } else {
+        makeAIMove(move);
+      }
+      
+      return 'snapback';
+    }
+    
+    // Modo 2 jugadores
+    function makePvPMove(move) {
+      isThinking = true;
+      updateStatus('🤔 Procesando movimiento...', 'thinking');
+      
+      $.ajax({
+        url: '/make_pvp_move',
+        method: 'POST',
+        contentType: 'application/json',
+        data: JSON.stringify({ move: move }),
+        success: function(response) {
+          if (response.status === 'error') {
+            updateStatus('❌ ' + response.message, 'error');
+            isThinking = false;
+            return;
+          }
+          
+          board.position(response.fen);
+          highlightMoveSequence(response.move ? [response.move] : []);
+          moveCount++;
+          
+          const playerName = currentTurn === 'white' ? 'Blancas ⚪' : 'Negras ⚫';
+          addMoveToHistory(moveCount, playerName, response.move);
+          
+          // Verificar jaque
+          if (response.in_check) {
+            showCheckAlert();
+          }
+          
+          if (response.status === 'game_over') {
+            handleGameOver(response);
+            return;
+          }
+          
+          // Cambiar turno
+          currentTurn = currentTurn === 'white' ? 'black' : 'white';
+          const nextPlayer = currentTurn === 'white' ? 'Blancas ⚪' : 'Negras ⚫';
+          updateStatus(`✅ Turno de ${nextPlayer}`, 'success');
+          isThinking = false;
+        },
+        error: function(xhr) {
+          let errorMsg = 'Error de comunicación';
+          try { errorMsg = JSON.parse(xhr.responseText).message; } catch(e) {}
+          updateStatus('❌ ' + errorMsg, 'error');
+          isThinking = false;
+        }
+      });
+    }
+    
+    // Modo vs IA
+    function makeAIMove(move) {
+      isThinking = true;
+      updateStatus('🤔 Procesando tu movimiento...', 'thinking');
+      
+      $.ajax({
+        url: '/make_move',
+        method: 'POST',
+        contentType: 'application/json',
+        data: JSON.stringify({ move: move, promotion: 'q' }),
+        success: function(response) {
+          if (response.status === 'error') {
+            updateStatus('❌ ' + response.message, 'error');
+            isThinking = false;
+            return;
+          }
+          
+          board.position(response.fen);
+          const movesToHighlight = [];
+
+          if (response.user_move) {
+            movesToHighlight.push(response.user_move);
+            moveCount++;
+            const userColor = playerColor === 'white' ? '⚪' : '⚫';
+            addMoveToHistory(moveCount, `Tú ${userColor}`, response.user_move);
+          }
+          
+          if (response.ai_move) {
+            movesToHighlight.push(response.ai_move);
+            const aiColor = playerColor === 'white' ? '⚫' : '⚪';
+            addMoveToHistory(moveCount, `IA ${aiColor}`, response.ai_move);
+          }
+
+          highlightMoveSequence(movesToHighlight);
+          
+          // Verificar jaque
+          if (response.in_check) {
+            showCheckAlert();
+          }
+          
+          if (response.status === 'game_over') {
+            handleGameOver(response);
+            return;
+          }
+          
+          updateStatus(`✅ Tu turno. Mueve las ${playerColor === 'white' ? 'Blancas ⚪' : 'Negras ⚫'}`, 'success');
+          isThinking = false;
+        },
+        error: function(xhr) {
+          let errorMsg = 'Error de comunicación';
+          try { errorMsg = JSON.parse(xhr.responseText).message; } catch(e) {}
+          updateStatus('❌ ' + errorMsg, 'error');
+          isThinking = false;
+        }
+      });
+    }
+    
+    // Mostrar alerta de jaque
+    function showCheckAlert() {
+      const alert = $('#check-alert');
+      alert.addClass('show');
+      setTimeout(() => alert.removeClass('show'), 3000);
+    }
+    
+    function handleGameOver(payload) {
+      const message = payload.draw_reason || payload.message;
+      updateStatus('🏁 ' + message, 'gameover');
+      isThinking = true;
+      setTimeout(function() {
+        if (confirm(message + '\n\n¿Quieres jugar otra partida?')) {
+          resetGame();
+        }
+      }, 500);
+    }
+    
+    $('#difficulty').change(function() {
+      setDifficulty(parseInt($(this).val()));
+    });
+    
+    function setDifficulty(level) {
+      $.ajax({
+        url: '/set_difficulty',
+        method: 'POST',
+        contentType: 'application/json',
+        data: JSON.stringify({ difficulty: level }),
+        success: function(response) {
+          if (response.status === 'success') {
+            const elo = response.elo;
+            const eloLabel = getEloLabel(elo);
+            updateStatus(`✅ Dificultad: Nivel ${level} | ELO: ${elo} (${eloLabel})`, 'success');
+            console.log(`🎯 Dificultad cambiada: Nivel ${level} | ELO: ${elo}`);
+          }
+        }
+      });
+    }
+    
+    // Función para obtener etiqueta descriptiva del ELO
+    function getEloLabel(elo) {
+      if (elo <= 400) return '♟️ Novato';
+      if (elo <= 800) return '👶 Aficionado';
+      if (elo <= 1200) return '🎯 Intermedio';
+      if (elo <= 1600) return '🏆 Avanzado';
+      return '👑 Maestro';
+    }
+    
+    $('#resetBtn').click(function() {
+      if (moveCount === 0 || confirm('¿Seguro que quieres reiniciar?')) {
+        resetGame();
+      }
+    });
+    
+    function resetGame() {
+      updateStatus('🔄 Reiniciando...', 'thinking');
+      $.ajax({
+        url: '/reset',
+        method: 'POST',
+        contentType: 'application/json',
+        success: function(response) {
+          if (response.status === 'success') {
+            board.position(response.fen);
+            $('#moveList').empty();
+            moveCount = 0;
+            currentTurn = 'white';
+            isThinking = false;
+            
+            if (gameMode === 'ai') {
+              board.orientation(playerColor === 'white' ? 'white' : 'black');
+              if (playerColor === 'black') {
+                updateStatus('⏳ La IA jugará primero...', 'thinking');
+                setTimeout(makeAIFirstMove, 500);
+              } else {
+                updateStatus('✅ Tu turno. Mueve las Blancas ⚪', 'success');
+              }
+            } else {
+              board.orientation('white');
+              updateStatus('✅ Turno de Blancas ⚪', 'success');
+            }
+          }
+        }
+      });
+    }
+    
+    function updateStatus(message, type) {
+      $('#status').text(message).removeClass('error thinking success gameover check').addClass(type || '');
+    }
+    
+    function addMoveToHistory(moveNum, player, move) {
+      $('<div>').addClass('move-item').text(moveNum + '. ' + player + ': ' + move).appendTo('#moveList');
+      $('#moveList')[0].scrollTop = $('#moveList')[0].scrollHeight;
+    }
+  </script>
+</body>
+</html>
