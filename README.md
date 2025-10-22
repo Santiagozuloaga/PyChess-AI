@@ -93,7 +93,7 @@ PyChess-AI/
 │   └── js/
 ├── requirements.txt        # Dependencias Python
 ├── README.md              # Este archivo
-└── LICENSE                # Licencia del proyecto
+└── LICENSE                # Licencia del proyecto aunque no esta incluida
 ```
 
 ---
@@ -108,7 +108,6 @@ PyChess-AI/
 - **Validación robusta de ELO** con rango 200-3000
 - **Control de timeout** (25s máximo por movimiento)
 - **Soporte para libros de aperturas** (Polyglot format)
-- **Sistema de guardado de partidas** en PGN + JSON metadata
 
 ### Interfaz de Usuario
 - **Arrastrar y soltar** piezas interactivo
@@ -350,5 +349,6 @@ PyChess AI v2.7
 - [python-chess](https://python-chess.readthedocs.io/)
 - [Chessboard.js](https://chessboardjs.com/)
 - [jQuery](https://jquery.com/)
+
 
 Hecho por Santiago Zuloaga Daza
