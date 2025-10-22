@@ -1,0 +1,2383 @@
+[Event "?"]
+[Site "Sicilian defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B20"]
+[Black "B20"]
+[Result "*"]
+[ECO "B20"]
+
+{Sicilian defence} 
+1.e4 c5 *
+
+[Event "?"]
+[Site "Sicilian: Gloria variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B20"]
+[Black "B20"]
+[Result "*"]
+[ECO "B20"]
+
+{Sicilian: Gloria variation} 
+1.e4 c5 2.c4 d6 3.Nc3 Nc6 4.g3 h5 *
+
+[Event "?"]
+[Site "Sicilian: Steinitz variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B20"]
+[Black "B20"]
+[Result "*"]
+[ECO "B20"]
+
+{Sicilian: Steinitz variation} 
+1.e4 c5 2.g3 *
+
+[Event "?"]
+[Site "Sicilian: wing gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B20"]
+[Black "B20"]
+[Result "*"]
+[ECO "B20"]
+
+{Sicilian: wing gambit} 
+1.e4 c5 2.b4 *
+
+[Event "?"]
+[Site "Sicilian: wing gambit, Santasiere vari"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B20"]
+[Black "B20"]
+[Result "*"]
+[ECO "B20"]
+
+{Sicilian: wing gambit, Santasiere variation} 
+1.e4 c5 2.b4 cxb4 3.c4 *
+
+[Event "?"]
+[Site "Sicilian: wing gambit, Marshall variat"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B20"]
+[Black "B20"]
+[Result "*"]
+[ECO "B20"]
+
+{Sicilian: wing gambit, Marshall variation} 
+1.e4 c5 2.b4 cxb4 3.a3 *
+
+[Event "?"]
+[Site "Sicilian: wing gambit, Marienbad varia"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B20"]
+[Black "B20"]
+[Result "*"]
+[ECO "B20"]
+
+{Sicilian: wing gambit, Marienbad variation} 
+1.e4 c5 2.b4 cxb4 3.a3 d5 4.exd5 Qxd5 5.Bb2 *
+
+[Event "?"]
+[Site "Sicilian: wing gambit, Carlsbad variat"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B20"]
+[Black "B20"]
+[Result "*"]
+[ECO "B20"]
+
+{Sicilian: wing gambit, Carlsbad variation} 
+1.e4 c5 2.b4 cxb4 3.a3 bxa3 *
+
+[Event "?"]
+[Site "Sicilian: Keres variation (2.Ne2)"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B20"]
+[Black "B20"]
+[Result "*"]
+[ECO "B20"]
+
+{Sicilian: Keres variation (2.Ne2)} 
+1.e4 c5 2.Ne2 *
+
+[Event "?"]
+[Site "Sicilian: Grand Prix attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B21"]
+[Black "B21"]
+[Result "*"]
+[ECO "B21"]
+
+{Sicilian: Grand Prix attack} 
+1.e4 c5 2.f4 *
+
+[Event "?"]
+[Site "Sicilian: Smith-Morra gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B21"]
+[Black "B21"]
+[Result "*"]
+[ECO "B21"]
+
+{Sicilian: Smith-Morra gambit} 
+1.e4 c5 2.d4 *
+
+[Event "?"]
+[Site "Sicilian: Andreaschek gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B21"]
+[Black "B21"]
+[Result "*"]
+[ECO "B21"]
+
+{Sicilian: Andreaschek gambit} 
+1.e4 c5 2.d4 cxd4 3.Nf3 e5 4.c3 *
+
+[Event "?"]
+[Site "Sicilian: Smith-Morra gambit"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B21"]
+[Black "B21"]
+[Result "*"]
+[ECO "B21"]
+
+{Sicilian: Smith-Morra gambit} 
+1.e4 c5 2.d4 cxd4 3.c3 *
+
+[Event "?"]
+[Site "Sicilian: Smith-Morra gambit, Chicago "]
+[Date "????.??.??"]
+[Round "?"]
+[White "B21"]
+[Black "B21"]
+[Result "*"]
+[ECO "B21"]
+
+{Sicilian: Smith-Morra gambit, Chicago defence} 
+1.e4 c5 2.d4 cxd4 3.c3 dxc3 4.Nxc3 Nc6 5.Nf3 d6 6.Bc4 e6 7.O-O a6 8.Qe2 b5
+9.Bb3 Ra7 *
+
+[Event "?"]
+[Site "Sicilian: Alapin's variation (2.c3)"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B22"]
+[Black "B22"]
+[Result "*"]
+[ECO "B22"]
+
+{Sicilian: Alapin's variation (2.c3)} 
+1.e4 c5 2.c3 *
+
+[Event "?"]
+[Site "Sicilian: 2.c3, Heidenfeld variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B22"]
+[Black "B22"]
+[Result "*"]
+[ECO "B22"]
+
+{Sicilian: 2.c3, Heidenfeld variation} 
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 Nc6 5.Na3 *
+
+[Event "?"]
+[Site "Sicilian: closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B23"]
+[Black "B23"]
+[Result "*"]
+[ECO "B23"]
+
+{Sicilian: closed} 
+1.e4 c5 2.Nc3 *
+
+[Event "?"]
+[Site "Sicilian: closed, Korchnoi variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B23"]
+[Black "B23"]
+[Result "*"]
+[ECO "B23"]
+
+{Sicilian: closed, Korchnoi variation} 
+1.e4 c5 2.Nc3 e6 3.g3 d5 *
+
+[Event "?"]
+[Site "Sicilian: closed, 2...Nc6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B23"]
+[Black "B23"]
+[Result "*"]
+[ECO "B23"]
+
+{Sicilian: closed, 2...Nc6} 
+1.e4 c5 2.Nc3 Nc6 *
+
+[Event "?"]
+[Site "Sicilian: chameleon variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B23"]
+[Black "B23"]
+[Result "*"]
+[ECO "B23"]
+
+{Sicilian: chameleon variation} 
+1.e4 c5 2.Nc3 Nc6 3.Nge2 *
+
+[Event "?"]
+[Site "Sicilian: Grand Prix attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B23"]
+[Black "B23"]
+[Result "*"]
+[ECO "B23"]
+
+{Sicilian: Grand Prix attack} 
+1.e4 c5 2.Nc3 Nc6 3.f4 *
+
+[Event "?"]
+[Site "Sicilian: Grand Prix attack, Schofman "]
+[Date "????.??.??"]
+[Round "?"]
+[White "B23"]
+[Black "B23"]
+[Result "*"]
+[ECO "B23"]
+
+{Sicilian: Grand Prix attack, Schofman variation} 
+1.e4 c5 2.Nc3 Nc6 3.f4 g6 4.Nf3 Bg7 5.Bc4 e6 6.f5 *
+
+[Event "?"]
+[Site "Sicilian: closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B24"]
+[Black "B24"]
+[Result "*"]
+[ECO "B24"]
+
+{Sicilian: closed} 
+1.e4 c5 2.Nc3 Nc6 3.g3 *
+
+[Event "?"]
+[Site "Sicilian: closed, Smyslov variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B24"]
+[Black "B24"]
+[Result "*"]
+[ECO "B24"]
+
+{Sicilian: closed, Smyslov variation} 
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 e6 6.Be3 Nd4 7.Nce2 *
+
+[Event "?"]
+[Site "Sicilian: closed"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B25"]
+[Black "B25"]
+[Result "*"]
+[ECO "B25"]
+
+{Sicilian: closed} 
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 *
+
+[Event "?"]
+[Site "Sicilian: closed, 6.Ne2 e5 (Botvinnik)"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B25"]
+[Black "B25"]
+[Result "*"]
+[ECO "B25"]
+
+{Sicilian: closed, 6.Ne2 e5 (Botvinnik)} 
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Nge2 e5 *
+
+[Event "?"]
+[Site "Sicilian: closed, 6.f4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B25"]
+[Black "B25"]
+[Result "*"]
+[ECO "B25"]
+
+{Sicilian: closed, 6.f4} 
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 *
+
+[Event "?"]
+[Site "Sicilian: closed, 6.f4 e5 (Botvinnik)"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B25"]
+[Black "B25"]
+[Result "*"]
+[ECO "B25"]
+
+{Sicilian: closed, 6.f4 e5 (Botvinnik)} 
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.f4 e5 *
+
+[Event "?"]
+[Site "Sicilian: closed, 6.Be3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B26"]
+[Black "B26"]
+[Result "*"]
+[ECO "B26"]
+
+{Sicilian: closed, 6.Be3} 
+1.e4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.Be3 *
+
+[Event "?"]
+[Site "Sicilian defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B27"]
+[Black "B27"]
+[Result "*"]
+[ECO "B27"]
+
+{Sicilian defence} 
+1.e4 c5 2.Nf3 *
+
+[Event "?"]
+[Site "Sicilian: Stiletto (Althouse) variatio"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B27"]
+[Black "B27"]
+[Result "*"]
+[ECO "B27"]
+
+{Sicilian: Stiletto (Althouse) variation} 
+1.e4 c5 2.Nf3 Qa5 *
+
+[Event "?"]
+[Site "Sicilian: Quinteros variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B27"]
+[Black "B27"]
+[Result "*"]
+[ECO "B27"]
+
+{Sicilian: Quinteros variation} 
+1.e4 c5 2.Nf3 Qc7 *
+
+[Event "?"]
+[Site "Sicilian: Katalimov variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B27"]
+[Black "B27"]
+[Result "*"]
+[ECO "B27"]
+
+{Sicilian: Katalimov variation} 
+1.e4 c5 2.Nf3 b6 *
+
+[Event "?"]
+[Site "Sicilian: Hungarian variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B27"]
+[Black "B27"]
+[Result "*"]
+[ECO "B27"]
+
+{Sicilian: Hungarian variation} 
+1.e4 c5 2.Nf3 g6 *
+
+[Event "?"]
+[Site "Sicilian: Acton extension"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B27"]
+[Black "B27"]
+[Result "*"]
+[ECO "B27"]
+
+{Sicilian: Acton extension} 
+1.e4 c5 2.Nf3 g6 3.c4 Bh6 *
+
+[Event "?"]
+[Site "Sicilian: O'Kelly variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B28"]
+[Black "B28"]
+[Result "*"]
+[ECO "B28"]
+
+{Sicilian: O'Kelly variation} 
+1.e4 c5 2.Nf3 a6 *
+
+[Event "?"]
+[Site "Sicilian: Nimzovich-Rubinstein variati"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B29"]
+[Black "B29"]
+[Result "*"]
+[ECO "B29"]
+
+{Sicilian: Nimzovich-Rubinstein variation} 
+1.e4 c5 2.Nf3 Nf6 *
+
+[Event "?"]
+[Site "Sicilian: Nimzovich-Rubinstein; Rubins"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B29"]
+[Black "B29"]
+[Result "*"]
+[ECO "B29"]
+
+{Sicilian: Nimzovich-Rubinstein; Rubinstein counter-gambit} 
+1.e4 c5 2.Nf3 Nf6 3.e5 Nd5 4.Nc3 e6 5.Nxd5 exd5 6.d4 Nc6 *
+
+[Event "?"]
+[Site "Sicilian defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B30"]
+[Black "B30"]
+[Result "*"]
+[ECO "B30"]
+
+{Sicilian defence} 
+1.e4 c5 2.Nf3 Nc6 *
+
+[Event "?"]
+[Site "Sicilian: Nimzovich-Rossolimo attack ("]
+[Date "????.??.??"]
+[Round "?"]
+[White "B30"]
+[Black "B30"]
+[Result "*"]
+[ECO "B30"]
+
+{Sicilian: Nimzovich-Rossolimo attack (without ...d6)} 
+1.e4 c5 2.Nf3 Nc6 3.Bb5 *
+
+[Event "?"]
+[Site "Sicilian: Nimzovich-Rossolimo attack ("]
+[Date "????.??.??"]
+[Round "?"]
+[White "B31"]
+[Black "B31"]
+[Result "*"]
+[ECO "B31"]
+
+{Sicilian: Nimzovich-Rossolimo attack (with ...g6, without ...d6)} 
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 *
+
+[Event "?"]
+[Site "Sicilian: Nimzovich-Rossolimo attack, "]
+[Date "????.??.??"]
+[Round "?"]
+[White "B31"]
+[Black "B31"]
+[Result "*"]
+[ECO "B31"]
+
+{Sicilian: Nimzovich-Rossolimo attack, Gurgenidze variation} 
+1.e4 c5 2.Nf3 Nc6 3.Bb5 g6 4.O-O Bg7 5.Re1 e5 6.b4 *
+
+[Event "?"]
+[Site "Sicilian defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B32"]
+[Black "B32"]
+[Result "*"]
+[ECO "B32"]
+
+{Sicilian defence} 
+1.e4 c5 2.Nf3 Nc6 3.d4 *
+
+[Event "?"]
+[Site "Sicilian: Flohr variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B32"]
+[Black "B32"]
+[Result "*"]
+[ECO "B32"]
+
+{Sicilian: Flohr variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Qc7 *
+
+[Event "?"]
+[Site "Sicilian: Nimzovich variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B32"]
+[Black "B32"]
+[Result "*"]
+[ECO "B32"]
+
+{Sicilian: Nimzovich variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 d5 *
+
+[Event "?"]
+[Site "Sicilian: Labourdonnais-Loewenthal var"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B32"]
+[Black "B32"]
+[Result "*"]
+[ECO "B32"]
+
+{Sicilian: Labourdonnais-Loewenthal variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 *
+
+[Event "?"]
+[Site "Sicilian: Labourdonnais-Loewenthal (Ka"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B32"]
+[Black "B32"]
+[Result "*"]
+[ECO "B32"]
+
+{Sicilian: Labourdonnais-Loewenthal (Kalashnikov) variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6 *
+
+[Event "?"]
+[Site "Sicilian defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B33"]
+[Black "B33"]
+[Result "*"]
+[ECO "B33"]
+
+{Sicilian defence} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 *
+
+[Event "?"]
+[Site "Sicilian: Pelikan (Lasker/Sveshnikov) "]
+[Date "????.??.??"]
+[Round "?"]
+[White "B33"]
+[Black "B33"]
+[Result "*"]
+[ECO "B33"]
+
+{Sicilian: Pelikan (Lasker/Sveshnikov) variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 *
+
+[Event "?"]
+[Site "Sicilian: Pelikan, Bird variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B33"]
+[Black "B33"]
+[Result "*"]
+[ECO "B33"]
+
+{Sicilian: Pelikan, Bird variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 
+Be6 *
+
+[Event "?"]
+[Site "Sicilian: Pelikan, Chelyabinsk variati"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B33"]
+[Black "B33"]
+[Result "*"]
+[ECO "B33"]
+
+{Sicilian: Pelikan, Chelyabinsk variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 
+b5 *
+
+[Event "?"]
+[Site "Sicilian: Sveshnikov variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B33"]
+[Black "B33"]
+[Result "*"]
+[ECO "B33"]
+
+{Sicilian: Sveshnikov variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6 7.Bg5 a6 8.Na3 
+b5 9.Bxf6 gxf6 10.Nd5 f5 *
+
+[Event "?"]
+[Site "Sicilian: accelerated fianchetto, exch"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B34"]
+[Black "B34"]
+[Result "*"]
+[ECO "B34"]
+
+{Sicilian: accelerated fianchetto, exchange variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nxc6 *
+
+[Event "?"]
+[Site "Sicilian: accelerated fianchetto, mode"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B34"]
+[Black "B34"]
+[Result "*"]
+[ECO "B34"]
+
+{Sicilian: accelerated fianchetto, modern variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 *
+
+[Event "?"]
+[Site "Sicilian: accelerated fianchetto, mode"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B35"]
+[Black "B35"]
+[Result "*"]
+[ECO "B35"]
+
+{Sicilian: accelerated fianchetto, modern variation with Bc4} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Nc3 Bg7 6.Be3 Nf6 7.Bc4 *
+
+[Event "?"]
+[Site "Sicilian: accelerated fianchetto, Maro"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B36"]
+[Black "B36"]
+[Result "*"]
+[ECO "B36"]
+
+{Sicilian: accelerated fianchetto, Maroczy bind} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 *
+
+[Event "?"]
+[Site "Sicilian: accelerated fianchetto, Gurg"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B36"]
+[Black "B36"]
+[Result "*"]
+[ECO "B36"]
+
+{Sicilian: accelerated fianchetto, Gurgenidze variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Nf6 6.Nc3 Nxd4 7.Qxd4 d6 *
+
+[Event "?"]
+[Site "Sicilian: accelerated fianchetto, Maro"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B37"]
+[Black "B37"]
+[Result "*"]
+[ECO "B37"]
+
+{Sicilian: accelerated fianchetto, Maroczy bind, 5...Bg7} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 *
+
+[Event "?"]
+[Site "Sicilian: accelerated fianchetto, Sima"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B37"]
+[Black "B37"]
+[Result "*"]
+[ECO "B37"]
+
+{Sicilian: accelerated fianchetto, Simagin variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Nc2 d6 7.Be2 Nh6 *
+
+[Event "?"]
+[Site "Sicilian: accelerated fianchetto, Maro"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B38"]
+[Black "B38"]
+[Result "*"]
+[ECO "B38"]
+
+{Sicilian: accelerated fianchetto, Maroczy bind, 6.Be3} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Be3 *
+
+[Event "?"]
+[Site "Sicilian: accelerated fianchetto, Brey"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B39"]
+[Black "B39"]
+[Result "*"]
+[ECO "B39"]
+
+{Sicilian: accelerated fianchetto, Breyer variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.c4 Bg7 6.Be3 Nf6 7.Nc3 Ng4 *
+
+[Event "?"]
+[Site "Sicilian defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B40"]
+[Black "B40"]
+[Result "*"]
+[ECO "B40"]
+
+{Sicilian defence} 
+1.e4 c5 2.Nf3 e6 *
+
+[Event "?"]
+[Site "Sicilian: Marshall variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B40"]
+[Black "B40"]
+[Result "*"]
+[ECO "B40"]
+
+{Sicilian: Marshall variation} 
+1.e4 c5 2.Nf3 e6 3.d4 d5 *
+
+[Event "?"]
+[Site "Sicilian defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B40"]
+[Black "B40"]
+[Result "*"]
+[ECO "B40"]
+
+{Sicilian defence} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 *
+
+[Event "?"]
+[Site "Sicilian: Anderssen variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B40"]
+[Black "B40"]
+[Result "*"]
+[ECO "B40"]
+
+{Sicilian: Anderssen variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 *
+
+[Event "?"]
+[Site "Sicilian: Pin variation (Sicilian coun"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B40"]
+[Black "B40"]
+[Result "*"]
+[ECO "B40"]
+
+{Sicilian: Pin variation (Sicilian counter-attack)} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 *
+
+[Event "?"]
+[Site "Sicilian: Pin, Jaffe variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B40"]
+[Black "B40"]
+[Result "*"]
+[ECO "B40"]
+
+{Sicilian: Pin, Jaffe variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Bd3 e5 *
+
+[Event "?"]
+[Site "Sicilian: Pin, Koch variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B40"]
+[Black "B40"]
+[Result "*"]
+[ECO "B40"]
+
+{Sicilian: Pin, Koch variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.e5 *
+
+[Event "?"]
+[Site "Sicilian: Kan variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B41"]
+[Black "B41"]
+[Result "*"]
+[ECO "B41"]
+
+{Sicilian: Kan variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 *
+
+[Event "?"]
+[Site "Sicilian: Kan, Maroczy bind (Reti vari"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B41"]
+[Black "B41"]
+[Result "*"]
+[ECO "B41"]
+
+{Sicilian: Kan, Maroczy bind (Reti variation)} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 *
+
+[Event "?"]
+[Site "Sicilian: Kan, Maroczy bind - Bronstei"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B41"]
+[Black "B41"]
+[Result "*"]
+[ECO "B41"]
+
+{Sicilian: Kan, Maroczy bind - Bronstein variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Bd3 Nc6 8.Bc2 *
+
+[Event "?"]
+[Site "Sicilian: Kan, 5.Bd3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B42"]
+[Black "B42"]
+[Result "*"]
+[ECO "B42"]
+
+{Sicilian: Kan, 5.Bd3} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 *
+
+[Event "?"]
+[Site "Sicilian: Kan, Gipslis variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B42"]
+[Black "B42"]
+[Result "*"]
+[ECO "B42"]
+
+{Sicilian: Kan, Gipslis variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O d6 7.c4 g6 *
+
+[Event "?"]
+[Site "Sicilian: Kan, Polugaievsky variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B42"]
+[Black "B42"]
+[Result "*"]
+[ECO "B42"]
+
+{Sicilian: Kan, Polugaievsky variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5 *
+
+[Event "?"]
+[Site "Sicilian: Kan, Swiss cheese variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B42"]
+[Black "B42"]
+[Result "*"]
+[ECO "B42"]
+
+{Sicilian: Kan, Swiss cheese variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 g6 *
+
+[Event "?"]
+[Site "Sicilian: Kan, 5.Nc3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B43"]
+[Black "B43"]
+[Result "*"]
+[ECO "B43"]
+
+{Sicilian: Kan, 5.Nc3} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3 *
+
+[Event "?"]
+[Site "Sicilian defence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B44"]
+[Black "B44"]
+[Result "*"]
+[ECO "B44"]
+
+{Sicilian defence} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 *
+
+[Event "?"]
+[Site "Sicilian, Szen (`anti-Taimanov') varia"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B44"]
+[Black "B44"]
+[Result "*"]
+[ECO "B44"]
+
+{Sicilian, Szen (`anti-Taimanov') variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 *
+
+[Event "?"]
+[Site "Sicilian, Szen, hedgehog variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B44"]
+[Black "B44"]
+[Result "*"]
+[ECO "B44"]
+
+{Sicilian, Szen, hedgehog variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 
+Be7 9.Be2 O-O 10.O-O b6 *
+
+[Event "?"]
+[Site "Sicilian, Szen variation, Dely-Kasparo"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B44"]
+[Black "B44"]
+[Result "*"]
+[ECO "B44"]
+
+{Sicilian, Szen variation, Dely-Kasparov gambit} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 d5
+*
+
+[Event "?"]
+[Site "Sicilian: Taimanov variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B45"]
+[Black "B45"]
+[Result "*"]
+[ECO "B45"]
+
+{Sicilian: Taimanov variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 *
+
+[Event "?"]
+[Site "Sicilian: Taimanov, American attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B45"]
+[Black "B45"]
+[Result "*"]
+[ECO "B45"]
+
+{Sicilian: Taimanov, American attack} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Nf6 6.Ndb5 Bb4 7.Nd6+ *
+
+[Event "?"]
+[Site "Sicilian: Taimanov variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B46"]
+[Black "B46"]
+[Result "*"]
+[ECO "B46"]
+
+{Sicilian: Taimanov variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6 *
+
+[Event "?"]
+[Site "Sicilian: Taimanov (Bastrikov) variati"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B47"]
+[Black "B47"]
+[Result "*"]
+[ECO "B47"]
+
+{Sicilian: Taimanov (Bastrikov) variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 *
+
+[Event "?"]
+[Site "Sicilian: Taimanov variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B48"]
+[Black "B48"]
+[Result "*"]
+[ECO "B48"]
+
+{Sicilian: Taimanov variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 *
+
+[Event "?"]
+[Site "Sicilian: Taimanov variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B49"]
+[Black "B49"]
+[Result "*"]
+[ECO "B49"]
+
+{Sicilian: Taimanov variation} 
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Be2 *
+
+[Event "?"]
+[Site "Sicilian"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B50"]
+[Black "B50"]
+[Result "*"]
+[ECO "B50"]
+
+{Sicilian} 
+1.e4 c5 2.Nf3 d6 *
+
+[Event "?"]
+[Site "Sicilian: wing gambit deferred"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B50"]
+[Black "B50"]
+[Result "*"]
+[ECO "B50"]
+
+{Sicilian: wing gambit deferred} 
+1.e4 c5 2.Nf3 d6 3.b4 *
+
+[Event "?"]
+[Site "Sicilian: Canal-Sokolsky (Nimzovich-Ro"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B51"]
+[Black "B51"]
+[Result "*"]
+[ECO "B51"]
+
+{Sicilian: Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack} 
+1.e4 c5 2.Nf3 d6 3.Bb5+ *
+
+[Event "?"]
+[Site "Sicilian: Canal-Sokolsky attack, 3...B"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B52"]
+[Black "B52"]
+[Result "*"]
+[ECO "B52"]
+
+{Sicilian: Canal-Sokolsky attack, 3...Bd7} 
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 *
+
+[Event "?"]
+[Site "Sicilian: Canal-Sokolsky attack, Brons"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B52"]
+[Black "B52"]
+[Result "*"]
+[ECO "B52"]
+
+{Sicilian: Canal-Sokolsky attack, Bronstein gambit} 
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.O-O Nc6 6.c3 Nf6 7.d4 *
+
+[Event "?"]
+[Site "Sicilian: Canal-Sokolsky attack, Sokol"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B52"]
+[Black "B52"]
+[Result "*"]
+[ECO "B52"]
+
+{Sicilian: Canal-Sokolsky attack, Sokolsky variation} 
+1.e4 c5 2.Nf3 d6 3.Bb5+ Bd7 4.Bxd7+ Qxd7 5.c4 *
+
+[Event "?"]
+[Site "Sicilian, Chekhover variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B53"]
+[Black "B53"]
+[Result "*"]
+[ECO "B53"]
+
+{Sicilian, Chekhover variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 *
+
+[Event "?"]
+[Site "Sicilian: Chekhover, Zaitsev variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B53"]
+[Black "B53"]
+[Result "*"]
+[ECO "B53"]
+
+{Sicilian: Chekhover, Zaitsev variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Qd7 *
+
+[Event "?"]
+[Site "Sicilian"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B54"]
+[Black "B54"]
+[Result "*"]
+[ECO "B54"]
+
+{Sicilian} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 *
+
+[Event "?"]
+[Site "Sicilian: Prins (Moscow) variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B54"]
+[Black "B54"]
+[Result "*"]
+[ECO "B54"]
+
+{Sicilian: Prins (Moscow) variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 *
+
+[Event "?"]
+[Site "Sicilian: Prins variation, Venice atta"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B55"]
+[Black "B55"]
+[Result "*"]
+[ECO "B55"]
+
+{Sicilian: Prins variation, Venice attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Bb5+ *
+
+[Event "?"]
+[Site "Sicilian"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B56"]
+[Black "B56"]
+[Result "*"]
+[ECO "B56"]
+
+{Sicilian} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 *
+
+[Event "?"]
+[Site "Sicilian: Venice attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B56"]
+[Black "B56"]
+[Result "*"]
+[ECO "B56"]
+
+{Sicilian: Venice attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Bb5+ *
+
+[Event "?"]
+[Site "Sicilian"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B56"]
+[Black "B56"]
+[Result "*"]
+[ECO "B56"]
+
+{Sicilian} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 *
+
+[Event "?"]
+[Site "Sicilian: Sozin, not Scheveningen"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B57"]
+[Black "B57"]
+[Result "*"]
+[ECO "B57"]
+
+{Sicilian: Sozin, not Scheveningen} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 *
+
+[Event "?"]
+[Site "Sicilian: Magnus Smith trap"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B57"]
+[Black "B57"]
+[Result "*"]
+[ECO "B57"]
+
+{Sicilian: Magnus Smith trap} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 g6 7.Nxc6 bxc6 8.e5 
+*
+
+[Event "?"]
+[Site "Sicilian: Sozin, Benko variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B57"]
+[Black "B57"]
+[Result "*"]
+[ECO "B57"]
+
+{Sicilian: Sozin, Benko variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 Qb6 *
+
+[Event "?"]
+[Site "Sicilian: classical"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B58"]
+[Black "B58"]
+[Result "*"]
+[ECO "B58"]
+
+{Sicilian: classical} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 *
+
+[Event "?"]
+[Site "Sicilian: Boleslavsky variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B58"]
+[Black "B58"]
+[Result "*"]
+[ECO "B58"]
+
+{Sicilian: Boleslavsky variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 *
+
+[Event "?"]
+[Site "Sicilian: Boleslavsky, Louma variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B58"]
+[Black "B58"]
+[Result "*"]
+[ECO "B58"]
+
+{Sicilian: Boleslavsky, Louma variation} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nxc6 *
+
+[Event "?"]
+[Site "Sicilian: Boleslavsky variation, 7.Nb3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B59"]
+[Black "B59"]
+[Result "*"]
+[ECO "B59"]
+
+{Sicilian: Boleslavsky variation, 7.Nb3} 
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nb3 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B60"]
+[Black "B60"]
+[Result "*"]
+[ECO "B60"]
+
+{Sicilian: Richter-Rauzer} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Bondarevsky "]
+[Date "????.??.??"]
+[Round "?"]
+[White "B60"]
+[Black "B60"]
+[Result "*"]
+[ECO "B60"]
+
+{Sicilian: Richter-Rauzer, Bondarevsky variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 g6 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Larsen varia"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B60"]
+[Black "B60"]
+[Result "*"]
+[ECO "B60"]
+
+{Sicilian: Richter-Rauzer, Larsen variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Larsen varia"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B61"]
+[Black "B61"]
+[Result "*"]
+[ECO "B61"]
+
+{Sicilian: Richter-Rauzer, Larsen variation, 7.Qd2} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, 6...e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B62"]
+[Black "B62"]
+[Result "*"]
+[ECO "B62"]
+
+{Sicilian: Richter-Rauzer, 6...e6} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Podvebrady v"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B62"]
+[Black "B62"]
+[Result "*"]
+[ECO "B62"]
+
+{Sicilian: Richter-Rauzer, Podvebrady variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nb3 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Margate (Ale"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B62"]
+[Black "B62"]
+[Result "*"]
+[ECO "B62"]
+
+{Sicilian: Richter-Rauzer, Margate (Alekhine) variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Bb5 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Richter atta"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B62"]
+[Black "B62"]
+[Result "*"]
+[ECO "B62"]
+
+{Sicilian: Richter-Rauzer, Richter attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nxc6 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Keres variat"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B62"]
+[Black "B62"]
+[Result "*"]
+[ECO "B62"]
+
+{Sicilian: Richter-Rauzer, Keres variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd3 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Rauzer attac"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B63"]
+[Black "B63"]
+[Result "*"]
+[ECO "B63"]
+
+{Sicilian: Richter-Rauzer, Rauzer attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Rauzer attac"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B63"]
+[Black "B63"]
+[Result "*"]
+[ECO "B63"]
+
+{Sicilian: Richter-Rauzer, Rauzer attack, 7...Be7} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Rauzer attac"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B64"]
+[Black "B64"]
+[Result "*"]
+[ECO "B64"]
+
+{Sicilian: Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O
+O-O 9.f4 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Rauzer attac"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B64"]
+[Black "B64"]
+[Result "*"]
+[ECO "B64"]
+
+{Sicilian: Richter-Rauzer, Rauzer attack, Geller variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O
+O-O 9.f4 e5 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Rauzer attac"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B65"]
+[Black "B65"]
+[Result "*"]
+[ECO "B65"]
+
+{Sicilian: Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O
+O-O 9.f4 Nxd4 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Rauzer attac"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B65"]
+[Black "B65"]
+[Result "*"]
+[ECO "B65"]
+
+{Sicilian: Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O
+O-O 9.f4 Nxd4 10.Qxd4 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Rauzer attac"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B66"]
+[Black "B66"]
+[Result "*"]
+[ECO "B66"]
+
+{Sicilian: Richter-Rauzer, Rauzer attack, 7...a6} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Rauzer attac"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B67"]
+[Black "B67"]
+[Result "*"]
+[ECO "B67"]
+
+{Sicilian: Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O 
+Bd7 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Rauzer attac"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B68"]
+[Black "B68"]
+[Result "*"]
+[ECO "B68"]
+
+{Sicilian: Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O 
+Bd7 9.f4 Be7 *
+
+[Event "?"]
+[Site "Sicilian: Richter-Rauzer, Rauzer attac"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B69"]
+[Black "B69"]
+[Result "*"]
+[ECO "B69"]
+
+{Sicilian: Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O 
+Bd7 9.f4 Be7 10.Nf3 b5 11.Bxf6 *
+
+[Event "?"]
+[Site "Sicilian: dragon variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B70"]
+[Black "B70"]
+[Result "*"]
+[ECO "B70"]
+
+{Sicilian: dragon variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 *
+
+[Event "?"]
+[Site "Sicilian: dragon, Levenfish variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B71"]
+[Black "B71"]
+[Result "*"]
+[ECO "B71"]
+
+{Sicilian: dragon, Levenfish variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.f4 *
+
+[Event "?"]
+[Site "Sicilian: dragon, Levenfish; Flohr var"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B71"]
+[Black "B71"]
+[Result "*"]
+[ECO "B71"]
+
+{Sicilian: dragon, Levenfish; Flohr variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.f4 Nbd7 *
+
+[Event "?"]
+[Site "Sicilian: dragon, 6.Be3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B72"]
+[Black "B72"]
+[Result "*"]
+[ECO "B72"]
+
+{Sicilian: dragon, 6.Be3} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B72"]
+[Black "B72"]
+[Result "*"]
+[ECO "B72"]
+
+{Sicilian: dragon, classical attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical, Amsterdam"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B72"]
+[Black "B72"]
+[Result "*"]
+[ECO "B72"]
+
+{Sicilian: dragon, classical, Amsterdam variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Qd2 *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical, Grigoriev"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B72"]
+[Black "B72"]
+[Result "*"]
+[ECO "B72"]
+
+{Sicilian: dragon, classical, Grigoriev variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Qd2 
+O-O 9.O-O-O *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical, Nottingha"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B72"]
+[Black "B72"]
+[Result "*"]
+[ECO "B72"]
+
+{Sicilian: dragon, classical, Nottingham variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Nb3 *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical, 8.O-O"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B73"]
+[Black "B73"]
+[Result "*"]
+[ECO "B73"]
+
+{Sicilian: dragon, classical, 8.O-O} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical, Zollner g"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B73"]
+[Black "B73"]
+[Result "*"]
+[ECO "B73"]
+
+{Sicilian: dragon, classical, Zollner gambit} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O 
+O-O 9.f4 Qb6 10.e5 *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical, Richter v"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B73"]
+[Black "B73"]
+[Result "*"]
+[ECO "B73"]
+
+{Sicilian: dragon, classical, Richter variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O 
+O-O 9.Qd2 *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical, 9.Nb3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B74"]
+[Black "B74"]
+[Result "*"]
+[ECO "B74"]
+
+{Sicilian: dragon, classical, 9.Nb3} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O 
+O-O 9.Nb3 *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical, Stockholm"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B74"]
+[Black "B74"]
+[Result "*"]
+[ECO "B74"]
+
+{Sicilian: dragon, classical, Stockholm attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O 
+O-O 9.Nb3 Be6 10.f4 Na5 11.f5 Bc4 12.Nxa5 Bxe2 13.Qxe2 Qxa5 14.g4 *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical, Spielmann"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B74"]
+[Black "B74"]
+[Result "*"]
+[ECO "B74"]
+
+{Sicilian: dragon, classical, Spielmann variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O 
+O-O 9.Nb3 Be6 10.f4 Na5 11.f5 Bc4 12.Bd3 *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical, Bernard d"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B74"]
+[Black "B74"]
+[Result "*"]
+[ECO "B74"]
+
+{Sicilian: dragon, classical, Bernard defence} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O 
+O-O 9.Nb3 Be6 10.f4 Na5 11.f5 Bc4 12.Bd3 Bxd3 13.cxd3 d5 *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical, Reti-Tart"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B74"]
+[Black "B74"]
+[Result "*"]
+[ECO "B74"]
+
+{Sicilian: dragon, classical, Reti-Tartakower variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O 
+O-O 9.Nb3 Be6 10.f4 Qc8 *
+
+[Event "?"]
+[Site "Sicilian: dragon, classical, Alekhine "]
+[Date "????.??.??"]
+[Round "?"]
+[White "B74"]
+[Black "B74"]
+[Result "*"]
+[ECO "B74"]
+
+{Sicilian: dragon, classical, Alekhine variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O 
+O-O 9.Nb3 a5 *
+
+[Event "?"]
+[Site "Sicilian: dragon, Yugoslav attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B75"]
+[Black "B75"]
+[Result "*"]
+[ECO "B75"]
+
+{Sicilian: dragon, Yugoslav attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 *
+
+[Event "?"]
+[Site "Sicilian: dragon, Yugoslav attack, 7.."]
+[Date "????.??.??"]
+[Round "?"]
+[White "B76"]
+[Black "B76"]
+[Result "*"]
+[ECO "B76"]
+
+{Sicilian: dragon, Yugoslav attack, 7...O-O} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O *
+
+[Event "?"]
+[Site "Sicilian: dragon, Yugoslav attack, Rau"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B76"]
+[Black "B76"]
+[Result "*"]
+[ECO "B76"]
+
+{Sicilian: dragon, Yugoslav attack, Rauser variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 
+Nc6 9.O-O-O *
+
+[Event "?"]
+[Site "Sicilian: dragon, Yugoslav attack, 9.B"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B77"]
+[Black "B77"]
+[Result "*"]
+[ECO "B77"]
+
+{Sicilian: dragon, Yugoslav attack, 9.Bc4} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 
+Nc6 9.Bc4 *
+
+[Event "?"]
+[Site "Sicilian: dragon, Yugoslav attack, Byr"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B77"]
+[Black "B77"]
+[Result "*"]
+[ECO "B77"]
+
+{Sicilian: dragon, Yugoslav attack, Byrne variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 
+Nc6 9.Bc4 a5 *
+
+[Event "?"]
+[Site "Sicilian: dragon, Yugoslav attack, 9.."]
+[Date "????.??.??"]
+[Round "?"]
+[White "B77"]
+[Black "B77"]
+[Result "*"]
+[ECO "B77"]
+
+{Sicilian: dragon, Yugoslav attack, 9...Bd7} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 
+Nc6 9.Bc4 Bd7 *
+
+[Event "?"]
+[Site "Sicilian: dragon, Yugoslav attack, 10."]
+[Date "????.??.??"]
+[Round "?"]
+[White "B78"]
+[Black "B78"]
+[Result "*"]
+[ECO "B78"]
+
+{Sicilian: dragon, Yugoslav attack, 10.O-O-O} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 
+Nc6 9.Bc4 Bd7 10.O-O-O *
+
+[Event "?"]
+[Site "Sicilian: dragon, Yugoslav attack, 12."]
+[Date "????.??.??"]
+[Round "?"]
+[White "B79"]
+[Black "B79"]
+[Result "*"]
+[ECO "B79"]
+
+{Sicilian: dragon, Yugoslav attack, 12.h4} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 
+Nc6 9.Bc4 Bd7 10.O-O-O Qa5 11.Bb3 Rfc8 12.h4 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B80"]
+[Black "B80"]
+[Result "*"]
+[ECO "B80"]
+
+{Sicilian: Scheveningen variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen, English variat"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B80"]
+[Black "B80"]
+[Result "*"]
+[ECO "B80"]
+
+{Sicilian: Scheveningen, English variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be3 a6 7.Qd2 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen, Vitolins varia"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B80"]
+[Black "B80"]
+[Result "*"]
+[ECO "B80"]
+
+{Sicilian: Scheveningen, Vitolins variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bb5+ *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen, fianchetto var"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B80"]
+[Black "B80"]
+[Result "*"]
+[ECO "B80"]
+
+{Sicilian: Scheveningen, fianchetto variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.g3 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen, Keres attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B81"]
+[Black "B81"]
+[Result "*"]
+[ECO "B81"]
+
+{Sicilian: Scheveningen, Keres attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.g4 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen, 6.f4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B82"]
+[Black "B82"]
+[Result "*"]
+[ECO "B82"]
+
+{Sicilian: Scheveningen, 6.f4} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.f4 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen, Tal variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B82"]
+[Black "B82"]
+[Result "*"]
+[ECO "B82"]
+
+{Sicilian: Scheveningen, Tal variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.f4 Nc6 7.Be3 Be7 8.Qf3 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen, 6.Be2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B83"]
+[Black "B83"]
+[Result "*"]
+[ECO "B83"]
+
+{Sicilian: Scheveningen, 6.Be2} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 *
+
+[Event "?"]
+[Site "Sicilian: modern Scheveningen"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B83"]
+[Black "B83"]
+[Result "*"]
+[ECO "B83"]
+
+{Sicilian: modern Scheveningen} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 Nc6 *
+
+[Event "?"]
+[Site "Sicilian: modern Scheveningen, main li"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B83"]
+[Black "B83"]
+[Result "*"]
+[ECO "B83"]
+
+{Sicilian: modern Scheveningen, main line} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 Nc6 7.O-O Be7 8.Be3 
+O-O 9.f4 *
+
+[Event "?"]
+[Site "Sicilian: modern Scheveningen, main li"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B83"]
+[Black "B83"]
+[Result "*"]
+[ECO "B83"]
+
+{Sicilian: modern Scheveningen, main line with Nb3} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 Nc6 7.O-O Be7 8.Be3 
+O-O 9.f4 Bd7 10.Nb3 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen (Paulsen), clas"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B84"]
+[Black "B84"]
+[Result "*"]
+[ECO "B84"]
+
+{Sicilian: Scheveningen (Paulsen), classical variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 a6 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen, classical, Nd7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B84"]
+[Black "B84"]
+[Result "*"]
+[ECO "B84"]
+
+{Sicilian: Scheveningen, classical, Nd7 system} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 a6 7.O-O Nbd7 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen (Paulsen), clas"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B84"]
+[Black "B84"]
+[Result "*"]
+[ECO "B84"]
+
+{Sicilian: Scheveningen (Paulsen), classical variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 a6 7.O-O Qc7 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen, classical vari"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B85"]
+[Black "B85"]
+[Result "*"]
+[ECO "B85"]
+
+{Sicilian: Scheveningen, classical variation with ...Qc7 and ...Nc6} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 a6 7.O-O Qc7 8.f4 Nc6
+*
+
+[Event "?"]
+[Site "Sicilian: Scheveningen, classical, Mar"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B85"]
+[Black "B85"]
+[Result "*"]
+[ECO "B85"]
+
+{Sicilian: Scheveningen, classical, Maroczy system} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 a6 7.O-O Qc7 8.f4 Nc6
+9.Kh1 Be7 10.a4 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen, classical"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B85"]
+[Black "B85"]
+[Result "*"]
+[ECO "B85"]
+
+{Sicilian: Scheveningen, classical} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 a6 7.O-O Qc7 8.f4 Nc6
+9.Be3 *
+
+[Event "?"]
+[Site "Sicilian: Scheveningen, classical main"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B85"]
+[Black "B85"]
+[Result "*"]
+[ECO "B85"]
+
+{Sicilian: Scheveningen, classical main line} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Be2 a6 7.O-O Qc7 8.f4 Nc6
+9.Be3 Be7 10.Qe1 O-O *
+
+[Event "?"]
+[Site "Sicilian: Sozin attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B86"]
+[Black "B86"]
+[Result "*"]
+[ECO "B86"]
+
+{Sicilian: Sozin attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 *
+
+[Event "?"]
+[Site "Sicilian: Sozin with ...a6 and ...b5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B87"]
+[Black "B87"]
+[Result "*"]
+[ECO "B87"]
+
+{Sicilian: Sozin with ...a6 and ...b5} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 a6 7.Bb3 b5 *
+
+[Event "?"]
+[Site "Sicilian: Sozin, Leonhardt variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B88"]
+[Black "B88"]
+[Result "*"]
+[ECO "B88"]
+
+{Sicilian: Sozin, Leonhardt variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 Nc6 *
+
+[Event "?"]
+[Site "Sicilian: Sozin, Fischer variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B88"]
+[Black "B88"]
+[Result "*"]
+[ECO "B88"]
+
+{Sicilian: Sozin, Fischer variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 Nc6 7.Bb3 Be7 8.Be3 
+O-O 9.f4 *
+
+[Event "?"]
+[Site "Sicilian: Sozin, 7.Be3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B89"]
+[Black "B89"]
+[Result "*"]
+[ECO "B89"]
+
+{Sicilian: Sozin, 7.Be3} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 Nc6 7.Be3 *
+
+[Event "?"]
+[Site "Sicilian: Velimirovic attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B89"]
+[Black "B89"]
+[Result "*"]
+[ECO "B89"]
+
+{Sicilian: Velimirovic attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e6 6.Bc4 Nc6 7.Be3 Be7 8.Qe2 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B90"]
+[Black "B90"]
+[Result "*"]
+[ECO "B90"]
+
+{Sicilian: Najdorf} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, Adams attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B90"]
+[Black "B90"]
+[Result "*"]
+[ECO "B90"]
+
+{Sicilian: Najdorf, Adams attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.h3 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, Lipnitzky attack"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B90"]
+[Black "B90"]
+[Result "*"]
+[ECO "B90"]
+
+{Sicilian: Najdorf, Lipnitzky attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, Byrne (English) att"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B90"]
+[Black "B90"]
+[Result "*"]
+[ECO "B90"]
+
+{Sicilian: Najdorf, Byrne (English) attack} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, Zagreb (fianchetto)"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B91"]
+[Black "B91"]
+[Result "*"]
+[ECO "B91"]
+
+{Sicilian: Najdorf, Zagreb (fianchetto) variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.g3 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, Opovcensky variatio"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B92"]
+[Black "B92"]
+[Result "*"]
+[ECO "B92"]
+
+{Sicilian: Najdorf, Opovcensky variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be2 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, 6.f4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B93"]
+[Black "B93"]
+[Result "*"]
+[ECO "B93"]
+
+{Sicilian: Najdorf, 6.f4} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.f4 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, 6.Bg5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B94"]
+[Black "B94"]
+[Result "*"]
+[ECO "B94"]
+
+{Sicilian: Najdorf, 6.Bg5} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, Ivkov variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B94"]
+[Black "B94"]
+[Result "*"]
+[ECO "B94"]
+
+{Sicilian: Najdorf, Ivkov variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 Nbd7 7.Bc4 Qa5 8.Qd2 
+e6 9.O-O-O b5 10.Bb3 Bb7 11.Rhe1 Nc5 12.e5 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, 6...e6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B95"]
+[Black "B95"]
+[Result "*"]
+[ECO "B95"]
+
+{Sicilian: Najdorf, 6...e6} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, 7.f4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B96"]
+[Black "B96"]
+[Result "*"]
+[ECO "B96"]
+
+{Sicilian: Najdorf, 7.f4} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, Polugayevsky variat"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B96"]
+[Black "B96"]
+[Result "*"]
+[ECO "B96"]
+
+{Sicilian: Najdorf, Polugayevsky variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 b5 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, Polugayevsky, Simag"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B96"]
+[Black "B96"]
+[Result "*"]
+[ECO "B96"]
+
+{Sicilian: Najdorf, Polugayevsky, Simagin variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 b5 8.e5 dxe5 
+9.fxe5 Qc7 10.Qe2 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, 7...Qb6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B97"]
+[Black "B97"]
+[Result "*"]
+[ECO "B97"]
+
+{Sicilian: Najdorf, 7...Qb6} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, Poisoned pawn varia"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B97"]
+[Black "B97"]
+[Result "*"]
+[ECO "B97"]
+
+{Sicilian: Najdorf, Poisoned pawn variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 
+Qxb2 9.Rb1 Qa3 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, 7...Be7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B98"]
+[Black "B98"]
+[Result "*"]
+[ECO "B98"]
+
+{Sicilian: Najdorf, 7...Be7} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, Browne variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B98"]
+[Black "B98"]
+[Result "*"]
+[ECO "B98"]
+
+{Sicilian: Najdorf, Browne variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 h6 
+9.Bh4 Qc7 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf, Goteborg (Argentine"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B98"]
+[Black "B98"]
+[Result "*"]
+[ECO "B98"]
+
+{Sicilian: Najdorf, Goteborg (Argentine) variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 h6 
+9.Bh4 g5 *
+
+[Event "?"]
+[Site "Sicilian: Najdorf variation"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B98"]
+[Black "B98"]
+[Result "*"]
+[ECO "B98"]
+
+{Sicilian: Najdorf variation} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7
+*
+
+[Event "?"]
+[Site "Sicilian: Najdorf, 7...Be7 main line"]
+[Date "????.??.??"]
+[Round "?"]
+[White "B99"]
+[Black "B99"]
+[Result "*"]
+[ECO "B99"]
+
+{Sicilian: Najdorf, 7...Be7 main line} 
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Be7 8.Qf3 Qc7
+9.O-O-O Nbd7 *
+
